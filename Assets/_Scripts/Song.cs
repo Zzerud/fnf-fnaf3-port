@@ -1438,7 +1438,7 @@ public class Song : MonoBehaviour
             //uiCamera.GetUniversalAdditionalCameraData().SetRenderer(0);
             //uiCamera.GetUniversalAdditionalCameraData().renderPostProcessing = true;
             //  DiscordController.instance.EnableGameStateLoop = false;
-            AdLoader.instance.ShowInterstitial();
+            //AdLoader.instance.ShowInterstitial();
             SceneManager.LoadScene("Title", LoadSceneMode.Single);
             //InterstitialAdShows.RequestInterstitial();
             // DiscordController.instance.EnableGameStateLoop = false;
@@ -1470,7 +1470,7 @@ public class Song : MonoBehaviour
     public void OnClickRestartToCheckPoint()
     {
 
-        RewardedAds.instance.ShowRewardedAd();
+        //RewardedAds.instance.ShowRewardedAd();
         
     }
 
@@ -3044,7 +3044,7 @@ public class Song : MonoBehaviour
                 //SceneManager.LoadScene("Title");
                 LoadingTransition.instance.Show(() =>
                 {
-                    AdLoader.instance.ShowInterstitial();
+                    //AdLoader.instance.ShowInterstitial();
                     SceneManager.LoadScene("Title");
                 });
             }
@@ -3131,7 +3131,7 @@ public class Song : MonoBehaviour
                                     {
                                         deathCount = 0;
                                         PlayerPrefs.SetInt("Death", 0);
-                                        AdLoader.instance.ShowInterstitial();
+                                        //AdLoader.instance.ShowInterstitial();
                                     }
                                     SceneManager.LoadScene("Game_Backup3");
                                     //InterstitialAdShows.RequestInterstitial();
@@ -3146,7 +3146,7 @@ public class Song : MonoBehaviour
                             
                             LoadingTransition.instance.Show(() =>
                             {
-                                AdLoader.instance.ShowInterstitial();
+                                //AdLoader.instance.ShowInterstitial();
                                 SceneManager.LoadScene("Title");
                                 //InterstitialAdShows.RequestInterstitial();
                                 //DiscordController.instance.EnableGameStateLoop = false;
