@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: 1a275cfdc6a47d8408a6a5d2f8191279
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3649
+        width: 582
+        height: 474
+      alignment: 9
+      pivot: {x: -0.02233677, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f000e7e684a0bd0800000000000000
+      internalID: -2663236590238691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3678
+        width: 588
+        height: 445
+      alignment: 9
+      pivot: {x: -0.0017006802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42fa14ab63e8460800000000000000
+      internalID: 7245789024079521000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3673
+        width: 586
+        height: 450
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f73e615f0e0ac0800000000000000
+      internalID: -3887152585958231916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 3667
+        width: 582
+        height: 456
+      alignment: 9
+      pivot: {x: -0.0017182131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f9dea47171ffd0800000000000000
+      internalID: -2309940387900688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 3664
+        width: 578
+        height: 459
+      alignment: 9
+      pivot: {x: -0.0034602077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadb6d6145127170800000000000000
+      internalID: 8174619644383713983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 3658
+        width: 574
+        height: 465
+      alignment: 9
+      pivot: {x: -0.005226481, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3625247a3e8cb0800000000000000
+      internalID: -4859882677372306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 3646
+        width: 572
+        height: 477
+      alignment: 9
+      pivot: {x: -0.006993007, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ed3690ab36c440800000000000000
+      internalID: 4955714000869255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3629
+        width: 573
+        height: 494
+      alignment: 9
+      pivot: {x: -0.008726004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c08b25fc20ba30800000000000000
+      internalID: 4228929481609365457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 3612
+        width: 578
+        height: 511
+      alignment: 9
+      pivot: {x: -0.010380623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86cd2324df199e00800000000000000
+      internalID: 1051906983951451791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3087
+        width: 569
+        height: 524
+      alignment: 9
+      pivot: {x: -0.04042179, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56262e7628a6ff000800000000000000
+      internalID: 71893227382399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0010
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3084
+        width: 529
+        height: 527
+      alignment: 9
+      pivot: {x: -0.13799623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ac2b4c1c550cd0800000000000000
+      internalID: -2592564733891795422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0011
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1218
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: -0.34135666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7044e72c5f94b70800000000000000
+      internalID: 8883901955655862194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3102
+        width: 580
+        height: 509
+      alignment: 9
+      pivot: {x: -0.044827588, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b69fdb185d271c0800000000000000
+      internalID: -4507305523829708018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3104
+        width: 597
+        height: 507
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e74be7cf5c7490800000000000000
+      internalID: -7747211946733606708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3098
+        width: 594
+        height: 513
+      alignment: 9
+      pivot: {x: -0.005050505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626a679d6583f290800000000000000
+      internalID: -7857790219093122460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 3099
+        width: 582
+        height: 512
+      alignment: 9
+      pivot: {x: -0.025773196, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc757f8302bbf8040800000000000000
+      internalID: 4652142687166093263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 3098
+        width: 563
+        height: 513
+      alignment: 9
+      pivot: {x: -0.060390763, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414f311604ccad80800000000000000
+      internalID: -8237994088029273787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 3097
+        width: 543
+        height: 514
+      alignment: 9
+      pivot: {x: -0.09944751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e34bd882a580b0800000000000000
+      internalID: -5726992642453805875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 3095
+        width: 524
+        height: 516
+      alignment: 9
+      pivot: {x: -0.13931298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac74d0eb45daa7ae0800000000000000
+      internalID: -1550736542198315062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2565
+        width: 510
+        height: 518
+      alignment: 9
+      pivot: {x: -0.17058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905303fa28dcd840800000000000000
+      internalID: 5250308944584462494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0008
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2558
+        width: 509
+        height: 525
+      alignment: 9
+      pivot: {x: -0.19842829, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c6bff840ce6d50800000000000000
+      internalID: 6732529912725816356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0009
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2541
+        width: 507
+        height: 542
+      alignment: 9
+      pivot: {x: -0.23865877, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfafbe83894ab110800000000000000
+      internalID: 1277414273697427409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0010
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2525
+        width: 489
+        height: 558
+      alignment: 9
+      pivot: {x: -0.30674848, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822f91eb78bb0e30800000000000000
+      internalID: 4470869897301140100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0011
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1218
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: -0.40262583, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b385f298d1c9b520800000000000000
+      internalID: 2718416986017465268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2468
+        width: 440
+        height: 615
+      alignment: 9
+      pivot: {x: -0.12727273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e055fa4a80d16220800000000000000
+      internalID: 2477490562412138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2455
+        width: 430
+        height: 628
+      alignment: 9
+      pivot: {x: -0.19302325, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de036d6154b66bd30800000000000000
+      internalID: 4446859626554994925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 2448
+        width: 419
+        height: 635
+      alignment: 9
+      pivot: {x: -0.2195704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d340f375585ac4e0800000000000000
+      internalID: -1960657563725839407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 2444
+        width: 415
+        height: 639
+      alignment: 9
+      pivot: {x: -0.22409639, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16703848511fc2e00800000000000000
+      internalID: 1021456290226046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 2445
+        width: 420
+        height: 638
+      alignment: 9
+      pivot: {x: -0.20952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bfa4af527db8f0800000000000000
+      internalID: -523136226594671032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 2449
+        width: 428
+        height: 634
+      alignment: 9
+      pivot: {x: -0.18224299, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d430afe7289bca90800000000000000
+      internalID: -7292567874304985901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 2455
+        width: 440
+        height: 628
+      alignment: 9
+      pivot: {x: -0.14090909, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f534f563f811ee40800000000000000
+      internalID: 5683851638384899570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 455
+        height: 619
+      alignment: 9
+      pivot: {x: -0.092307694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05d812020c222c0800000000000000
+      internalID: -4457789436908973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1834
+        width: 464
+        height: 609
+      alignment: 9
+      pivot: {x: -0.056034483, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50be26416b5f400800000000000000
+      internalID: 357391944120993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1845
+        width: 466
+        height: 598
+      alignment: 9
+      pivot: {x: -0.03218884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a2b2068c7ee2b0800000000000000
+      internalID: -5553364375488517885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1858
+        width: 464
+        height: 585
+      alignment: 9
+      pivot: {x: -0.012931035, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7bd25130d2ae10800000000000000
+      internalID: 2207555677627054980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1218
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c4e2831a463690800000000000000
+      internalID: -7622823871617121965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0000
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1809
+        width: 469
+        height: 634
+      alignment: 9
+      pivot: {x: -0.046908315, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a35eaf6c7bd3990800000000000000
+      internalID: -7404560147086493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0001
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1795
+        width: 455
+        height: 648
+      alignment: 9
+      pivot: {x: -0.081318684, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58649ef008bbe290800000000000000
+      internalID: -7859986410234419109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0002
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1790
+        width: 439
+        height: 653
+      alignment: 9
+      pivot: {x: -0.11845102, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b86ddb6c36d0d40800000000000000
+      internalID: 5552203620857318157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0003
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 1791
+        width: 429
+        height: 652
+      alignment: 9
+      pivot: {x: -0.14452215, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b367825eec10b80800000000000000
+      internalID: -8430229543839188189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0004
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1795
+        width: 421
+        height: 648
+      alignment: 9
+      pivot: {x: -0.16627078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe463f578f74ff0800000000000000
+      internalID: -51799685213130890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0005
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 1801
+        width: 414
+        height: 642
+      alignment: 9
+      pivot: {x: -0.18357489, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3535aaacad2c8b0800000000000000
+      internalID: -5133300061273107473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0006
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1809
+        width: 409
+        height: 634
+      alignment: 9
+      pivot: {x: -0.19315404, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869a27256657ad80800000000000000
+      internalID: -8239522000802244992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0007
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1816
+        width: 412
+        height: 627
+      alignment: 9
+      pivot: {x: -0.18203883, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904aa47e2c9c4390800000000000000
+      internalID: -7832713928564391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 423
+        height: 619
+      alignment: 9
+      pivot: {x: -0.14420804, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e8ea7a7b532180800000000000000
+      internalID: -9141362237025755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0009
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1181
+        width: 435
+        height: 608
+      alignment: 9
+      pivot: {x: -0.09885058, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522a3402e36dbbc0800000000000000
+      internalID: -3765743891027189161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0010
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1196
+        width: 448
+        height: 593
+      alignment: 9
+      pivot: {x: -0.04910714, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec60cbfb2f1f900800000000000000
+      internalID: 716620721035857452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0011
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1218
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68476d5982e37310800000000000000
+      internalID: 1401712988647802986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1218
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: -0.0021881838, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ced7ea37082780800000000000000
+      internalID: -8707701929941218994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1248
+        width: 459
+        height: 541
+      alignment: 9
+      pivot: {x: -0.02396514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e2f1ec8906ae30800000000000000
+      internalID: 4514306177176364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1269
+        width: 457
+        height: 520
+      alignment: 9
+      pivot: {x: -0.048140045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01248dc66bc06eb00800000000000000
+      internalID: 857386756710351376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1278
+        width: 457
+        height: 511
+      alignment: 9
+      pivot: {x: -0.059080962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d0d700488ed010800000000000000
+      internalID: 1215558758027024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1279
+        width: 457
+        height: 510
+      alignment: 9
+      pivot: {x: -0.061269145, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41079eb4a72408a0800000000000000
+      internalID: -6339898786905128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1278
+        width: 458
+        height: 511
+      alignment: 9
+      pivot: {x: -0.058951966, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decf1904fb702fc0800000000000000
+      internalID: -3521678620548411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1275
+        width: 458
+        height: 514
+      alignment: 9
+      pivot: {x: -0.05458515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8923037f48d5d560800000000000000
+      internalID: 7338009003613694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1269
+        width: 457
+        height: 520
+      alignment: 9
+      pivot: {x: -0.048140045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8eaad5a0e5be790800000000000000
+      internalID: -7499797355841263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 1243
+        width: 459
+        height: 546
+      alignment: 9
+      pivot: {x: -0.019607844, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36024a42b40c0cf0800000000000000
+      internalID: -284847512634653122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 457
+        height: 571
+      alignment: 9
+      pivot: {x: -0.0021881838, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fbc834c67367700800000000000000
+      internalID: 537678143646646040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0010
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 593
+        width: 455
+        height: 576
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcc8427d27053c0800000000000000
+      internalID: -4372868969820008613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0011
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 591
+        width: 454
+        height: 578
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19a1bc8e73aa5f0800000000000000
+      internalID: -744721315396939343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0012
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 591
+        width: 453
+        height: 578
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f827d30283850780800000000000000
+      internalID: -8717416909272307463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0013
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 592
+        width: 454
+        height: 577
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c396c6ff090ac0800000000000000
+      internalID: -3888559250689767959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0014
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 594
+        width: 455
+        height: 575
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d061fcf6a918f780800000000000000
+      internalID: -8649134879366094639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0000
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 96
+        width: 454
+        height: 494
+      alignment: 9
+      pivot: {x: -0.17180617, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5331aa60ed868d6e0800000000000000
+      internalID: -1812583547212786891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0001
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 626
+        width: 472
+        height: 543
+      alignment: 9
+      pivot: {x: -0.14618644, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780427c41be0d680800000000000000
+      internalID: -8732221202998491021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0002
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 626
+        width: 448
+        height: 543
+      alignment: 9
+      pivot: {x: -0.19866072, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d16621851b75d0800000000000000
+      internalID: -3063831477056580801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0003
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 619
+        width: 468
+        height: 550
+      alignment: 9
+      pivot: {x: -0.14957266, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b365c291aa072df0800000000000000
+      internalID: -205183568953646160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0004
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 616
+        width: 493
+        height: 553
+      alignment: 9
+      pivot: {x: -0.06288032, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179b4cb884ce9670800000000000000
+      internalID: 8547485234349446929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0005
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 680
+        width: 522
+        height: 489
+      alignment: 9
+      pivot: {x: -0.0057471264, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af3d09bd0ced3c0800000000000000
+      internalID: -4332813742223656372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 539
+        height: 489
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463a94ef9cecc2060800000000000000
+      internalID: 6930141293566337892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0007
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 78
+        width: 528
+        height: 512
+      alignment: 9
+      pivot: {x: -0.060606062, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e431e40bc01b27860800000000000000
+      internalID: 7526272595345150798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0008
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 47
+        width: 503
+        height: 543
+      alignment: 9
+      pivot: {x: -0.1471173, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fef3afa9dade690800000000000000
+      internalID: -7571204517404872952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0009
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 26
+        width: 472
+        height: 564
+      alignment: 9
+      pivot: {x: -0.24152543, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc998601cb48690800000000000000
+      internalID: -7600743492434146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0010
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 20
+        width: 459
+        height: 570
+      alignment: 9
+      pivot: {x: -0.28540304, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f14af82a39b5d0800000000000000
+      internalID: -3046339725267700932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0011
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 24
+        width: 464
+        height: 566
+      alignment: 9
+      pivot: {x: -0.26939654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0be3eb825a564ce0800000000000000
+      internalID: -1421349321808024821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0012
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 28
+        width: 470
+        height: 562
+      alignment: 9
+      pivot: {x: -0.24680851, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71037e33eac0df50800000000000000
+      internalID: 6904241306113081723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0013
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 24
+        width: 467
+        height: 566
+      alignment: 9
+      pivot: {x: -0.248394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f650ff4640fa53bd0800000000000000
+      internalID: -2651020372228504209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alive0014
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 20
+        width: 463
+        height: 570
+      alignment: 9
+      pivot: {x: -0.25053996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0910f1676bddfe0800000000000000
+      internalID: -1162572510349127484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead0000
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 96
+        width: 454
+        height: 494
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7151679339bf910800000000000000
+      internalID: 1872251945106085881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dad Sing Note DOWN0000: -2663236590238691572
+      Dad Sing Note DOWN0001: 7245789024079521000
+      Dad Sing Note DOWN0002: -3887152585958231916
+      Dad Sing Note DOWN0003: -2309940387900688523
+      Dad Sing Note DOWN0004: 8174619644383713983
+      Dad Sing Note DOWN0005: -4859882677372306299
+      Dad Sing Note DOWN0006: 4955714000869255256
+      Dad Sing Note DOWN0007: 4228929481609365457
+      Dad Sing Note DOWN0008: 1051906983951451791
+      Dad Sing Note DOWN0009: 71893227382399589
+      Dad Sing Note DOWN0010: -2592564733891795422
+      Dad Sing Note DOWN0011: 8883901955655862194
+      Dad Sing Note LEFT0000: -4507305523829708018
+      Dad Sing Note LEFT0001: -7747211946733606708
+      Dad Sing Note LEFT0002: -7857790219093122460
+      Dad Sing Note LEFT0003: 4652142687166093263
+      Dad Sing Note LEFT0004: -8237994088029273787
+      Dad Sing Note LEFT0005: -5726992642453805875
+      Dad Sing Note LEFT0006: -1550736542198315062
+      Dad Sing Note LEFT0007: 5250308944584462494
+      Dad Sing Note LEFT0008: 6732529912725816356
+      Dad Sing Note LEFT0009: 1277414273697427409
+      Dad Sing Note LEFT0010: 4470869897301140100
+      Dad Sing Note LEFT0011: 2718416986017465268
+      Dad Sing Note RIGHT0000: 2477490562412138726
+      Dad Sing Note RIGHT0001: 4446859626554994925
+      Dad Sing Note RIGHT0002: -1960657563725839407
+      Dad Sing Note RIGHT0003: 1021456290226046817
+      Dad Sing Note RIGHT0004: -523136226594671032
+      Dad Sing Note RIGHT0005: -7292567874304985901
+      Dad Sing Note RIGHT0006: 5683851638384899570
+      Dad Sing Note RIGHT0007: -4457789436908973831
+      Dad Sing Note RIGHT0008: 357391944120993246
+      Dad Sing Note RIGHT0009: -5553364375488517885
+      Dad Sing Note RIGHT0010: 2207555677627054980
+      Dad Sing Note RIGHT0011: -7622823871617121965
+      Dad Sing Note UP0000: -7404560147086493089
+      Dad Sing Note UP0001: -7859986410234419109
+      Dad Sing Note UP0002: 5552203620857318157
+      Dad Sing Note UP0003: -8430229543839188189
+      Dad Sing Note UP0004: -51799685213130890
+      Dad Sing Note UP0005: -5133300061273107473
+      Dad Sing Note UP0006: -8239522000802244992
+      Dad Sing Note UP0007: -7832713928564391788
+      Dad Sing Note UP0008: -9141362237025755003
+      Dad Sing Note UP0009: -3765743891027189161
+      Dad Sing Note UP0010: 716620721035857452
+      Dad Sing Note UP0011: 1401712988647802986
+      Dad idle dance0000: -8707701929941218994
+      Dad idle dance0001: 4514306177176364930
+      Dad idle dance0002: 857386756710351376
+      Dad idle dance0003: 1215558758027024569
+      Dad idle dance0004: -6339898786905128629
+      Dad idle dance0005: -3521678620548411694
+      Dad idle dance0006: 7338009003613694349
+      Dad idle dance0007: -7499797355841263418
+      Dad idle dance0008: -284847512634653122
+      Dad idle dance0009: 537678143646646040
+      Dad idle dance0010: -4372868969820008613
+      Dad idle dance0011: -744721315396939343
+      Dad idle dance0012: -8717416909272307463
+      Dad idle dance0013: -3888559250689767959
+      Dad idle dance0014: -8649134879366094639
+      alive0000: -1812583547212786891
+      alive0001: -8732221202998491021
+      alive0002: -3063831477056580801
+      alive0003: -205183568953646160
+      alive0004: 8547485234349446929
+      alive0005: -4332813742223656372
+      alive0006: 6930141293566337892
+      alive0007: 7526272595345150798
+      alive0008: -7571204517404872952
+      alive0009: -7600743492434146524
+      alive0010: -3046339725267700932
+      alive0011: -1421349321808024821
+      alive0012: 6904241306113081723
+      alive0013: -2651020372228504209
+      alive0014: -1162572510349127484
+      dead0000: 1872251945106085881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

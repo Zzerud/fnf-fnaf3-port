@@ -1,0 +1,2494 @@
+fileFormatVersion: 2
+guid: 92c308bfb4d378c45b0fb3ec3f2085cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sing DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3532
+        width: 287
+        height: 668
+      alignment: 9
+      pivot: {x: -0.06271777, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf998656cf565c0800000000000000
+      internalID: -4222691563113153685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3558
+        width: 283
+        height: 642
+      alignment: 9
+      pivot: {x: -0.109540634, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30667d0f8952528a0800000000000000
+      internalID: -6330612362393459197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3562
+        width: 282
+        height: 638
+      alignment: 9
+      pivot: {x: -0.10992908, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c617c530e1727570800000000000000
+      internalID: 8462951857571436233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3562
+        width: 284
+        height: 638
+      alignment: 9
+      pivot: {x: -0.09154929, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a50ad86fcbfdf00800000000000000
+      internalID: 1143840597499468338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3559
+        width: 289
+        height: 641
+      alignment: 9
+      pivot: {x: -0.065743946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fb0b2c2f05fb2d0800000000000000
+      internalID: -3260798601614278845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3554
+        width: 293
+        height: 646
+      alignment: 9
+      pivot: {x: -0.040955633, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f336bc3eab9db150800000000000000
+      internalID: 5890035060315665395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3547
+        width: 295
+        height: 653
+      alignment: 9
+      pivot: {x: -0.023728814, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cc5d1b9ea14d30800000000000000
+      internalID: 4414001091035580223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3538
+        width: 295
+        height: 662
+      alignment: 9
+      pivot: {x: -0.016949153, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b6f93618d82610800000000000000
+      internalID: 1596763657876190162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 3528
+        width: 296
+        height: 672
+      alignment: 9
+      pivot: {x: -0.006756757, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad36e36e428323a0800000000000000
+      internalID: -6691361348147331673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0009
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 3520
+        width: 295
+        height: 680
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2908f4f83dff2ad00800000000000000
+      internalID: 982628952827723922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0010
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 3515
+        width: 290
+        height: 685
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07797c2fe7f1ab1c0800000000000000
+      internalID: -4487239448621770896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing DOWN0011
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3513
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.003533569, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc5f596b29fc4300800000000000000
+      internalID: 237838845190560974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3515
+        width: 324
+        height: 685
+      alignment: 9
+      pivot: {x: -0.10493827, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172a8ec94b8753d0800000000000000
+      internalID: -3217950259618896106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 3520
+        width: 344
+        height: 680
+      alignment: 9
+      pivot: {x: -0.040697675, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b6ffcfb89614ce0800000000000000
+      internalID: -1422739957306397948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 3520
+        width: 347
+        height: 680
+      alignment: 9
+      pivot: {x: -0.031700287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f32e407848b08f0800000000000000
+      internalID: -573218812122218727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 3520
+        width: 352
+        height: 680
+      alignment: 9
+      pivot: {x: -0.017045455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea8b24fc398c230800000000000000
+      internalID: 3659337215625440939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 3519
+        width: 356
+        height: 681
+      alignment: 9
+      pivot: {x: -0.0056179776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6395a47a06f5e0800000000000000
+      internalID: -1876300698642846572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2830
+        width: 358
+        height: 682
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2afefcdb554de00800000000000000
+      internalID: 1068573285319418558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2829
+        width: 356
+        height: 683
+      alignment: 9
+      pivot: {x: -0.0056179776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf377c7d48eceb380800000000000000
+      internalID: -8953491939214789637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2828
+        width: 346
+        height: 684
+      alignment: 9
+      pivot: {x: -0.03468208, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ab8467e47f7a10800000000000000
+      internalID: 1909373304201519333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0008
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2826
+        width: 329
+        height: 686
+      alignment: 9
+      pivot: {x: -0.0881459, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99467c7d02669b470800000000000000
+      internalID: 8410866070336267417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0009
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2825
+        width: 307
+        height: 687
+      alignment: 9
+      pivot: {x: -0.16612378, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ccb821170d76f80800000000000000
+      internalID: -8113287019623625638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0010
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2824
+        width: 289
+        height: 688
+      alignment: 9
+      pivot: {x: -0.25605536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191d6a9222b53260800000000000000
+      internalID: 7076758251172075799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing LEFT0011
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2825
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.3286219, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88722049c1e8bba70800000000000000
+      internalID: 8843818546665498504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2838
+        width: 242
+        height: 674
+      alignment: 9
+      pivot: {x: -0.29338843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f2bd1b1a2c6bf0800000000000000
+      internalID: -329842376754139063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2853
+        width: 286
+        height: 659
+      alignment: 9
+      pivot: {x: -0.26573426, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f850e2ac49bf6e0800000000000000
+      internalID: -1802683629755330795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 2842
+        width: 295
+        height: 670
+      alignment: 9
+      pivot: {x: -0.25762713, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b574217bf965fc40800000000000000
+      internalID: 5545455044832556472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2839
+        width: 291
+        height: 673
+      alignment: 9
+      pivot: {x: -0.2611684, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65efcf211f33ddef0800000000000000
+      internalID: -81852107724095914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 2842
+        width: 282
+        height: 670
+      alignment: 9
+      pivot: {x: -0.26950353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36476a253b379db00800000000000000
+      internalID: 853840818386400355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 2849
+        width: 268
+        height: 663
+      alignment: 9
+      pivot: {x: -0.2835821, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163fcf6086657f6b0800000000000000
+      internalID: -5262642634765307039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 2846
+        width: 248
+        height: 666
+      alignment: 9
+      pivot: {x: -0.30645162, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a720303e556de0800000000000000
+      internalID: -1340561753013509006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 2840
+        width: 233
+        height: 672
+      alignment: 9
+      pivot: {x: -0.30472103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07eac0a8dae08d0800000000000000
+      internalID: -2878172303413317447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 2835
+        width: 229
+        height: 677
+      alignment: 9
+      pivot: {x: -0.24017467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ceeeb754d300e60800000000000000
+      internalID: 7926402712813366367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 2830
+        width: 240
+        height: 682
+      alignment: 9
+      pivot: {x: -0.175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41334a641d9f3760800000000000000
+      internalID: 7439837820447043918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 4899
+        y: 2826
+        width: 252
+        height: 686
+      alignment: 9
+      pivot: {x: -0.11904762, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec2a38b3bfcb5c0800000000000000
+      internalID: -4198204519586017745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing RIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e69144e9874ea50800000000000000
+      internalID: 6549492379246227088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0000
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2133
+        width: 289
+        height: 690
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7b2b6f6e2bf180800000000000000
+      internalID: -9080613167588213010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0001
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2133
+        width: 270
+        height: 690
+      alignment: 9
+      pivot: {x: -0.062962964, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820edcd883b06c9d0800000000000000
+      internalID: -2754501784565325784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0002
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2139
+        width: 267
+        height: 684
+      alignment: 9
+      pivot: {x: -0.056179777, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53ddd2c2385cb60800000000000000
+      internalID: 7765757358241560041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0003
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 2141
+        width: 267
+        height: 682
+      alignment: 9
+      pivot: {x: -0.06367041, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496e1cece20897210800000000000000
+      internalID: 1331236103390357140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0004
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2140
+        width: 267
+        height: 683
+      alignment: 9
+      pivot: {x: -0.07865169, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20208e56648bbb740800000000000000
+      internalID: 5168927609834701314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0005
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2136
+        width: 269
+        height: 687
+      alignment: 9
+      pivot: {x: -0.08178439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de064651e8cf83b30800000000000000
+      internalID: 4267438334108000493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0006
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2135
+        width: 272
+        height: 688
+      alignment: 9
+      pivot: {x: -0.073529415, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc297b4a2bfe7a80800000000000000
+      internalID: -8467054090336523013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0007
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2138
+        width: 273
+        height: 685
+      alignment: 9
+      pivot: {x: -0.07692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc570ea8d9abdb50800000000000000
+      internalID: 6619070825448824050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0008
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 2135
+        width: 274
+        height: 688
+      alignment: 9
+      pivot: {x: -0.08029197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ff92c88c44e360800000000000000
+      internalID: 7197962254709421007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0009
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2134
+        width: 276
+        height: 689
+      alignment: 9
+      pivot: {x: -0.07608695, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef2969e639b2080800000000000000
+      internalID: -9211106509674316204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0010
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2133
+        width: 281
+        height: 690
+      alignment: 9
+      pivot: {x: -0.071174376, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2be1527e1776ea30800000000000000
+      internalID: 4244210671493966639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sing UP0011
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2136
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.06713781, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5d17f9b266bc90800000000000000
+      internalID: -7154422407177086376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0000
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2135
+        width: 284
+        height: 688
+      alignment: 9
+      pivot: {x: -0.017605634, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07e327629ff16d0800000000000000
+      internalID: -3017419281794174750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0001
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 2136
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.021201413, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af8a22efe57ac20800000000000000
+      internalID: 3217644904375712336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0002
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 2136
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.021201413, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de539f853d587e50800000000000000
+      internalID: 6807293321393954518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0003
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 2136
+        width: 281
+        height: 687
+      alignment: 9
+      pivot: {x: -0.024911031, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364907f6a34940440800000000000000
+      internalID: 4901205273184605283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0004
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 2136
+        width: 280
+        height: 687
+      alignment: 9
+      pivot: {x: -0.028571429, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6feff22da4bd00800000000000000
+      internalID: 987604584135355787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0005
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2136
+        width: 279
+        height: 687
+      alignment: 9
+      pivot: {x: -0.028673835, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ec4196875c78d0800000000000000
+      internalID: -2847304628930026544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 279
+        height: 686
+      alignment: 9
+      pivot: {x: -0.028673835, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9cb1eeec5a56250800000000000000
+      internalID: 5937333991934511538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0007
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1447
+        width: 278
+        height: 685
+      alignment: 9
+      pivot: {x: -0.035971224, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0578e1c8b9ff79c0800000000000000
+      internalID: -3927145778121247477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0008
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1447
+        width: 277
+        height: 685
+      alignment: 9
+      pivot: {x: -0.039711192, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af21980e4fc97a0800000000000000
+      internalID: -6368946527799150040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0009
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1448
+        width: 277
+        height: 684
+      alignment: 9
+      pivot: {x: -0.0433213, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d0f1181939f070800000000000000
+      internalID: 8140600576991875299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0010
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1448
+        width: 278
+        height: 684
+      alignment: 9
+      pivot: {x: -0.043165468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ded07bcd58fe40800000000000000
+      internalID: 5690401257536018324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0011
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1449
+        width: 279
+        height: 683
+      alignment: 9
+      pivot: {x: -0.039426524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b760c339ece51570800000000000000
+      internalID: 8436909963288274867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0012
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1450
+        width: 281
+        height: 682
+      alignment: 9
+      pivot: {x: -0.03202847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54c705199302370800000000000000
+      internalID: 8295693809899816380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0013
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1451
+        width: 282
+        height: 681
+      alignment: 9
+      pivot: {x: -0.024822695, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71410ad17f5b850800000000000000
+      internalID: 6392286952734070705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0014
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1452
+        width: 283
+        height: 680
+      alignment: 9
+      pivot: {x: -0.017667845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2f18611d1b85370800000000000000
+      internalID: 8311588623896146631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0015
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1451
+        width: 285
+        height: 681
+      alignment: 9
+      pivot: {x: -0.007017544, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ad10d5800dedb0800000000000000
+      internalID: -4761148656338492246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0016
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1450
+        width: 285
+        height: 682
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451deab1841d629f0800000000000000
+      internalID: -493477001518198444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0017
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1448
+        width: 285
+        height: 684
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b6ab7d2ce6f9d80800000000000000
+      internalID: -8241747009942688959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0018
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1447
+        width: 283
+        height: 685
+      alignment: 9
+      pivot: {x: -0.003533569, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761e1a83974ec0910800000000000000
+      internalID: 1805068759961035111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0019
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 1445
+        width: 282
+        height: 687
+      alignment: 9
+      pivot: {x: -0.0070921984, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ac93749290a5b0800000000000000
+      internalID: -5359122390278429541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0020
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 1445
+        width: 282
+        height: 687
+      alignment: 9
+      pivot: {x: -0.010638298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db90412d07ccc840800000000000000
+      internalID: 5245786525186169809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0021
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 1444
+        width: 282
+        height: 688
+      alignment: 9
+      pivot: {x: -0.014184397, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128bc509b08875630800000000000000
+      internalID: 3915747984269948961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0022
+      rect:
+        serializedVersion: 2
+        x: 4514
+        y: 1444
+        width: 282
+        height: 688
+      alignment: 9
+      pivot: {x: -0.017730497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d311600fd89800800000000000000
+      internalID: 619490141485126539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0023
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 1444
+        width: 283
+        height: 688
+      alignment: 9
+      pivot: {x: -0.017667845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deda1f45262a157f0800000000000000
+      internalID: -625540330012168723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.03533569, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91477785a15e818d0800000000000000
+      internalID: -2875296460759927783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0001
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 755
+        width: 284
+        height: 688
+      alignment: 9
+      pivot: {x: -0.03169014, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8fc924dc53ead0800000000000000
+      internalID: -2674191687423652616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0002
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 754
+        width: 286
+        height: 689
+      alignment: 9
+      pivot: {x: -0.024475524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605df02dffe645230800000000000000
+      internalID: 3626645644960060678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0003
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 754
+        width: 289
+        height: 689
+      alignment: 9
+      pivot: {x: -0.013840831, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3eeafc460e92e00800000000000000
+      internalID: 1020593514161824729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0004
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 755
+        width: 293
+        height: 688
+      alignment: 9
+      pivot: {x: -0.0034129692, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d4c45b9037d830800000000000000
+      internalID: 4095795829817004247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0005
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 756
+        width: 301
+        height: 687
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2053ad5d092b290800000000000000
+      internalID: -7876073550154235159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0006
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 758
+        width: 312
+        height: 685
+      alignment: 9
+      pivot: {x: -0.0032051282, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88172d3342526f0800000000000000
+      internalID: -710121561248397130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0007
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 760
+        width: 318
+        height: 683
+      alignment: 9
+      pivot: {x: -0.018867925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885df0592f6527ed0800000000000000
+      internalID: -2417774450061617784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0008
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 761
+        width: 319
+        height: 682
+      alignment: 9
+      pivot: {x: -0.037617553, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03955f4c0ebc49050800000000000000
+      internalID: 5806489985824938288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0009
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 760
+        width: 314
+        height: 683
+      alignment: 9
+      pivot: {x: -0.05732484, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935da70a804d8720800000000000000
+      internalID: 2850005100773856147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0010
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 759
+        width: 304
+        height: 684
+      alignment: 9
+      pivot: {x: -0.078947365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328e55d492a56f90800000000000000
+      internalID: -6960978888912633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0011
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 758
+        width: 293
+        height: 685
+      alignment: 9
+      pivot: {x: -0.09897611, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ce96dee9b47f50800000000000000
+      internalID: 6878326966355674858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0012
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 756
+        width: 285
+        height: 687
+      alignment: 9
+      pivot: {x: -0.10877193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394101cccd951ab0800000000000000
+      internalID: -5037947105407055560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0013
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 755
+        width: 279
+        height: 688
+      alignment: 9
+      pivot: {x: -0.11469534, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010f913bc2b86ac0800000000000000
+      internalID: -3861640094689591027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0014
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 754
+        width: 277
+        height: 689
+      alignment: 9
+      pivot: {x: -0.11191336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5685aa0add0b1c0800000000000000
+      internalID: -4489845146365958693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0015
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 754
+        width: 277
+        height: 689
+      alignment: 9
+      pivot: {x: -0.10469314, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd3980d4e5ea5fe0800000000000000
+      internalID: -1199393579826856525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0016
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 754
+        width: 277
+        height: 689
+      alignment: 9
+      pivot: {x: -0.09747292, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc7a8d9fb4f99e0800000000000000
+      internalID: -1612486605121532081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0017
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 755
+        width: 280
+        height: 688
+      alignment: 9
+      pivot: {x: -0.08214286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b1f5ee05dfa1e0800000000000000
+      internalID: -2184293034287319833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 282
+        height: 688
+      alignment: 9
+      pivot: {x: -0.07446808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d5b3312f592d60800000000000000
+      internalID: 7865922820385397135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0019
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 65
+        width: 284
+        height: 688
+      alignment: 9
+      pivot: {x: -0.06338028, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04ece2f559c1d80800000000000000
+      internalID: -8278577778974113588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0020
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 66
+        width: 284
+        height: 687
+      alignment: 9
+      pivot: {x: -0.059859157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c9dfcd9f598000800000000000000
+      internalID: 38667203211019785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0021
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 66
+        width: 285
+        height: 687
+      alignment: 9
+      pivot: {x: -0.056140352, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e28005ad175ab0800000000000000
+      internalID: -5019510665165740135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0022
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.052447554, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd8f657654182b0800000000000000
+      internalID: -5584105752819606542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0023
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.04895105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71ef1db96733d570800000000000000
+      internalID: 8490190649807593852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0024
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.04895105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086745f4f74e05af0800000000000000
+      internalID: -409576330647800192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0025
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.045454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e310d029145f450800000000000000
+      internalID: 6121871364019273345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0026
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.03846154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104cf24ed11709f0800000000000000
+      internalID: -502413187124281327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0027
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 66
+        width: 286
+        height: 687
+      alignment: 9
+      pivot: {x: -0.034965035, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161349656e61e600800000000000000
+      internalID: 495798815824221719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0028
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 67
+        width: 285
+        height: 686
+      alignment: 9
+      pivot: {x: -0.031578947, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263f285a62847a60800000000000000
+      internalID: 7670899458576430631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0029
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 67
+        width: 284
+        height: 686
+      alignment: 9
+      pivot: {x: -0.028169014, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813c80494fd092da0800000000000000
+      internalID: -5969224486996098280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0030
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 67
+        width: 282
+        height: 686
+      alignment: 9
+      pivot: {x: -0.028368793, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442d595f06dc16510800000000000000
+      internalID: 1540738363858211396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0031
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 67
+        width: 278
+        height: 686
+      alignment: 9
+      pivot: {x: -0.0323741, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9a3efad91c3dc80800000000000000
+      internalID: -8299076805308732959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0032
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 66
+        width: 279
+        height: 687
+      alignment: 9
+      pivot: {x: -0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb781bd296ce82d0800000000000000
+      internalID: -3274461545008432149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0033
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 66
+        width: 281
+        height: 687
+      alignment: 9
+      pivot: {x: -0.035587188, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed90caf89ee6820800000000000000
+      internalID: 2913522812231212578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follow me0034
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 66
+        width: 283
+        height: 687
+      alignment: 9
+      pivot: {x: -0.03533569, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22caba1e11b5c6040800000000000000
+      internalID: 4642185448270834722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sing DOWN0000: -4222691563113153685
+      Sing DOWN0001: -6330612362393459197
+      Sing DOWN0002: 8462951857571436233
+      Sing DOWN0003: 1143840597499468338
+      Sing DOWN0004: -3260798601614278845
+      Sing DOWN0005: 5890035060315665395
+      Sing DOWN0006: 4414001091035580223
+      Sing DOWN0007: 1596763657876190162
+      Sing DOWN0008: -6691361348147331673
+      Sing DOWN0009: 982628952827723922
+      Sing DOWN0010: -4487239448621770896
+      Sing DOWN0011: 237838845190560974
+      Sing LEFT0000: -3217950259618896106
+      Sing LEFT0001: -1422739957306397948
+      Sing LEFT0002: -573218812122218727
+      Sing LEFT0003: 3659337215625440939
+      Sing LEFT0004: -1876300698642846572
+      Sing LEFT0005: 1068573285319418558
+      Sing LEFT0006: -8953491939214789637
+      Sing LEFT0007: 1909373304201519333
+      Sing LEFT0008: 8410866070336267417
+      Sing LEFT0009: -8113287019623625638
+      Sing LEFT0010: 7076758251172075799
+      Sing LEFT0011: 8843818546665498504
+      Sing RIGHT0000: -329842376754139063
+      Sing RIGHT0001: -1802683629755330795
+      Sing RIGHT0002: 5545455044832556472
+      Sing RIGHT0003: -81852107724095914
+      Sing RIGHT0004: 853840818386400355
+      Sing RIGHT0005: -5262642634765307039
+      Sing RIGHT0006: -1340561753013509006
+      Sing RIGHT0007: -2878172303413317447
+      Sing RIGHT0008: 7926402712813366367
+      Sing RIGHT0009: 7439837820447043918
+      Sing RIGHT0010: -4198204519586017745
+      Sing RIGHT0011: 6549492379246227088
+      Sing UP0000: -9080613167588213010
+      Sing UP0001: -2754501784565325784
+      Sing UP0002: 7765757358241560041
+      Sing UP0003: 1331236103390357140
+      Sing UP0004: 5168927609834701314
+      Sing UP0005: 4267438334108000493
+      Sing UP0006: -8467054090336523013
+      Sing UP0007: 6619070825448824050
+      Sing UP0008: 7197962254709421007
+      Sing UP0009: -9211106509674316204
+      Sing UP0010: 4244210671493966639
+      Sing UP0011: -7154422407177086376
+      follow me0000: -2875296460759927783
+      follow me0001: -2674191687423652616
+      follow me0002: 3626645644960060678
+      follow me0003: 1020593514161824729
+      follow me0004: 4095795829817004247
+      follow me0005: -7876073550154235159
+      follow me0006: -710121561248397130
+      follow me0007: -2417774450061617784
+      follow me0008: 5806489985824938288
+      follow me0009: 2850005100773856147
+      follow me0010: -6960978888912633293
+      follow me0011: 6878326966355674858
+      follow me0012: -5037947105407055560
+      follow me0013: -3861640094689591027
+      follow me0014: -4489845146365958693
+      follow me0015: -1199393579826856525
+      follow me0016: -1612486605121532081
+      follow me0017: -2184293034287319833
+      follow me0018: 7865922820385397135
+      follow me0019: -8278577778974113588
+      follow me0020: 38667203211019785
+      follow me0021: -5019510665165740135
+      follow me0022: -5584105752819606542
+      follow me0023: 8490190649807593852
+      follow me0024: -409576330647800192
+      follow me0025: 6121871364019273345
+      follow me0026: -502413187124281327
+      follow me0027: 495798815824221719
+      follow me0028: 7670899458576430631
+      follow me0029: -5969224486996098280
+      follow me0030: 1540738363858211396
+      follow me0031: -8299076805308732959
+      follow me0032: -3274461545008432149
+      follow me0033: 2913522812231212578
+      follow me0034: 4642185448270834722
+      idle0000: -3017419281794174750
+      idle0001: 3217644904375712336
+      idle0002: 6807293321393954518
+      idle0003: 4901205273184605283
+      idle0004: 987604584135355787
+      idle0005: -2847304628930026544
+      idle0006: 5937333991934511538
+      idle0007: -3927145778121247477
+      idle0008: -6368946527799150040
+      idle0009: 8140600576991875299
+      idle0010: 5690401257536018324
+      idle0011: 8436909963288274867
+      idle0012: 8295693809899816380
+      idle0013: 6392286952734070705
+      idle0014: 8311588623896146631
+      idle0015: -4761148656338492246
+      idle0016: -493477001518198444
+      idle0017: -8241747009942688959
+      idle0018: 1805068759961035111
+      idle0019: -5359122390278429541
+      idle0020: 5245786525186169809
+      idle0021: 3915747984269948961
+      idle0022: 619490141485126539
+      idle0023: -625540330012168723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

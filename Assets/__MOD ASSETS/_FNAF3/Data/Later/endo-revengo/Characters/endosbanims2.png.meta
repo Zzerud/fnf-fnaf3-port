@@ -1,0 +1,4650 @@
+fileFormatVersion: 2
+guid: b76f33e6e4e632843bb967a737d4843a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7671
+        width: 524
+        height: 520
+      alignment: 9
+      pivot: {x: -0.31870228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07e327629ff16d0800000000000000
+      internalID: -3017419281794174750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7671
+        width: 524
+        height: 520
+      alignment: 9
+      pivot: {x: -0.31870228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1a26149e3ada10800000000000000
+      internalID: 1934927795656989538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0001
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7665
+        width: 514
+        height: 526
+      alignment: 9
+      pivot: {x: -0.3249027, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708914adc97f3a070800000000000000
+      internalID: 8116603206500456455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0002
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 7669
+        width: 495
+        height: 522
+      alignment: 9
+      pivot: {x: -0.33737373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354c94774618aa840800000000000000
+      internalID: 5236139785269658707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0003
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 7704
+        width: 491
+        height: 487
+      alignment: 9
+      pivot: {x: -0.3299389, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df83b4fabd5f3ea0800000000000000
+      internalID: -5890886730026610729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0004
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 7750
+        width: 511
+        height: 441
+      alignment: 9
+      pivot: {x: -0.30136988, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275b7f7c51051870800000000000000
+      internalID: 8652823755849684779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0005
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 7767
+        width: 516
+        height: 424
+      alignment: 9
+      pivot: {x: -0.29263565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e82bc44eca8cf90800000000000000
+      internalID: -6933101529797587335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0006
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 7725
+        width: 514
+        height: 466
+      alignment: 9
+      pivot: {x: -0.2626459, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723137d1ae1f05680800000000000000
+      internalID: -8768242486671633625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0007
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 7676
+        width: 532
+        height: 515
+      alignment: 9
+      pivot: {x: -0.17481203, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95be20702acfeeb0800000000000000
+      internalID: -4688306446399523427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0008
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 7650
+        width: 554
+        height: 541
+      alignment: 9
+      pivot: {x: -0.17148015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbe8dd73e305650800000000000000
+      internalID: 6219539495059898213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0009
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 7632
+        width: 460
+        height: 559
+      alignment: 9
+      pivot: {x: -0.44347826, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7f5425b36611e0800000000000000
+      internalID: -2227483336037663036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0010
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 7624
+        width: 397
+        height: 567
+      alignment: 9
+      pivot: {x: -0.581864, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4bb508fffc1a980800000000000000
+      internalID: -8529307522985904976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0011
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 7618
+        width: 392
+        height: 573
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d07465eb296a9c0800000000000000
+      internalID: -3916281479763128954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0012
+      rect:
+        serializedVersion: 2
+        x: 5913
+        y: 7612
+        width: 392
+        height: 579
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19760fae328008590800000000000000
+      internalID: -7674124814680823919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0013
+      rect:
+        serializedVersion: 2
+        x: 6306
+        y: 7607
+        width: 392
+        height: 584
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a9e1d399107d140800000000000000
+      internalID: 4744262490125146636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0014
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 7607
+        width: 392
+        height: 584
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59942c95961674480800000000000000
+      internalID: -8915049832251242091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0015
+      rect:
+        serializedVersion: 2
+        x: 7092
+        y: 7611
+        width: 392
+        height: 580
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b521651d544c7d0800000000000000
+      internalID: -2899115494725231790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7033
+        width: 392
+        height: 573
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e73d0954da3f910800000000000000
+      internalID: 1870028784583016089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0017
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7040
+        width: 413
+        height: 566
+      alignment: 9
+      pivot: {x: -0.5084746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4383b9fd7336bd10800000000000000
+      internalID: 2140955289014469450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0018
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 7052
+        width: 456
+        height: 554
+      alignment: 9
+      pivot: {x: -0.36622807, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d636f3a245bc1b20800000000000000
+      internalID: 3106557140802090712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0019
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 7069
+        width: 481
+        height: 537
+      alignment: 9
+      pivot: {x: -0.2952183, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a93953b49f60670800000000000000
+      internalID: 8504759047752489575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0020
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 7081
+        width: 493
+        height: 525
+      alignment: 9
+      pivot: {x: -0.27789047, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fdf04f155d7c180800000000000000
+      internalID: -9095066374487679073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0021
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 7082
+        width: 501
+        height: 524
+      alignment: 9
+      pivot: {x: -0.27944112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962db2d1b00838b10800000000000000
+      internalID: 1982569046195556969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0022
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 7085
+        width: 509
+        height: 521
+      alignment: 9
+      pivot: {x: -0.2730845, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40deb67a239e83740800000000000000
+      internalID: 5132108179155184900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0023
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 7086
+        width: 521
+        height: 520
+      alignment: 9
+      pivot: {x: -0.2571977, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7729f2c2a3bf6430800000000000000
+      internalID: 3778436124024317822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0024
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 7089
+        width: 533
+        height: 517
+      alignment: 9
+      pivot: {x: -0.23827392, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f68490e2b3aff70800000000000000
+      internalID: 9221748255904788255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0025
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 7091
+        width: 534
+        height: 515
+      alignment: 9
+      pivot: {x: -0.23220974, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e1bc9745997770800000000000000
+      internalID: 8609076297499534858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0026
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 7092
+        width: 538
+        height: 514
+      alignment: 9
+      pivot: {x: -0.23605949, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9400a1755a18cbd30800000000000000
+      internalID: 4448573079066116169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0027
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 7097
+        width: 545
+        height: 509
+      alignment: 9
+      pivot: {x: -0.26055047, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519b52f573455d20800000000000000
+      internalID: 3266591278583484754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0028
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 7106
+        width: 534
+        height: 500
+      alignment: 9
+      pivot: {x: -0.31835207, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092caadc707e61b0800000000000000
+      internalID: -5661464000011163387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0029
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 7107
+        width: 519
+        height: 499
+      alignment: 9
+      pivot: {x: -0.36223507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e091f770f010910800000000000000
+      internalID: 1801737850796445288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0030
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 7107
+        width: 505
+        height: 499
+      alignment: 9
+      pivot: {x: -0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b37f876d2c2a8520800000000000000
+      internalID: 2705023099712009145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6534
+        width: 490
+        height: 498
+      alignment: 9
+      pivot: {x: -0.4408163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5445fb8e619d80800000000000000
+      internalID: -8245687895344260498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0032
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 6539
+        width: 479
+        height: 493
+      alignment: 9
+      pivot: {x: -0.47181627, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9bc7226346fad0800000000000000
+      internalID: -2668871640316928156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0033
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 6549
+        width: 472
+        height: 483
+      alignment: 9
+      pivot: {x: -0.4894068, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8130a77f8c9c91a00800000000000000
+      internalID: 727834679779656472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0034
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 6565
+        width: 469
+        height: 467
+      alignment: 9
+      pivot: {x: -0.49253732, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee66db5665ad2bb00800000000000000
+      internalID: 842976144880658158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0035
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 6587
+        width: 466
+        height: 445
+      alignment: 9
+      pivot: {x: -0.49570817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64185db7d9e945e0800000000000000
+      internalID: -1924750252920269716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0036
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 6601
+        width: 459
+        height: 431
+      alignment: 9
+      pivot: {x: -0.503268, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221258953a0e96300800000000000000
+      internalID: 245974646854590754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0037
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 6607
+        width: 447
+        height: 425
+      alignment: 9
+      pivot: {x: -0.5167785, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8bacc8cc1f92830800000000000000
+      internalID: 4047031601006819506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0038
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 6613
+        width: 430
+        height: 419
+      alignment: 9
+      pivot: {x: -0.53720933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3b4c3e3eb2eb60800000000000000
+      internalID: 7773985081303710301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0039
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 6616
+        width: 419
+        height: 416
+      alignment: 9
+      pivot: {x: -0.548926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ada87dfb5d6cbd0800000000000000
+      internalID: -2610163914082952684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0040
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 6593
+        width: 442
+        height: 439
+      alignment: 9
+      pivot: {x: -0.45927602, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7c077d876054d0800000000000000
+      internalID: -3147902282246619745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0041
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 6553
+        width: 478
+        height: 479
+      alignment: 9
+      pivot: {x: -0.3033473, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfea861c6efefeab0800000000000000
+      internalID: -4976495288854728964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0042
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 6500
+        width: 558
+        height: 532
+      alignment: 9
+      pivot: {x: -0.11648746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fabdff9e4194e90800000000000000
+      internalID: -7041073547164536941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0043
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 6469
+        width: 598
+        height: 563
+      alignment: 9
+      pivot: {x: -0.04180602, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518df38a000a9e220800000000000000
+      internalID: 2515717791546333205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0044
+      rect:
+        serializedVersion: 2
+        x: 6221
+        y: 6450
+        width: 595
+        height: 582
+      alignment: 9
+      pivot: {x: -0.047058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb748b913028850800000000000000
+      internalID: 6377663431310818932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0045
+      rect:
+        serializedVersion: 2
+        x: 6817
+        y: 6447
+        width: 594
+        height: 585
+      alignment: 9
+      pivot: {x: -0.04882155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe841b0f8bd8160800000000000000
+      internalID: 7029477937301220257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0046
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5863
+        width: 595
+        height: 583
+      alignment: 9
+      pivot: {x: -0.047058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab4abbdb909195a0800000000000000
+      internalID: -6516268186747647066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0047
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5867
+        width: 599
+        height: 579
+      alignment: 9
+      pivot: {x: -0.04006678, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c06cc4a00d6170800000000000000
+      internalID: 8173189606550847977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0048
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 5872
+        width: 596
+        height: 574
+      alignment: 9
+      pivot: {x: -0.045302015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c90beae45a2243c0800000000000000
+      internalID: -4376889343643809343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0049
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 5878
+        width: 588
+        height: 568
+      alignment: 9
+      pivot: {x: -0.05952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033886ba40bb7af0800000000000000
+      internalID: -397530307155709183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0050
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 5882
+        width: 580
+        height: 564
+      alignment: 9
+      pivot: {x: -0.07413793, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aa1044a5511d020800000000000000
+      internalID: 2364694756778420798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0051
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 5883
+        width: 574
+        height: 563
+      alignment: 9
+      pivot: {x: -0.085365854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d98240d6949106d0800000000000000
+      internalID: -3025974099156235823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0052
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 5887
+        width: 563
+        height: 559
+      alignment: 9
+      pivot: {x: -0.106571935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034d651661110400800000000000000
+      internalID: 288530981272240898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0053
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 5891
+        width: 547
+        height: 555
+      alignment: 9
+      pivot: {x: -0.13893966, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53e6dc50fffa110800000000000000
+      internalID: 1274517619955611104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0054
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 5894
+        width: 530
+        height: 552
+      alignment: 9
+      pivot: {x: -0.1754717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc84e60ac29fc5b0800000000000000
+      internalID: -5345892836268798793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0055
+      rect:
+        serializedVersion: 2
+        x: 5182
+        y: 5897
+        width: 514
+        height: 549
+      alignment: 9
+      pivot: {x: -0.21206225, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1531d54b6acf85580800000000000000
+      internalID: -8838036475793829039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0056
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 5900
+        width: 502
+        height: 546
+      alignment: 9
+      pivot: {x: -0.24103586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fec035d3351425c0800000000000000
+      internalID: -4241241636711903496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0057
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 5900
+        width: 494
+        height: 546
+      alignment: 9
+      pivot: {x: -0.2611336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ad02d68b297720800000000000000
+      internalID: 2844352497710899916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0058
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 5899
+        width: 492
+        height: 547
+      alignment: 9
+      pivot: {x: -0.26626018, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36998865166af4f00800000000000000
+      internalID: 1103283370722892131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0059
+      rect:
+        serializedVersion: 2
+        x: 7188
+        y: 5898
+        width: 494
+        height: 548
+      alignment: 9
+      pivot: {x: -0.2611336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679bd2b72a0362b60800000000000000
+      internalID: 7720912085582723446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0060
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5313
+        width: 499
+        height: 549
+      alignment: 9
+      pivot: {x: -0.248497, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad5536101c391d90800000000000000
+      internalID: -7126598895547359828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0061
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5312
+        width: 508
+        height: 550
+      alignment: 9
+      pivot: {x: -0.22637795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ad18f28bb8a140800000000000000
+      internalID: 4731237579735541715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0062
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 5308
+        width: 522
+        height: 554
+      alignment: 9
+      pivot: {x: -0.19348659, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2a077bb0d8831d0800000000000000
+      internalID: -3370789239625047384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0063
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 5305
+        width: 541
+        height: 557
+      alignment: 9
+      pivot: {x: -0.15157117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5249125f2a217e340800000000000000
+      internalID: 4892900011267953701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0064
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 5309
+        width: 564
+        height: 553
+      alignment: 9
+      pivot: {x: -0.10460993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f10a3f498957c10800000000000000
+      internalID: 2050712970847067944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0065
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5324
+        width: 580
+        height: 538
+      alignment: 9
+      pivot: {x: -0.07413793, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28f79a17e477a10800000000000000
+      internalID: 1907079217296671459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0066
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 5347
+        width: 578
+        height: 515
+      alignment: 9
+      pivot: {x: -0.07785467, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08709c1c51a67fea0800000000000000
+      internalID: -5839081750184523904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0067
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 5361
+        width: 570
+        height: 501
+      alignment: 9
+      pivot: {x: -0.092982456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6045bf3b55cd442c0800000000000000
+      internalID: -4448188271285283834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0068
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 5362
+        width: 564
+        height: 500
+      alignment: 9
+      pivot: {x: -0.10460993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293a80ab044ba9a0800000000000000
+      internalID: -6220803643553466072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0069
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 5365
+        width: 561
+        height: 497
+      alignment: 9
+      pivot: {x: -0.110516936, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e4d62708f27a80800000000000000
+      internalID: -8470435239530536471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0070
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 5369
+        width: 559
+        height: 493
+      alignment: 9
+      pivot: {x: -0.11449016, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992ebb6eb1d594490800000000000000
+      internalID: -7761570108379766119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0071
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 5371
+        width: 559
+        height: 491
+      alignment: 9
+      pivot: {x: -0.11449016, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9c54406c659a40800000000000000
+      internalID: 5374320891056135001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0072
+      rect:
+        serializedVersion: 2
+        x: 6618
+        y: 5376
+        width: 560
+        height: 486
+      alignment: 9
+      pivot: {x: -0.1125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9932f2be5d1e29ee0800000000000000
+      internalID: -1255693037192928359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0073
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4828
+        width: 563
+        height: 476
+      alignment: 9
+      pivot: {x: -0.106571935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6f36b5d3e7fcb0800000000000000
+      internalID: -4830141568306419195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0074
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4840
+        width: 557
+        height: 464
+      alignment: 9
+      pivot: {x: -0.11849192, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1e771b362ddaa0800000000000000
+      internalID: -6134705082169680763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0075
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 4843
+        width: 535
+        height: 461
+      alignment: 9
+      pivot: {x: -0.16448598, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b8eef9a08b5670800000000000000
+      internalID: 8528551786970658282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0076
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 4834
+        width: 509
+        height: 470
+      alignment: 9
+      pivot: {x: -0.22593321, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed325c72d9dd06d60800000000000000
+      internalID: 7881543014945203166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0077
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 4799
+        width: 534
+        height: 505
+      alignment: 9
+      pivot: {x: -0.2565543, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e9445f32be74440800000000000000
+      internalID: 4920159657596853831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0078
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 4764
+        width: 530
+        height: 540
+      alignment: 9
+      pivot: {x: -0.3245283, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c233f3a16b2fa00800000000000000
+      internalID: 788893108588981407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0079
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 4747
+        width: 512
+        height: 557
+      alignment: 9
+      pivot: {x: -0.39648438, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54d936a59163caa0800000000000000
+      internalID: -6141958171436395425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0080
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 4743
+        width: 513
+        height: 561
+      alignment: 9
+      pivot: {x: -0.40350878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03aea72dacb4f60800000000000000
+      internalID: 8019726566817411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0081
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 4739
+        width: 531
+        height: 565
+      alignment: 9
+      pivot: {x: -0.36346516, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e1ee7f082e3b10800000000000000
+      internalID: 1963050534598469324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0082
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 4738
+        width: 544
+        height: 566
+      alignment: 9
+      pivot: {x: -0.31617647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d71377d8e0ca680800000000000000
+      internalID: -8742596775880065709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0083
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 4738
+        width: 532
+        height: 566
+      alignment: 9
+      pivot: {x: -0.31203008, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4636e2bfff81200800000000000000
+      internalID: 151152041797051611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0084
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 4738
+        width: 520
+        height: 566
+      alignment: 9
+      pivot: {x: -0.30769232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773331e3fe79e3000800000000000000
+      internalID: 17618502350484343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0085
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 4738
+        width: 512
+        height: 566
+      alignment: 9
+      pivot: {x: -0.3125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d1b5a287228d20800000000000000
+      internalID: 3279226920758268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0086
+      rect:
+        serializedVersion: 2
+        x: 6906
+        y: 4738
+        width: 511
+        height: 566
+      alignment: 9
+      pivot: {x: -0.31506848, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc14ce3138a84060800000000000000
+      internalID: 6937980155424152794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0087
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4168
+        width: 507
+        height: 569
+      alignment: 9
+      pivot: {x: -0.32149902, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e79d0ace4670c0800000000000000
+      internalID: -4578385341457112987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0088
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4165
+        width: 505
+        height: 572
+      alignment: 9
+      pivot: {x: -0.32475248, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ddae6b6402bc910800000000000000
+      internalID: 1858614759309106475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0089
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 4164
+        width: 503
+        height: 573
+      alignment: 9
+      pivot: {x: -0.32604373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f519047a24408750800000000000000
+      internalID: 6305114427444762104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0090
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4171
+        width: 502
+        height: 566
+      alignment: 9
+      pivot: {x: -0.32669324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6c8c2d8c187f80800000000000000
+      internalID: -8108699736417211649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0091
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 4179
+        width: 501
+        height: 558
+      alignment: 9
+      pivot: {x: -0.3273453, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9879cdb155a0a30800000000000000
+      internalID: 4182248782120323529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0092
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 4176
+        width: 497
+        height: 561
+      alignment: 9
+      pivot: {x: -0.334004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946bccc96bf7fc3e0800000000000000
+      internalID: -2031264484629367223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0093
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 4174
+        width: 492
+        height: 563
+      alignment: 9
+      pivot: {x: -0.33739838, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50359c3d212c6e010800000000000000
+      internalID: 1217874135368684293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0094
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 4173
+        width: 488
+        height: 564
+      alignment: 9
+      pivot: {x: -0.34221312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d220d7957c9df230800000000000000
+      internalID: 3674264899876299481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0095
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4170
+        width: 489
+        height: 567
+      alignment: 9
+      pivot: {x: -0.3394683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57639c193f577b0800000000000000
+      internalID: -5227003985021995562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0096
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 4169
+        width: 492
+        height: 568
+      alignment: 9
+      pivot: {x: -0.33536586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6196847a3156f0800000000000000
+      internalID: -697712195117420776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0097
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 4171
+        width: 494
+        height: 566
+      alignment: 9
+      pivot: {x: -0.3319838, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc429770c6bc1270800000000000000
+      internalID: 8222647957427735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0098
+      rect:
+        serializedVersion: 2
+        x: 5482
+        y: 4171
+        width: 490
+        height: 566
+      alignment: 9
+      pivot: {x: -0.33877552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a3681e134a17ab0800000000000000
+      internalID: -5012044376142628298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0099
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 4168
+        width: 487
+        height: 569
+      alignment: 9
+      pivot: {x: -0.3449692, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c846439306c54cc0800000000000000
+      internalID: -3727355397921158968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0100
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 4168
+        width: 491
+        height: 569
+      alignment: 9
+      pivot: {x: -0.34215885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ced37e694956070800000000000000
+      internalID: 8099042880741305475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0101
+      rect:
+        serializedVersion: 2
+        x: 6953
+        y: 4169
+        width: 499
+        height: 568
+      alignment: 9
+      pivot: {x: -0.33066133, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041c3322be1b0d40800000000000000
+      internalID: 5551564716108420111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3592
+        width: 506
+        height: 571
+      alignment: 9
+      pivot: {x: -0.32213438, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d790762671405d50800000000000000
+      internalID: 6723946219371010007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0103
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3590
+        width: 510
+        height: 573
+      alignment: 9
+      pivot: {x: -0.31764707, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc064834ea8c8ce40800000000000000
+      internalID: 5677007981083123919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0104
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3593
+        width: 519
+        height: 570
+      alignment: 9
+      pivot: {x: -0.30057803, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8916e828f19bced0800000000000000
+      internalID: -2392658281993201270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0105
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3599
+        width: 528
+        height: 564
+      alignment: 9
+      pivot: {x: -0.30113637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ee69a97557c050800000000000000
+      internalID: 5820715024421675838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0106
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3599
+        width: 542
+        height: 564
+      alignment: 9
+      pivot: {x: -0.28782287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0604bd68493f01770800000000000000
+      internalID: 8579625109384020064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0107
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 3598
+        width: 532
+        height: 565
+      alignment: 9
+      pivot: {x: -0.30075186, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99aee11c2e239570800000000000000
+      internalID: 8472166090828327327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0108
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 3606
+        width: 513
+        height: 557
+      alignment: 9
+      pivot: {x: -0.2768031, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4f706389fc9260800000000000000
+      internalID: 7105828654738786833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0109
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 3620
+        width: 526
+        height: 543
+      alignment: 9
+      pivot: {x: -0.18441065, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1fdca5c0e5f8d70800000000000000
+      internalID: 9047553583566680525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0110
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 3624
+        width: 555
+        height: 539
+      alignment: 9
+      pivot: {x: -0.122522525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d94676f3465f80800000000000000
+      internalID: -8118226552463174927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0111
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 3619
+        width: 559
+        height: 544
+      alignment: 9
+      pivot: {x: -0.11449016, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798986ac0ba33280800000000000000
+      internalID: -9064713554144687752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0112
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 3617
+        width: 564
+        height: 546
+      alignment: 9
+      pivot: {x: -0.10460993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a360931b2b06b30800000000000000
+      internalID: 4278616120237636226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0113
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 3622
+        width: 574
+        height: 541
+      alignment: 9
+      pivot: {x: -0.085365854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579fead6978efad60800000000000000
+      internalID: 7903791479287380341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0114
+      rect:
+        serializedVersion: 2
+        x: 6441
+        y: 3622
+        width: 594
+        height: 541
+      alignment: 9
+      pivot: {x: -0.04882155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9089c9cc537eed70800000000000000
+      internalID: 9074317141557739679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0115
+      rect:
+        serializedVersion: 2
+        x: 7036
+        y: 3618
+        width: 612
+        height: 545
+      alignment: 9
+      pivot: {x: -0.017973857, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3111104a8076bdbd0800000000000000
+      internalID: -2604374672694767341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3044
+        width: 623
+        height: 545
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714e38d2d8444070800000000000000
+      internalID: 8089670901072544119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0117
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3046
+        width: 618
+        height: 543
+      alignment: 9
+      pivot: {x: -0.008090615, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60017063fdf99b0800000000000000
+      internalID: -5071089232256170335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0118
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3044
+        width: 604
+        height: 545
+      alignment: 9
+      pivot: {x: -0.031456955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd384c227e3620250800000000000000
+      internalID: 5909395505435411419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0119
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 3042
+        width: 586
+        height: 547
+      alignment: 9
+      pivot: {x: -0.06313993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66963e5dcdd3fdb30800000000000000
+      internalID: 4314234986734774630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0120
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 3042
+        width: 577
+        height: 547
+      alignment: 9
+      pivot: {x: -0.0797227, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac4630967bf56680800000000000000
+      internalID: -8762321013335241555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0121
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3043
+        width: 579
+        height: 546
+      alignment: 9
+      pivot: {x: -0.07599309, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105b885b95c29f10800000000000000
+      internalID: 2275098032771649563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0122
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 3046
+        width: 586
+        height: 543
+      alignment: 9
+      pivot: {x: -0.06313993, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df77e7748844b6fd0800000000000000
+      internalID: -2347707428637870083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0123
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 3049
+        width: 595
+        height: 540
+      alignment: 9
+      pivot: {x: -0.047058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde1945ac5f278d20800000000000000
+      internalID: 3280642928519225052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0124
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 3050
+        width: 603
+        height: 539
+      alignment: 9
+      pivot: {x: -0.033167496, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d406eee958475820800000000000000
+      internalID: 2906871635588285651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0125
+      rect:
+        serializedVersion: 2
+        x: 5381
+        y: 3049
+        width: 594
+        height: 540
+      alignment: 9
+      pivot: {x: -0.04882155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc22473d08d5becb0800000000000000
+      internalID: -4833666967167294773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0126
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 3050
+        width: 587
+        height: 539
+      alignment: 9
+      pivot: {x: -0.06132879, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd045e301edce9c0800000000000000
+      internalID: -3896495416235782689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0127
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 3043
+        width: 604
+        height: 546
+      alignment: 9
+      pivot: {x: -0.031456955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56fe83fddbf1ea0800000000000000
+      internalID: -5899788220401490437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2493
+        width: 544
+        height: 548
+      alignment: 9
+      pivot: {x: -0.1452206, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb7377fed931d50800000000000000
+      internalID: 6706877921907687052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0129
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2491
+        width: 442
+        height: 550
+      alignment: 9
+      pivot: {x: -0.40950227, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e463ec0fa45e16e20800000000000000
+      internalID: 3342204508516005454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0130
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2473
+        width: 392
+        height: 568
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a556953dc262f0800000000000000
+      internalID: -980996138774189697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0131
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2466
+        width: 392
+        height: 575
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb8abe0b1d5f440800000000000000
+      internalID: 4969108321671363540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0132
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2472
+        width: 392
+        height: 569
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f3e22a0ad9f9580800000000000000
+      internalID: -8818156232126873834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0133
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2482
+        width: 422
+        height: 559
+      alignment: 9
+      pivot: {x: -0.5473934, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421705745a78a14d0800000000000000
+      internalID: -3163066644338544348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0134
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2498
+        width: 434
+        height: 543
+      alignment: 9
+      pivot: {x: -0.5322581, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f778c0da92135010800000000000000
+      internalID: 1176304383810893812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0135
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2528
+        width: 408
+        height: 513
+      alignment: 9
+      pivot: {x: -0.5661765, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8bab061ea282cd0800000000000000
+      internalID: -2582767238818121479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0136
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2549
+        width: 392
+        height: 492
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9527313926bc130800000000000000
+      internalID: 3588069911956707777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0137
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 2556
+        width: 392
+        height: 485
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd71467aaf1c2e0800000000000000
+      internalID: -2107127553786913360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0138
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 2558
+        width: 392
+        height: 483
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987da063f7331ea10800000000000000
+      internalID: 1936885936206567305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0139
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 2553
+        width: 392
+        height: 488
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971bf2508e4bd7440800000000000000
+      internalID: 4935299675280355705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0140
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 2547
+        width: 392
+        height: 494
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5badc2c84c86508e0800000000000000
+      internalID: -1727859688652088651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0141
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2545
+        width: 392
+        height: 496
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d423710dd0f1bb0800000000000000
+      internalID: -4963233076945466092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0142
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 2546
+        width: 392
+        height: 495
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74fb23ecad16f650800000000000000
+      internalID: 6266228559915512959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0143
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 2551
+        width: 392
+        height: 490
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af306156eacea00800000000000000
+      internalID: 787195784067283478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0144
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 2554
+        width: 392
+        height: 487
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01111abda9da2110800000000000000
+      internalID: 1237040387840872719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0145
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 2552
+        width: 392
+        height: 489
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa8b51db97ba510800000000000000
+      internalID: 1561475548834213794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1967
+        width: 392
+        height: 498
+      alignment: 9
+      pivot: {x: -0.58928573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5982648d3967b560800000000000000
+      internalID: 7329442631503743326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0147
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1951
+        width: 418
+        height: 514
+      alignment: 9
+      pivot: {x: -0.55263156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9d04400cf0cec0800000000000000
+      internalID: -3548559428296007910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0148
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1958
+        width: 485
+        height: 507
+      alignment: 9
+      pivot: {x: -0.47628865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23643b9eabdcd70800000000000000
+      internalID: 9065107137864544963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0149
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1958
+        width: 524
+        height: 507
+      alignment: 9
+      pivot: {x: -0.4408397, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083ccb5660a233a0800000000000000
+      internalID: -6687106135204546548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0150
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1957
+        width: 534
+        height: 508
+      alignment: 9
+      pivot: {x: -0.41573033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f6c81ec528e3f0800000000000000
+      internalID: -871404960787007706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0151
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2001
+        width: 524
+        height: 464
+      alignment: 9
+      pivot: {x: -0.4408397, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522a7b14806e0ee0800000000000000
+      internalID: -1292989922495815081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0152
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 2039
+        width: 504
+        height: 426
+      alignment: 9
+      pivot: {x: -0.45833334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5d964cf38c9ed0800000000000000
+      internalID: -2405902981382972860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0153
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 2058
+        width: 491
+        height: 407
+      alignment: 9
+      pivot: {x: -0.47046843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c5a946529b9fc20800000000000000
+      internalID: 3240824977122548743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0154
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 2066
+        width: 490
+        height: 399
+      alignment: 9
+      pivot: {x: -0.47142857, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89d5e74c6b1d7e0800000000000000
+      internalID: -1742410625765762827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0155
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 2065
+        width: 491
+        height: 400
+      alignment: 9
+      pivot: {x: -0.47046843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810ffddd3c74e6250800000000000000
+      internalID: 5939763865114898456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0156
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 2061
+        width: 495
+        height: 404
+      alignment: 9
+      pivot: {x: -0.46666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa232e54da094810800000000000000
+      internalID: 1749941837438855935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0157
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 2056
+        width: 501
+        height: 409
+      alignment: 9
+      pivot: {x: -0.46107784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccfd6ff928c96bd0800000000000000
+      internalID: -2636356024144102193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0158
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 2053
+        width: 508
+        height: 412
+      alignment: 9
+      pivot: {x: -0.4547244, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703271a2b8645feb0800000000000000
+      internalID: -4686762273688575225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0159
+      rect:
+        serializedVersion: 2
+        x: 6371
+        y: 2052
+        width: 516
+        height: 413
+      alignment: 9
+      pivot: {x: -0.44767442, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f6f60b21a393d0800000000000000
+      internalID: -3201037703957777667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0160
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 2054
+        width: 522
+        height: 411
+      alignment: 9
+      pivot: {x: -0.44252872, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6625bb12c9adc9730800000000000000
+      internalID: 4007318132568576614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1544
+        width: 527
+        height: 406
+      alignment: 9
+      pivot: {x: -0.43833017, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2d4246107f34b0800000000000000
+      internalID: -5458520982445805754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0162
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1550
+        width: 532
+        height: 400
+      alignment: 9
+      pivot: {x: -0.43421054, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32599e59807dc58e0800000000000000
+      internalID: -1703250127178066653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0163
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1557
+        width: 534
+        height: 393
+      alignment: 9
+      pivot: {x: -0.43258426, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ead2a7faa2002a0800000000000000
+      internalID: -6773366906407768518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0164
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1564
+        width: 534
+        height: 386
+      alignment: 9
+      pivot: {x: -0.43258426, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b769dd2bc84cd1550800000000000000
+      internalID: 6133274376123815547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0165
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1569
+        width: 531
+        height: 381
+      alignment: 9
+      pivot: {x: -0.43502825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3baddd720c55f60800000000000000
+      internalID: 8022529588688761763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0166
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1571
+        width: 530
+        height: 379
+      alignment: 9
+      pivot: {x: -0.43584907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16121539ee6b32830800000000000000
+      internalID: 4045278026098876769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0167
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1568
+        width: 529
+        height: 382
+      alignment: 9
+      pivot: {x: -0.43667296, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a292e19bc7cfe0800000000000000
+      internalID: -1168741750847395470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0168
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1544
+        width: 515
+        height: 406
+      alignment: 9
+      pivot: {x: -0.4368932, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad54345c3281a700800000000000000
+      internalID: 549863825138277792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0169
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 1491
+        width: 520
+        height: 459
+      alignment: 9
+      pivot: {x: -0.35192308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7496c02c901407e70800000000000000
+      internalID: 9110853556336617799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0170
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 1446
+        width: 504
+        height: 504
+      alignment: 9
+      pivot: {x: -0.34126985, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81f01728c3f83370800000000000000
+      internalID: 8302653954031939982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0171
+      rect:
+        serializedVersion: 2
+        x: 5267
+        y: 1408
+        width: 470
+        height: 542
+      alignment: 9
+      pivot: {x: -0.39148936, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f507adef1e0baee0800000000000000
+      internalID: -1248888941371259405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0172
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1390
+        width: 449
+        height: 560
+      alignment: 9
+      pivot: {x: -0.43207127, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10e13b191ae9a70800000000000000
+      internalID: 8835677166094909869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0173
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 1379
+        width: 444
+        height: 571
+      alignment: 9
+      pivot: {x: -0.4527027, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b602865b030c2c0800000000000000
+      internalID: -4413474079128917237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0174
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 1375
+        width: 458
+        height: 575
+      alignment: 9
+      pivot: {x: -0.4235808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72d2b2fc87728f50800000000000000
+      internalID: 6882194627826471550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0175
+      rect:
+        serializedVersion: 2
+        x: 7092
+        y: 1371
+        width: 474
+        height: 579
+      alignment: 9
+      pivot: {x: -0.37974682, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb75d65f65ac2e0800000000000000
+      internalID: -2104774263740842832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 796
+        width: 477
+        height: 574
+      alignment: 9
+      pivot: {x: -0.35849056, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a53a12f7314270800000000000000
+      internalID: 8232923106771313811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0177
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 813
+        width: 476
+        height: 557
+      alignment: 9
+      pivot: {x: -0.35084033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818bfa79af35ba2c0800000000000000
+      internalID: -4419346273582204904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0178
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 841
+        width: 480
+        height: 529
+      alignment: 9
+      pivot: {x: -0.3375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf55b3b0d72a6e850800000000000000
+      internalID: 6405986177924158972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0179
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 870
+        width: 490
+        height: 500
+      alignment: 9
+      pivot: {x: -0.31836733, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3051fd4387a8e90800000000000000
+      internalID: -7022668500454538267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0180
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 894
+        width: 506
+        height: 476
+      alignment: 9
+      pivot: {x: -0.29051384, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a11add5b96d054a0800000000000000
+      internalID: -6606544690569670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0181
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 899
+        width: 518
+        height: 471
+      alignment: 9
+      pivot: {x: -0.27220076, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295a5b85e0f57830800000000000000
+      internalID: 4068422707075242280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0182
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 898
+        width: 522
+        height: 472
+      alignment: 9
+      pivot: {x: -0.27203065, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75ed501e77272f70800000000000000
+      internalID: 9162335389302515068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0183
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 898
+        width: 516
+        height: 472
+      alignment: 9
+      pivot: {x: -0.29457363, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45b6f5af1dd99e0800000000000000
+      internalID: -1612902218255870788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0184
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 901
+        width: 506
+        height: 469
+      alignment: 9
+      pivot: {x: -0.32608697, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd1c4e729ecf810800000000000000
+      internalID: 1800570308592262547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0185
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 903
+        width: 501
+        height: 467
+      alignment: 9
+      pivot: {x: -0.33932135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d44b30895db4e0800000000000000
+      internalID: -1964315455178616605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0186
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 903
+        width: 497
+        height: 467
+      alignment: 9
+      pivot: {x: -0.34808853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2d9f6769b972420800000000000000
+      internalID: 2605221980000604891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0187
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 905
+        width: 495
+        height: 465
+      alignment: 9
+      pivot: {x: -0.35353535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcde74784995e2ec0800000000000000
+      internalID: -3589833358508036657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0188
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 907
+        width: 494
+        height: 463
+      alignment: 9
+      pivot: {x: -0.35829958, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23d8b111943799d0800000000000000
+      internalID: -2767685648323652821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0189
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 908
+        width: 495
+        height: 462
+      alignment: 9
+      pivot: {x: -0.35757574, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af29b39a2c9c9f0800000000000000
+      internalID: -447612655841904018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0190
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 911
+        width: 497
+        height: 459
+      alignment: 9
+      pivot: {x: -0.35613683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba554e48c380693b0800000000000000
+      internalID: -5506204438393236053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0191
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 503
+        height: 458
+      alignment: 9
+      pivot: {x: -0.34791252, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1f7cfff6428b40800000000000000
+      internalID: 5440989365083774456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0192
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 341
+        width: 511
+        height: 454
+      alignment: 9
+      pivot: {x: -0.33463797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30f04211e65e68d0800000000000000
+      internalID: -2851245989405069253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0193
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 343
+        width: 517
+        height: 452
+      alignment: 9
+      pivot: {x: -0.32495165, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d36de3c2cf9e3d0800000000000000
+      internalID: -3176730795170185864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0194
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 345
+        width: 519
+        height: 450
+      alignment: 9
+      pivot: {x: -0.31984586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e95ce119d65de50800000000000000
+      internalID: 6833488479658548771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0195
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 346
+        width: 518
+        height: 449
+      alignment: 9
+      pivot: {x: -0.3146718, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559230119e3fc9f0800000000000000
+      internalID: -446069045323459243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0196
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 346
+        width: 515
+        height: 449
+      alignment: 9
+      pivot: {x: -0.31262136, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99320b5e0d8a7c0800000000000000
+      internalID: -4059765379153290818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0197
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 344
+        width: 514
+        height: 451
+      alignment: 9
+      pivot: {x: -0.31322956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd16502e9e9a540800000000000000
+      internalID: 5019800416643308883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0198
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 345
+        width: 520
+        height: 450
+      alignment: 9
+      pivot: {x: -0.30384615, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d092b69d93bf3f0800000000000000
+      internalID: -866034897370149629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0199
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 317
+        width: 529
+        height: 478
+      alignment: 9
+      pivot: {x: -0.2816635, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875817f4ffc0d5670800000000000000
+      internalID: 8528987559998621048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0200
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 278
+        width: 520
+        height: 517
+      alignment: 9
+      pivot: {x: -0.2923077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed87074423a1da0800000000000000
+      internalID: -5973406686227407265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0201
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 260
+        width: 483
+        height: 535
+      alignment: 9
+      pivot: {x: -0.3706004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa1aa72c40334e0800000000000000
+      internalID: -2003252175922156925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0202
+      rect:
+        serializedVersion: 2
+        x: 5661
+        y: 242
+        width: 459
+        height: 553
+      alignment: 9
+      pivot: {x: -0.44008714, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3eda9fd61355270800000000000000
+      internalID: 8238545441754309612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuck0203
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 258
+        width: 484
+        height: 537
+      alignment: 9
+      pivot: {x: -0.41735536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6410381a4a5db820800000000000000
+      internalID: 2935601806395315306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fuck0000: 1934927795656989538
+      fuck0001: 8116603206500456455
+      fuck0002: 5236139785269658707
+      fuck0003: -5890886730026610729
+      fuck0004: 8652823755849684779
+      fuck0005: -6933101529797587335
+      fuck0006: -8768242486671633625
+      fuck0007: -4688306446399523427
+      fuck0008: 6219539495059898213
+      fuck0009: -2227483336037663036
+      fuck0010: -8529307522985904976
+      fuck0011: -3916281479763128954
+      fuck0012: -7674124814680823919
+      fuck0013: 4744262490125146636
+      fuck0014: -8915049832251242091
+      fuck0015: -2899115494725231790
+      fuck0016: 1870028784583016089
+      fuck0017: 2140955289014469450
+      fuck0018: 3106557140802090712
+      fuck0019: 8504759047752489575
+      fuck0020: -9095066374487679073
+      fuck0021: 1982569046195556969
+      fuck0022: 5132108179155184900
+      fuck0023: 3778436124024317822
+      fuck0024: 9221748255904788255
+      fuck0025: 8609076297499534858
+      fuck0026: 4448573079066116169
+      fuck0027: 3266591278583484754
+      fuck0028: -5661464000011163387
+      fuck0029: 1801737850796445288
+      fuck0030: 2705023099712009145
+      fuck0031: -8245687895344260498
+      fuck0032: -2668871640316928156
+      fuck0033: 727834679779656472
+      fuck0034: 842976144880658158
+      fuck0035: -1924750252920269716
+      fuck0036: 245974646854590754
+      fuck0037: 4047031601006819506
+      fuck0038: 7773985081303710301
+      fuck0039: -2610163914082952684
+      fuck0040: -3147902282246619745
+      fuck0041: -4976495288854728964
+      fuck0042: -7041073547164536941
+      fuck0043: 2515717791546333205
+      fuck0044: 6377663431310818932
+      fuck0045: 7029477937301220257
+      fuck0046: -6516268186747647066
+      fuck0047: 8173189606550847977
+      fuck0048: -4376889343643809343
+      fuck0049: -397530307155709183
+      fuck0050: 2364694756778420798
+      fuck0051: -3025974099156235823
+      fuck0052: 288530981272240898
+      fuck0053: 1274517619955611104
+      fuck0054: -5345892836268798793
+      fuck0055: -8838036475793829039
+      fuck0056: -4241241636711903496
+      fuck0057: 2844352497710899916
+      fuck0058: 1103283370722892131
+      fuck0059: 7720912085582723446
+      fuck0060: -7126598895547359828
+      fuck0061: 4731237579735541715
+      fuck0062: -3370789239625047384
+      fuck0063: 4892900011267953701
+      fuck0064: 2050712970847067944
+      fuck0065: 1907079217296671459
+      fuck0066: -5839081750184523904
+      fuck0067: -4448188271285283834
+      fuck0068: -6220803643553466072
+      fuck0069: -8470435239530536471
+      fuck0070: -7761570108379766119
+      fuck0071: 5374320891056135001
+      fuck0072: -1255693037192928359
+      fuck0073: -4830141568306419195
+      fuck0074: -6134705082169680763
+      fuck0075: 8528551786970658282
+      fuck0076: 7881543014945203166
+      fuck0077: 4920159657596853831
+      fuck0078: 788893108588981407
+      fuck0079: -6141958171436395425
+      fuck0080: 8019726566817411291
+      fuck0081: 1963050534598469324
+      fuck0082: -8742596775880065709
+      fuck0083: 151152041797051611
+      fuck0084: 17618502350484343
+      fuck0085: 3279226920758268343
+      fuck0086: 6937980155424152794
+      fuck0087: -4578385341457112987
+      fuck0088: 1858614759309106475
+      fuck0089: 6305114427444762104
+      fuck0090: -8108699736417211649
+      fuck0091: 4182248782120323529
+      fuck0092: -2031264484629367223
+      fuck0093: 1217874135368684293
+      fuck0094: 3674264899876299481
+      fuck0095: -5227003985021995562
+      fuck0096: -697712195117420776
+      fuck0097: 8222647957427735794
+      fuck0098: -5012044376142628298
+      fuck0099: -3727355397921158968
+      fuck0100: 8099042880741305475
+      fuck0101: 5551564716108420111
+      fuck0102: 6723946219371010007
+      fuck0103: 5677007981083123919
+      fuck0104: -2392658281993201270
+      fuck0105: 5820715024421675838
+      fuck0106: 8579625109384020064
+      fuck0107: 8472166090828327327
+      fuck0108: 7105828654738786833
+      fuck0109: 9047553583566680525
+      fuck0110: -8118226552463174927
+      fuck0111: -9064713554144687752
+      fuck0112: 4278616120237636226
+      fuck0113: 7903791479287380341
+      fuck0114: 9074317141557739679
+      fuck0115: -2604374672694767341
+      fuck0116: 8089670901072544119
+      fuck0117: -5071089232256170335
+      fuck0118: 5909395505435411419
+      fuck0119: 4314234986734774630
+      fuck0120: -8762321013335241555
+      fuck0121: 2275098032771649563
+      fuck0122: -2347707428637870083
+      fuck0123: 3280642928519225052
+      fuck0124: 2906871635588285651
+      fuck0125: -4833666967167294773
+      fuck0126: -3896495416235782689
+      fuck0127: -5899788220401490437
+      fuck0128: 6706877921907687052
+      fuck0129: 3342204508516005454
+      fuck0130: -980996138774189697
+      fuck0131: 4969108321671363540
+      fuck0132: -8818156232126873834
+      fuck0133: -3163066644338544348
+      fuck0134: 1176304383810893812
+      fuck0135: -2582767238818121479
+      fuck0136: 3588069911956707777
+      fuck0137: -2107127553786913360
+      fuck0138: 1936885936206567305
+      fuck0139: 4935299675280355705
+      fuck0140: -1727859688652088651
+      fuck0141: -4963233076945466092
+      fuck0142: 6266228559915512959
+      fuck0143: 787195784067283478
+      fuck0144: 1237040387840872719
+      fuck0145: 1561475548834213794
+      fuck0146: 7329442631503743326
+      fuck0147: -3548559428296007910
+      fuck0148: 9065107137864544963
+      fuck0149: -6687106135204546548
+      fuck0150: -871404960787007706
+      fuck0151: -1292989922495815081
+      fuck0152: -2405902981382972860
+      fuck0153: 3240824977122548743
+      fuck0154: -1742410625765762827
+      fuck0155: 5939763865114898456
+      fuck0156: 1749941837438855935
+      fuck0157: -2636356024144102193
+      fuck0158: -4686762273688575225
+      fuck0159: -3201037703957777667
+      fuck0160: 4007318132568576614
+      fuck0161: -5458520982445805754
+      fuck0162: -1703250127178066653
+      fuck0163: -6773366906407768518
+      fuck0164: 6133274376123815547
+      fuck0165: 8022529588688761763
+      fuck0166: 4045278026098876769
+      fuck0167: -1168741750847395470
+      fuck0168: 549863825138277792
+      fuck0169: 9110853556336617799
+      fuck0170: 8302653954031939982
+      fuck0171: -1248888941371259405
+      fuck0172: 8835677166094909869
+      fuck0173: -4413474079128917237
+      fuck0174: 6882194627826471550
+      fuck0175: -2104774263740842832
+      fuck0176: 8232923106771313811
+      fuck0177: -4419346273582204904
+      fuck0178: 6405986177924158972
+      fuck0179: -7022668500454538267
+      fuck0180: -6606544690569670237
+      fuck0181: 4068422707075242280
+      fuck0182: 9162335389302515068
+      fuck0183: -1612902218255870788
+      fuck0184: 1800570308592262547
+      fuck0185: -1964315455178616605
+      fuck0186: 2605221980000604891
+      fuck0187: -3589833358508036657
+      fuck0188: -2767685648323652821
+      fuck0189: -447612655841904018
+      fuck0190: -5506204438393236053
+      fuck0191: 5440989365083774456
+      fuck0192: -2851245989405069253
+      fuck0193: -3176730795170185864
+      fuck0194: 6833488479658548771
+      fuck0195: -446069045323459243
+      fuck0196: -4059765379153290818
+      fuck0197: 5019800416643308883
+      fuck0198: -866034897370149629
+      fuck0199: 8528987559998621048
+      fuck0200: -5973406686227407265
+      fuck0201: -2003252175922156925
+      fuck0202: 8238545441754309612
+      fuck0203: 2935601806395315306
+      idle0000: -3017419281794174750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

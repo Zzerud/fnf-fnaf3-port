@@ -1,0 +1,2604 @@
+fileFormatVersion: 2
+guid: 9b6c673275c6b6f459a60223b8769dbe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2783
+        width: 334
+        height: 617
+      alignment: 9
+      pivot: {x: -0.029940119, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f000e7e684a0bd0800000000000000
+      internalID: -2663236590238691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2797
+        width: 344
+        height: 603
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42fa14ab63e8460800000000000000
+      internalID: 7245789024079521000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2790
+        width: 336
+        height: 610
+      alignment: 9
+      pivot: {x: -0.023809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f73e615f0e0ac0800000000000000
+      internalID: -3887152585958231916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2783
+        width: 329
+        height: 617
+      alignment: 9
+      pivot: {x: -0.045592707, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f9dea47171ffd0800000000000000
+      internalID: -2309940387900688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2776
+        width: 324
+        height: 624
+      alignment: 9
+      pivot: {x: -0.061728396, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadb6d6145127170800000000000000
+      internalID: 8174619644383713983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2770
+        width: 322
+        height: 630
+      alignment: 9
+      pivot: {x: -0.06832298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3625247a3e8cb0800000000000000
+      internalID: -4859882677372306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 2765
+        width: 324
+        height: 635
+      alignment: 9
+      pivot: {x: -0.061728396, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ed3690ab36c440800000000000000
+      internalID: 4955714000869255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 2760
+        width: 324
+        height: 640
+      alignment: 9
+      pivot: {x: -0.061728396, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c08b25fc20ba30800000000000000
+      internalID: 4228929481609365457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 2756
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: -0.06501548, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86cd2324df199e00800000000000000
+      internalID: 1051906983951451791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2758
+        width: 354
+        height: 642
+      alignment: 9
+      pivot: {x: -0.011299435, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b69fdb185d271c0800000000000000
+      internalID: -4507305523829708018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 2761
+        width: 348
+        height: 639
+      alignment: 9
+      pivot: {x: -0.028735632, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e74be7cf5c7490800000000000000
+      internalID: -7747211946733606708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2114
+        width: 356
+        height: 641
+      alignment: 9
+      pivot: {x: -0.0056179776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626a679d6583f290800000000000000
+      internalID: -7857790219093122460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2112
+        width: 358
+        height: 643
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc757f8302bbf8040800000000000000
+      internalID: 4652142687166093263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2111
+        width: 355
+        height: 644
+      alignment: 9
+      pivot: {x: -0.008450705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414f311604ccad80800000000000000
+      internalID: -8237994088029273787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2110
+        width: 348
+        height: 645
+      alignment: 9
+      pivot: {x: -0.028735632, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e34bd882a580b0800000000000000
+      internalID: -5726992642453805875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2110
+        width: 338
+        height: 645
+      alignment: 9
+      pivot: {x: -0.0591716, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac74d0eb45daa7ae0800000000000000
+      internalID: -1550736542198315062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2110
+        width: 329
+        height: 645
+      alignment: 9
+      pivot: {x: -0.0881459, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905303fa28dcd840800000000000000
+      internalID: 5250308944584462494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0008
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1446
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: -0.108359136, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c6bff840ce6d50800000000000000
+      internalID: 6732529912725816356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2094
+        width: 344
+        height: 661
+      alignment: 9
+      pivot: {x: -0.13662791, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e055fa4a80d16220800000000000000
+      internalID: 2477490562412138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2091
+        width: 345
+        height: 664
+      alignment: 9
+      pivot: {x: -0.2173913, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de036d6154b66bd30800000000000000
+      internalID: 4446859626554994925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2093
+        width: 342
+        height: 662
+      alignment: 9
+      pivot: {x: -0.16374269, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d340f375585ac4e0800000000000000
+      internalID: -1960657563725839407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2095
+        width: 341
+        height: 660
+      alignment: 9
+      pivot: {x: -0.1085044, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16703848511fc2e00800000000000000
+      internalID: 1021456290226046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2099
+        width: 336
+        height: 656
+      alignment: 9
+      pivot: {x: -0.065476194, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bfa4af527db8f0800000000000000
+      internalID: -523136226594671032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1438
+        width: 327
+        height: 652
+      alignment: 9
+      pivot: {x: -0.03058104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d430afe7289bca90800000000000000
+      internalID: -7292567874304985901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1443
+        width: 319
+        height: 647
+      alignment: 9
+      pivot: {x: -0.012539185, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f534f563f811ee40800000000000000
+      internalID: 5683851638384899570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1446
+        width: 322
+        height: 644
+      alignment: 9
+      pivot: {x: -0.0031055901, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05d812020c222c0800000000000000
+      internalID: -4457789436908973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 2756
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50be26416b5f400800000000000000
+      internalID: 357391944120993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0000
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1416
+        width: 324
+        height: 674
+      alignment: 9
+      pivot: {x: -0.055555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a35eaf6c7bd3990800000000000000
+      internalID: -7404560147086493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0001
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1396
+        width: 328
+        height: 694
+      alignment: 9
+      pivot: {x: -0.112804875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58649ef008bbe290800000000000000
+      internalID: -7859986410234419109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0002
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1398
+        width: 327
+        height: 692
+      alignment: 9
+      pivot: {x: -0.10703364, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b86ddb6c36d0d40800000000000000
+      internalID: 5552203620857318157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0003
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1403
+        width: 325
+        height: 687
+      alignment: 9
+      pivot: {x: -0.08923077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b367825eec10b80800000000000000
+      internalID: -8430229543839188189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0004
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 1409
+        width: 323
+        height: 681
+      alignment: 9
+      pivot: {x: -0.071207434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe463f578f74ff0800000000000000
+      internalID: -51799685213130890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0005
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1417
+        width: 321
+        height: 673
+      alignment: 9
+      pivot: {x: -0.049844235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3535aaacad2c8b0800000000000000
+      internalID: -5133300061273107473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0006
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1426
+        width: 320
+        height: 664
+      alignment: 9
+      pivot: {x: -0.028125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869a27256657ad80800000000000000
+      internalID: -8239522000802244992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0007
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1437
+        width: 321
+        height: 653
+      alignment: 9
+      pivot: {x: -0.009345794, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904aa47e2c9c4390800000000000000
+      internalID: -7832713928564391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0008
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1446
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e8ea7a7b532180800000000000000
+      internalID: -9141362237025755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1446
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: -0.015479876, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ced7ea37082780800000000000000
+      internalID: -8707701929941218994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 333
+        height: 637
+      alignment: 9
+      pivot: {x: -0.009009009, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e2f1ec8906ae30800000000000000
+      internalID: 4514306177176364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 767
+        width: 344
+        height: 628
+      alignment: 9
+      pivot: {x: -0.0058139535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01248dc66bc06eb00800000000000000
+      internalID: 857386756710351376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 770
+        width: 354
+        height: 625
+      alignment: 9
+      pivot: {x: -0.0028248588, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d0d700488ed010800000000000000
+      internalID: 1215558758027024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 766
+        width: 362
+        height: 629
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41079eb4a72408a0800000000000000
+      internalID: -6339898786905128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 756
+        width: 362
+        height: 639
+      alignment: 9
+      pivot: {x: -0.005524862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decf1904fb702fc0800000000000000
+      internalID: -3521678620548411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 752
+        width: 353
+        height: 643
+      alignment: 9
+      pivot: {x: -0.019830028, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8923037f48d5d560800000000000000
+      internalID: 7338009003613694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 755
+        width: 338
+        height: 640
+      alignment: 9
+      pivot: {x: -0.03254438, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8eaad5a0e5be790800000000000000
+      internalID: -7499797355841263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 756
+        width: 329
+        height: 639
+      alignment: 9
+      pivot: {x: -0.04255319, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36024a42b40c0cf0800000000000000
+      internalID: -284847512634653122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 751
+        width: 321
+        height: 644
+      alignment: 9
+      pivot: {x: -0.049844235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fbc834c67367700800000000000000
+      internalID: 537678143646646040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0010
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 748
+        width: 314
+        height: 647
+      alignment: 9
+      pivot: {x: -0.05414013, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcc8427d27053c0800000000000000
+      internalID: -4372868969820008613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0011
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 746
+        width: 308
+        height: 649
+      alignment: 9
+      pivot: {x: -0.058441557, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19a1bc8e73aa5f0800000000000000
+      internalID: -744721315396939343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 310
+        height: 652
+      alignment: 9
+      pivot: {x: -0.05483871, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f827d30283850780800000000000000
+      internalID: -8717416909272307463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0013
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 88
+        width: 313
+        height: 657
+      alignment: 9
+      pivot: {x: -0.044728436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c396c6ff090ac0800000000000000
+      internalID: -3888559250689767959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0014
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 89
+        width: 316
+        height: 656
+      alignment: 9
+      pivot: {x: -0.034810126, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d061fcf6a918f780800000000000000
+      internalID: -8649134879366094639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0015
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 93
+        width: 319
+        height: 652
+      alignment: 9
+      pivot: {x: -0.02507837, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bde0b4c4cf6d420800000000000000
+      internalID: 2654586434988465030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0000
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1446
+        width: 323
+        height: 644
+      alignment: 9
+      pivot: {x: -0.4117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35d37b952109480800000000000000
+      internalID: -8894589087521090600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0001
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 157
+        width: 340
+        height: 588
+      alignment: 9
+      pivot: {x: -0.34117648, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e1e51657c11100800000000000000
+      internalID: 77061841190249176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0002
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 241
+        width: 377
+        height: 504
+      alignment: 9
+      pivot: {x: -0.20954907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115ca4f27aee0fe30800000000000000
+      internalID: 4535387226582467857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0003
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 343
+        width: 416
+        height: 402
+      alignment: 9
+      pivot: {x: -0.09615385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a94430eda48230800000000000000
+      internalID: 3640225577283725102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0004
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 424
+        width: 443
+        height: 321
+      alignment: 9
+      pivot: {x: -0.029345373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71d012277f10ba0800000000000000
+      internalID: -6124341948694325313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0005
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 484
+        width: 456
+        height: 261
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f57506fcd24ba6c0800000000000000
+      internalID: -4131134716394506761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0006
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 528
+        width: 453
+        height: 217
+      alignment: 9
+      pivot: {x: -0.0066225166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7272db99b251390d0800000000000000
+      internalID: -3417364415236987097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0007
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d9679ac558fe60800000000000000
+      internalID: 7996235467008365218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0008
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad21082323f1bcf0800000000000000
+      internalID: -238141972953354838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0009
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8525be8fd631e70800000000000000
+      internalID: 9084725789203781844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0010
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f74030c2daa8ed0800000000000000
+      internalID: -2410924245962686707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0011
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fecfc47fe3bb0e10800000000000000
+      internalID: 2165021886919986930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0012
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f47b1c1a7697ac80800000000000000
+      internalID: -8311509136087223050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0013
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b5b2105711c7e0800000000000000
+      internalID: -1747089547764321971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0014
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be2a76096055a30800000000000000
+      internalID: 4203273044504013681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0015
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d135ea881014d60800000000000000
+      internalID: 7872575310172200321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0016
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6374e05b15ca9f0f0800000000000000
+      internalID: -1082644768475953354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0017
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab40b76d2ee52e180800000000000000
+      internalID: -9087596769726233414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0018
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85429f32dbaaac560800000000000000
+      internalID: 7334862672455345240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0019
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604108570d58a070800000000000000
+      internalID: 8117840614457950305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0020
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2db0ae48d6cb4f0800000000000000
+      internalID: -811653415203777841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0021
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2ac8e60aafa4b20800000000000000
+      internalID: 3119581258863911612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0022
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2190f3841a120b3c0800000000000000
+      internalID: -4345936663826986734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0023
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05efef48f152d0f70800000000000000
+      internalID: 9155014434819604048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0024
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2855484957c214ad0800000000000000
+      internalID: -2719843816440572542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0025
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9052d8305948b5710800000000000000
+      internalID: 1683084661297587465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0026
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce2188fba7f89f0800000000000000
+      internalID: -464017273555588094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0027
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29748d1c6fcc2460800000000000000
+      internalID: 7218372366026701101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0028
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b891b9adbf81f5e0800000000000000
+      internalID: -1877561524878206795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0029
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01b5dbfc33d95e0800000000000000
+      internalID: -1901306500352372494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0030
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490ee02d018f66550800000000000000
+      internalID: 6153878691975717012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0031
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bf05a885efe6f00800000000000000
+      internalID: 1112105814238231359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0032
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e141555bf75cb40800000000000000
+      internalID: 5459910540049784449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0033
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfe1286631247be0800000000000000
+      internalID: -1480521859939045435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0034
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24c1ece418b1290800000000000000
+      internalID: -7918593344335494471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0035
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2dd20cdbc12c9f0800000000000000
+      internalID: -449765411485003097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0036
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a6479ce41833340800000000000000
+      internalID: 4842356199740697239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0037
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9220d688384ea34b0800000000000000
+      internalID: -5459800344652611031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0038
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4aa949768e83f70800000000000000
+      internalID: 9167332573085082829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0039
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f9fe10350540d0800000000000000
+      internalID: -3439337036191238682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0040
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827766c877a43640800000000000000
+      internalID: 5058852418610492033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0041
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d46ed584b909470800000000000000
+      internalID: 8399384040161299724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0042
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f081bd20a22c480800000000000000
+      internalID: -8880489323467108552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0043
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e07fe74f289b2c30800000000000000
+      internalID: 4335726395111993577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0044
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e958039a8a42890800000000000000
+      internalID: -7483671236165919183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0045
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7254c2487c4831d0800000000000000
+      internalID: -3370860241686867333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0046
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e470f57c033a32bf0800000000000000
+      internalID: -350256916106115250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0047
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4a9d6f34a10e5f0800000000000000
+      internalID: -729554260427430710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0048
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd36186746085b730800000000000000
+      internalID: 4014255811843941343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0049
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a4048a9672bf40800000000000000
+      internalID: 5742782880862742096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0050
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38dde7f0f6a9ade0800000000000000
+      internalID: -1321341461774608326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0051
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe5919e6d8fc050800000000000000
+      internalID: 5823028349241782102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0052
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94fd327abbaf000800000000000000
+      internalID: 70575070713432566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0053
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e98416ca7e91a900800000000000000
+      internalID: 694010067738200545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0054
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca62976ee4404c0800000000000000
+      internalID: -4322242990586811227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0055
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27919a4c8e5a40d80800000000000000
+      internalID: -8285314995304457870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0056
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9984d80b311478c0800000000000000
+      internalID: -4002555223576639073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0057
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a21e4824bb052dd0800000000000000
+      internalID: -2511588348790959454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0058
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6587c23666600a0800000000000000
+      internalID: -6915727601646938451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fall0059
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 730
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: -7.677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84f11a39ce657d0800000000000000
+      internalID: -2929894388750399254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dad Sing Note DOWN0000: -2663236590238691572
+      Dad Sing Note DOWN0001: 7245789024079521000
+      Dad Sing Note DOWN0002: -3887152585958231916
+      Dad Sing Note DOWN0003: -2309940387900688523
+      Dad Sing Note DOWN0004: 8174619644383713983
+      Dad Sing Note DOWN0005: -4859882677372306299
+      Dad Sing Note DOWN0006: 4955714000869255256
+      Dad Sing Note DOWN0007: 4228929481609365457
+      Dad Sing Note DOWN0008: 1051906983951451791
+      Dad Sing Note LEFT0000: -4507305523829708018
+      Dad Sing Note LEFT0001: -7747211946733606708
+      Dad Sing Note LEFT0002: -7857790219093122460
+      Dad Sing Note LEFT0003: 4652142687166093263
+      Dad Sing Note LEFT0004: -8237994088029273787
+      Dad Sing Note LEFT0005: -5726992642453805875
+      Dad Sing Note LEFT0006: -1550736542198315062
+      Dad Sing Note LEFT0007: 5250308944584462494
+      Dad Sing Note LEFT0008: 6732529912725816356
+      Dad Sing Note RIGHT0000: 2477490562412138726
+      Dad Sing Note RIGHT0001: 4446859626554994925
+      Dad Sing Note RIGHT0002: -1960657563725839407
+      Dad Sing Note RIGHT0003: 1021456290226046817
+      Dad Sing Note RIGHT0004: -523136226594671032
+      Dad Sing Note RIGHT0005: -7292567874304985901
+      Dad Sing Note RIGHT0006: 5683851638384899570
+      Dad Sing Note RIGHT0007: -4457789436908973831
+      Dad Sing Note RIGHT0008: 357391944120993246
+      Dad Sing Note UP0000: -7404560147086493089
+      Dad Sing Note UP0001: -7859986410234419109
+      Dad Sing Note UP0002: 5552203620857318157
+      Dad Sing Note UP0003: -8430229543839188189
+      Dad Sing Note UP0004: -51799685213130890
+      Dad Sing Note UP0005: -5133300061273107473
+      Dad Sing Note UP0006: -8239522000802244992
+      Dad Sing Note UP0007: -7832713928564391788
+      Dad Sing Note UP0008: -9141362237025755003
+      Dad idle dance0000: -8707701929941218994
+      Dad idle dance0001: 4514306177176364930
+      Dad idle dance0002: 857386756710351376
+      Dad idle dance0003: 1215558758027024569
+      Dad idle dance0004: -6339898786905128629
+      Dad idle dance0005: -3521678620548411694
+      Dad idle dance0006: 7338009003613694349
+      Dad idle dance0007: -7499797355841263418
+      Dad idle dance0008: -284847512634653122
+      Dad idle dance0009: 537678143646646040
+      Dad idle dance0010: -4372868969820008613
+      Dad idle dance0011: -744721315396939343
+      Dad idle dance0012: -8717416909272307463
+      Dad idle dance0013: -3888559250689767959
+      Dad idle dance0014: -8649134879366094639
+      Dad idle dance0015: 2654586434988465030
+      fall0000: -8894589087521090600
+      fall0001: 77061841190249176
+      fall0002: 4535387226582467857
+      fall0003: 3640225577283725102
+      fall0004: -6124341948694325313
+      fall0005: -4131134716394506761
+      fall0006: -3417364415236987097
+      fall0007: 7996235467008365218
+      fall0008: -238141972953354838
+      fall0009: 9084725789203781844
+      fall0010: -2410924245962686707
+      fall0011: 2165021886919986930
+      fall0012: -8311509136087223050
+      fall0013: -1747089547764321971
+      fall0014: 4203273044504013681
+      fall0015: 7872575310172200321
+      fall0016: -1082644768475953354
+      fall0017: -9087596769726233414
+      fall0018: 7334862672455345240
+      fall0019: 8117840614457950305
+      fall0020: -811653415203777841
+      fall0021: 3119581258863911612
+      fall0022: -4345936663826986734
+      fall0023: 9155014434819604048
+      fall0024: -2719843816440572542
+      fall0025: 1683084661297587465
+      fall0026: -464017273555588094
+      fall0027: 7218372366026701101
+      fall0028: -1877561524878206795
+      fall0029: -1901306500352372494
+      fall0030: 6153878691975717012
+      fall0031: 1112105814238231359
+      fall0032: 5459910540049784449
+      fall0033: -1480521859939045435
+      fall0034: -7918593344335494471
+      fall0035: -449765411485003097
+      fall0036: 4842356199740697239
+      fall0037: -5459800344652611031
+      fall0038: 9167332573085082829
+      fall0039: -3439337036191238682
+      fall0040: 5058852418610492033
+      fall0041: 8399384040161299724
+      fall0042: -8880489323467108552
+      fall0043: 4335726395111993577
+      fall0044: -7483671236165919183
+      fall0045: -3370860241686867333
+      fall0046: -350256916106115250
+      fall0047: -729554260427430710
+      fall0048: 4014255811843941343
+      fall0049: 5742782880862742096
+      fall0050: -1321341461774608326
+      fall0051: 5823028349241782102
+      fall0052: 70575070713432566
+      fall0053: 694010067738200545
+      fall0054: -4322242990586811227
+      fall0055: -8285314995304457870
+      fall0056: -4002555223576639073
+      fall0057: -2511588348790959454
+      fall0058: -6915727601646938451
+      fall0059: -2929894388750399254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

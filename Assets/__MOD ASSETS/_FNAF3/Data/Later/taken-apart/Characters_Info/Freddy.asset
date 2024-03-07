@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: Freddy
+  m_EditorClassIdentifier: 
+  characterName: Freddy
+  animations:
+  - {fileID: 11400000, guid: 087ef784558be304da60f425ad0a3962, type: 2}
+  - {fileID: 11400000, guid: 2a5e4b523aee6254eaee7cf1b70abac6, type: 2}
+  - {fileID: 11400000, guid: cff8c89470c1a39478f25e7ba68c7744, type: 2}
+  - {fileID: 11400000, guid: c20553374e8cb0d41b930c3f0c603650, type: 2}
+  - {fileID: 11400000, guid: b3270317a9f868e4cb80eb8eb357b1b7, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: 2.85, y: 2.94}
+  orthographicSize: 6
+  yToUp: 3.34
+  yToDown: 2.54
+  xToLeft: 2.45
+  xToRight: 3.25
+  portrait: {fileID: -389693730, guid: 746de10dd40604c4c88ada8ccc8088ee, type: 3}
+  portraitDead: {fileID: 1661783015, guid: 746de10dd40604c4c88ada8ccc8088ee, type: 3}
+  portraitWin: {fileID: -389693730, guid: 746de10dd40604c4c88ada8ccc8088ee, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: 1.75, y: -6, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.5921569, g: 0.29411766, b: 0.03529412, a: 1}
+  songDurationColor: {r: 0.5921569, g: 0.29411766, b: 0.03529412, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 22100000, guid: 123acf36f3da1e1489534926fc788929, type: 2}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: bbd7cc20e10cf6e478c6a77975bae4b8, type: 3}
+  audioDeath: {fileID: 8300000, guid: 9a6460f624ef751479048cfc444a9040, type: 3}

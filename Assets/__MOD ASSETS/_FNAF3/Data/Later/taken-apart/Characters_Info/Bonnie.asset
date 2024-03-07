@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: Bonnie
+  m_EditorClassIdentifier: 
+  characterName: Bonnie
+  animations:
+  - {fileID: 11400000, guid: 2ab515b7c937afe4bb77be01cd236245, type: 2}
+  - {fileID: 11400000, guid: 713091df69876ee43b0b2e75b77fbd24, type: 2}
+  - {fileID: 11400000, guid: 96d68c33f242c2640a812a2376f5ce26, type: 2}
+  - {fileID: 11400000, guid: 039912d16c972e74eb3cf4a9958fc4da, type: 2}
+  - {fileID: 11400000, guid: 50cbb889e1fa5684994919cbc7264117, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 2.20593
+  cameraOffset: {x: 2.85, y: 2.94}
+  orthographicSize: 6
+  yToUp: 3.34
+  yToDown: 2.54
+  xToLeft: 2.45
+  xToRight: 3.25
+  portrait: {fileID: 166424263, guid: a71bd64c93133cc4eaa10fefe305c11c, type: 3}
+  portraitDead: {fileID: -1532244251, guid: a71bd64c93133cc4eaa10fefe305c11c, type: 3}
+  portraitWin: {fileID: 166424263, guid: a71bd64c93133cc4eaa10fefe305c11c, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -0.01, y: -6, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.3647059, g: 0.28235295, b: 0.5058824, a: 1}
+  songDurationColor: {r: 0.3647059, g: 0.28235295, b: 0.5058824, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 22100000, guid: 123acf36f3da1e1489534926fc788929, type: 2}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: b53bf425ca4b7784aac665cd95e2fd27, type: 3}
+  audioDeath: {fileID: 8300000, guid: 6dbcd59adb3ad024b8cada75bc57d8b5, type: 3}

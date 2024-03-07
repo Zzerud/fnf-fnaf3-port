@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: phchica
+  m_EditorClassIdentifier: 
+  characterName: phchica
+  animations:
+  - {fileID: 11400000, guid: 3a3edaab67f536d47b2e48cc1d869968, type: 2}
+  - {fileID: 11400000, guid: 39f9e017d170bab49a92e2ba324f4aea, type: 2}
+  - {fileID: 11400000, guid: 8207fe77d246c8d43b3027a22e3cabc6, type: 2}
+  - {fileID: 11400000, guid: bc2e099b3ee763648a9301061d881d8b, type: 2}
+  - {fileID: 11400000, guid: 3acba23ce9ed4ed439a7ebc72e0a7bd3, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 0.3411841
+  cameraOffset: {x: -5, y: 5.6}
+  orthographicSize: 3
+  yToUp: 6.1
+  yToDown: 5.1
+  xToLeft: -5.5
+  xToRight: -4.5
+  portrait: {fileID: 180944296, guid: be82ddc4a91888d4b98253d6e1db8997, type: 3}
+  portraitDead: {fileID: -1787762709, guid: be82ddc4a91888d4b98253d6e1db8997, type: 3}
+  portraitWin: {fileID: 180944296, guid: be82ddc4a91888d4b98253d6e1db8997, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -7.24, y: 4.29, z: 0}
+  changeColor: 1
+  healthColor: {r: 0.15686275, g: 0.14901961, b: 0.039215688, a: 1}
+  songDurationColor: {r: 0.15686275, g: 0.14901961, b: 0.039215688, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0

@@ -1,0 +1,21 @@
+1 - No animation!!!
+2 - Alt Animation 1
+3 - Alt Animation 2
+4 - GF Sing!!
+
+
+_________
+5 - sing second character
+6 - singing together
+
+_________
+9 - no press enemy
+
+
+
+_________
+100 - health note
+101 - "Sing - Girl"
+102 - "Sing - Boy"
+103 - "Sing - Bambi"
+104 - "Sing - Pinkie Pie"

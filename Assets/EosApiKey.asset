@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2006c7a2843279e4598781ed39185dd0, type: 3}
+  m_Name: EosApiKey
+  m_EditorClassIdentifier: 
+  epicProductName: Unity Party
+  epicProductVersion: Beta 1
+  epicProductId: 52c346b9ad31402eb3aee0df344fee06
+  epicSandboxId: a43d28bfb19147bdbf188f764b1b2c18
+  epicDeploymentId: 5610d06eefa94b148da34f0ca064270a
+  epicClientId: xyza78913T9VS2qFZyYYUmTgzYOtgBDc
+  epicClientSecret: ECSEYYUzgxXwpPN0Iplbx1ldhEnNmMNKP3NeK5FNavU

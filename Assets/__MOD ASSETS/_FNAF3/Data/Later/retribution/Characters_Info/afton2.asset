@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: afton2
+  m_EditorClassIdentifier: 
+  characterName: afton2
+  animations:
+  - {fileID: 11400000, guid: c75ccc7db908cb54292d3c0bb2f3539a, type: 2}
+  - {fileID: 11400000, guid: 4446a5460fba53c44be352196cbed844, type: 2}
+  - {fileID: 11400000, guid: 40409140558385340a2327c7da9555f9, type: 2}
+  - {fileID: 11400000, guid: 8ea14f2b0535dea4484d603b2493f5a0, type: 2}
+  - {fileID: 11400000, guid: 4abadf77a15525246b001c8345150bd0, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: -0.86, y: 3.63}
+  orthographicSize: 2
+  yToUp: 3.93
+  yToDown: 3.33
+  xToLeft: -1.16
+  xToRight: -0.56
+  portrait: {fileID: 1731361586, guid: feccd97cceacb41468bbf884d08969ab, type: 3}
+  portraitDead: {fileID: 632020074, guid: feccd97cceacb41468bbf884d08969ab, type: 3}
+  portraitWin: {fileID: 1731361586, guid: feccd97cceacb41468bbf884d08969ab, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -2.46, y: -0.76, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}
+  songDurationColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0

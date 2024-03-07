@@ -1,0 +1,4473 @@
+fileFormatVersion: 2
+guid: e1a7c2ad4e2a2ca48bc52fe6ee90e378
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 52
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6999
+        width: 670
+        height: 501
+      alignment: 9
+      pivot: {x: -0.040298507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f000e7e684a0bd0800000000000000
+      internalID: -2663236590238691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6984
+        width: 667
+        height: 516
+      alignment: 9
+      pivot: {x: -0.062968515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42fa14ab63e8460800000000000000
+      internalID: 7245789024079521000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 6979
+        width: 676
+        height: 521
+      alignment: 9
+      pivot: {x: -0.041420117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f73e615f0e0ac0800000000000000
+      internalID: -3887152585958231916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 6986
+        width: 681
+        height: 514
+      alignment: 9
+      pivot: {x: -0.007342144, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f9dea47171ffd0800000000000000
+      internalID: -2309940387900688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 6990
+        width: 662
+        height: 510
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadb6d6145127170800000000000000
+      internalID: 8174619644383713983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 6959
+        width: 625
+        height: 541
+      alignment: 9
+      pivot: {x: -0.0224, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3625247a3e8cb0800000000000000
+      internalID: -4859882677372306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 6946
+        width: 592
+        height: 554
+      alignment: 9
+      pivot: {x: -0.050675675, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ed3690ab36c440800000000000000
+      internalID: 4955714000869255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 6948
+        width: 583
+        height: 552
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c08b25fc20ba30800000000000000
+      internalID: 4228929481609365457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86cd2324df199e00800000000000000
+      internalID: 1051906983951451791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0009
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56262e7628a6ff000800000000000000
+      internalID: 71893227382399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0010
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ac2b4c1c550cd0800000000000000
+      internalID: -2592564733891795422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0011
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7044e72c5f94b70800000000000000
+      internalID: 8883901955655862194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0012
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cdfe31a5a9cd20800000000000000
+      internalID: 3299350313990735781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0013
+      rect:
+        serializedVersion: 2
+        x: 5172
+        y: 6950
+        width: 583
+        height: 550
+      alignment: 9
+      pivot: {x: -0.060034305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca3bb20f3c3f2630800000000000000
+      internalID: 3904405643279940297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0014
+      rect:
+        serializedVersion: 2
+        x: 5757
+        y: 6914
+        width: 572
+        height: 586
+      alignment: 9
+      pivot: {x: -0.07517482, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a52b2840faf21cb0800000000000000
+      internalID: -4894573935088425561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0015
+      rect:
+        serializedVersion: 2
+        x: 6331
+        y: 6878
+        width: 547
+        height: 622
+      alignment: 9
+      pivot: {x: -0.11700183, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507692f247dde8d0800000000000000
+      internalID: -2815357509498933156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6225
+        width: 516
+        height: 651
+      alignment: 9
+      pivot: {x: -0.18410853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e18dc8c5b3db5c0800000000000000
+      internalID: -4198134008953430466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 6334
+        width: 837
+        height: 542
+      alignment: 9
+      pivot: {x: -0.052568696, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b69fdb185d271c0800000000000000
+      internalID: -4507305523829708018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 6381
+        width: 881
+        height: 495
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e74be7cf5c7490800000000000000
+      internalID: -7747211946733606708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6367
+        width: 834
+        height: 509
+      alignment: 9
+      pivot: {x: -0.056354918, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626a679d6583f290800000000000000
+      internalID: -7857790219093122460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 6349
+        width: 785
+        height: 527
+      alignment: 9
+      pivot: {x: -0.122292995, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc757f8302bbf8040800000000000000
+      internalID: 4652142687166093263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 6327
+        width: 745
+        height: 549
+      alignment: 9
+      pivot: {x: -0.18255034, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414f311604ccad80800000000000000
+      internalID: -8237994088029273787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 6308
+        width: 722
+        height: 568
+      alignment: 9
+      pivot: {x: -0.22022161, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e34bd882a580b0800000000000000
+      internalID: -5726992642453805875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 5334
+        y: 6295
+        width: 716
+        height: 581
+      alignment: 9
+      pivot: {x: -0.23044693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac74d0eb45daa7ae0800000000000000
+      internalID: -1550736542198315062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 6052
+        y: 6283
+        width: 718
+        height: 593
+      alignment: 9
+      pivot: {x: -0.2270195, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905303fa28dcd840800000000000000
+      internalID: 5250308944584462494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c6bff840ce6d50800000000000000
+      internalID: 6732529912725816356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfafbe83894ab110800000000000000
+      internalID: 1277414273697427409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822f91eb78bb0e30800000000000000
+      internalID: 4470869897301140100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b385f298d1c9b520800000000000000
+      internalID: 2718416986017465268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700f1830bac359a0800000000000000
+      internalID: -6245425400028135311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5621
+        width: 720
+        height: 602
+      alignment: 9
+      pivot: {x: -0.22361112, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3212b96efca96920800000000000000
+      internalID: 2984106436804612670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0014
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5609
+        width: 602
+        height: 614
+      alignment: 9
+      pivot: {x: -0.46345514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b091cb384cfc090800000000000000
+      internalID: -8011969141993305330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0015
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 5586
+        width: 564
+        height: 637
+      alignment: 9
+      pivot: {x: -0.5620567, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a1ce457833a340800000000000000
+      internalID: 4873801298228650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0016
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 5560
+        width: 553
+        height: 663
+      alignment: 9
+      pivot: {x: -0.5931284, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72390c5e888483b60800000000000000
+      internalID: 7726004913561441063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 5686
+        width: 545
+        height: 537
+      alignment: 9
+      pivot: {x: -0.13944954, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e055fa4a80d16220800000000000000
+      internalID: 2477490562412138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 5708
+        width: 558
+        height: 515
+      alignment: 9
+      pivot: {x: -0.13620071, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de036d6154b66bd30800000000000000
+      internalID: 4446859626554994925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 5699
+        width: 549
+        height: 524
+      alignment: 9
+      pivot: {x: -0.13843352, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d340f375585ac4e0800000000000000
+      internalID: -1960657563725839407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 5675
+        width: 536
+        height: 548
+      alignment: 9
+      pivot: {x: -0.12126866, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16703848511fc2e00800000000000000
+      internalID: 1021456290226046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 5644
+        width: 525
+        height: 579
+      alignment: 9
+      pivot: {x: -0.078095235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bfa4af527db8f0800000000000000
+      internalID: -523136226594671032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 5617
+        width: 503
+        height: 606
+      alignment: 9
+      pivot: {x: -0.07952286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d430afe7289bca90800000000000000
+      internalID: -7292567874304985901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 5610
+        width: 485
+        height: 613
+      alignment: 9
+      pivot: {x: -0.09072165, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f534f563f811ee40800000000000000
+      internalID: 5683851638384899570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 5604
+        width: 482
+        height: 619
+      alignment: 9
+      pivot: {x: -0.099585064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05d812020c222c0800000000000000
+      internalID: -4457789436908973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed50be26416b5f400800000000000000
+      internalID: 357391944120993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309a2b2068c7ee2b0800000000000000
+      internalID: -5553364375488517885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7bd25130d2ae10800000000000000
+      internalID: 2207555677627054980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c4e2831a463690800000000000000
+      internalID: -7622823871617121965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e4cfdab716b7a0800000000000000
+      internalID: -6361871332228669315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 481
+        height: 624
+      alignment: 9
+      pivot: {x: -0.103950106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ed33c155e55540800000000000000
+      internalID: 4996151500968159230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0014
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4923
+        width: 467
+        height: 635
+      alignment: 9
+      pivot: {x: -0.059957173, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41fc5feda5ed900800000000000000
+      internalID: 711105704824345781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0015
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 4915
+        width: 483
+        height: 643
+      alignment: 9
+      pivot: {x: -0.024844721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf4389a98b320cb0800000000000000
+      internalID: -4899287982185164867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0016
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 4903
+        width: 495
+        height: 655
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef45957a2ae70510800000000000000
+      internalID: 1515437267715706858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0000
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 4981
+        width: 657
+        height: 577
+      alignment: 9
+      pivot: {x: -0.01217656, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a35eaf6c7bd3990800000000000000
+      internalID: -7404560147086493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0001
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 4978
+        width: 677
+        height: 580
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58649ef008bbe290800000000000000
+      internalID: -7859986410234419109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0002
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 4972
+        width: 672
+        height: 586
+      alignment: 9
+      pivot: {x: -0.004464286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b86ddb6c36d0d40800000000000000
+      internalID: 5552203620857318157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0003
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 4966
+        width: 644
+        height: 592
+      alignment: 9
+      pivot: {x: -0.024844721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b367825eec10b80800000000000000
+      internalID: -8430229543839188189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0004
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 4941
+        width: 616
+        height: 617
+      alignment: 9
+      pivot: {x: -0.06655844, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe463f578f74ff0800000000000000
+      internalID: -51799685213130890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0005
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 4902
+        width: 591
+        height: 656
+      alignment: 9
+      pivot: {x: -0.11167513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3535aaacad2c8b0800000000000000
+      internalID: -5133300061273107473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0006
+      rect:
+        serializedVersion: 2
+        x: 5803
+        y: 4877
+        width: 563
+        height: 681
+      alignment: 9
+      pivot: {x: -0.1669627, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869a27256657ad80800000000000000
+      internalID: -8239522000802244992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0007
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 4866
+        width: 557
+        height: 692
+      alignment: 9
+      pivot: {x: -0.17953321, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904aa47e2c9c4390800000000000000
+      internalID: -7832713928564391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e8ea7a7b532180800000000000000
+      internalID: -9141362237025755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522a3402e36dbbc0800000000000000
+      internalID: -3765743891027189161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec60cbfb2f1f900800000000000000
+      internalID: 716620721035857452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68476d5982e37310800000000000000
+      internalID: 1401712988647802986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7383ff856e6ae3980800000000000000
+      internalID: -8557218733691553737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 562
+        height: 709
+      alignment: 9
+      pivot: {x: -0.16903915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65b39e8d06a57c0800000000000000
+      internalID: -4081843627515750701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0014
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4145
+        width: 585
+        height: 719
+      alignment: 9
+      pivot: {x: -0.12307692, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545197981804ad620800000000000000
+      internalID: 2799621043465557317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0015
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 4144
+        width: 595
+        height: 720
+      alignment: 9
+      pivot: {x: -0.10420168, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c3090ef0056c70800000000000000
+      internalID: 8963571724423774505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0016
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 4144
+        width: 585
+        height: 720
+      alignment: 9
+      pivot: {x: -0.12307692, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47469e05144fa6490800000000000000
+      internalID: -7752115247197363084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0017
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4144
+        width: 554
+        height: 720
+      alignment: 9
+      pivot: {x: -0.18592058, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5383c6d4b40caff40800000000000000
+      internalID: 5763130102827989045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0018
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 4158
+        width: 521
+        height: 706
+      alignment: 9
+      pivot: {x: -0.26103646, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5a7129f5c961210800000000000000
+      internalID: 1303401076457186763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 4146
+        width: 549
+        height: 718
+      alignment: 9
+      pivot: {x: -0.09289618, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ced7ea37082780800000000000000
+      internalID: -8707701929941218994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 4149
+        width: 586
+        height: 715
+      alignment: 9
+      pivot: {x: -0.023890786, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e2f1ec8906ae30800000000000000
+      internalID: 4514306177176364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 4150
+        width: 600
+        height: 714
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01248dc66bc06eb00800000000000000
+      internalID: 857386756710351376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 5155
+        y: 4160
+        width: 600
+        height: 704
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d0d700488ed010800000000000000
+      internalID: 1215558758027024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 5757
+        y: 4166
+        width: 597
+        height: 698
+      alignment: 9
+      pivot: {x: -0.0050251256, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41079eb4a72408a0800000000000000
+      internalID: -6339898786905128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 4163
+        width: 592
+        height: 701
+      alignment: 9
+      pivot: {x: -0.013513514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decf1904fb702fc0800000000000000
+      internalID: -3521678620548411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3438
+        width: 584
+        height: 704
+      alignment: 9
+      pivot: {x: -0.02739726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8923037f48d5d560800000000000000
+      internalID: 7338009003613694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 3440
+        width: 572
+        height: 702
+      alignment: 9
+      pivot: {x: -0.04895105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8eaad5a0e5be790800000000000000
+      internalID: -7499797355841263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3438
+        width: 558
+        height: 704
+      alignment: 9
+      pivot: {x: -0.07526882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36024a42b40c0cf0800000000000000
+      internalID: -284847512634653122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3443
+        width: 544
+        height: 699
+      alignment: 9
+      pivot: {x: -0.10294118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fbc834c67367700800000000000000
+      internalID: 537678143646646040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0010
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 3454
+        width: 529
+        height: 688
+      alignment: 9
+      pivot: {x: -0.1342155, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcc8427d27053c0800000000000000
+      internalID: -4372868969820008613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0011
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3467
+        width: 517
+        height: 675
+      alignment: 9
+      pivot: {x: -0.16054158, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19a1bc8e73aa5f0800000000000000
+      internalID: -744721315396939343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0012
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 3474
+        width: 511
+        height: 668
+      alignment: 9
+      pivot: {x: -0.1741683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f827d30283850780800000000000000
+      internalID: -8717416909272307463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0013
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 3480
+        width: 508
+        height: 662
+      alignment: 9
+      pivot: {x: -0.18110237, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c396c6ff090ac0800000000000000
+      internalID: -3888559250689767959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sit0000
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d05ce5c7bc23750800000000000000
+      internalID: 6283308165161618832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0001
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bcbbd8a9a778df0800000000000000
+      internalID: -178038856036398335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0002
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344be2008c3ff930800000000000000
+      internalID: 4179125499725562936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0003
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58605d16ac93751c0800000000000000
+      internalID: -4515076560028105083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0004
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0e463c1b72ab20800000000000000
+      internalID: 3144210850958413352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0005
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e94b75e3906ea70800000000000000
+      internalID: 8855775880634736148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0006
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace9431f37336810800000000000000
+      internalID: 1757309023650704550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0007
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57abf3d5f190f39b0800000000000000
+      internalID: -5098346222847018379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0008
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f4016b4d690980800000000000000
+      internalID: -8572200245205338174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0009
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996a1c0e2259e7d0800000000000000
+      internalID: -2888687328256431718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0010
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d150b1d3ed36cf0800000000000000
+      internalID: -260119999429665481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0011
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bdfdba9a0050740800000000000000
+      internalID: 5117497280309484363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0012
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ae30163c794db0800000000000000
+      internalID: -4807174555598673953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0013
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2589b3ecd220fb90800000000000000
+      internalID: -7210224671311428310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0014
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a37a61b251c4c10800000000000000
+      internalID: 2039028006099827274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0015
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aece9677561cc230800000000000000
+      internalID: 3660325162053455521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0016
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681ff3c94cb0f5b0800000000000000
+      internalID: -5336558533427128220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0017
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b916299dc82345f0800000000000000
+      internalID: -773729847474775627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0018
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd7c5de07738440800000000000000
+      internalID: 4936920522128088910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0019
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb4be3956d9dce0800000000000000
+      internalID: -1379836132019880124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0020
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9528cc9fd135ed0800000000000000
+      internalID: -2426562815507408467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0021
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33093c9e7e73ce920800000000000000
+      internalID: 3020850919257641011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0022
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d9d690d552e770800000000000000
+      internalID: 8638561389622450048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0023
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86995fb6813862960800000000000000
+      internalID: 7576887564011149672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0024
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125309a48c52ad760800000000000000
+      internalID: 7483335273004152097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0025
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62876a6511e7d9460800000000000000
+      internalID: 7250089588069660710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0026
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a8c4b1a83ec240800000000000000
+      internalID: 4813847318879576800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0027
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d723178395fee540800000000000000
+      internalID: 5039235047049340885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0028
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf03dc8cff070a0800000000000000
+      internalID: -6885722592348406924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0029
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2313d041d3115690800000000000000
+      internalID: -7615283705450130643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0030
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e95a1b56111f10800000000000000
+      internalID: 2238595070319781994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0031
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d5de554d1354b10800000000000000
+      internalID: 1965031600461536642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0032
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9f8455217b97f0800000000000000
+      internalID: -604765319804773442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0033
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce44c1071ceaf91e0800000000000000
+      internalID: -2188838748045949716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0034
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a4453d4ad9fde0800000000000000
+      internalID: -1298766992378648473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0035
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2795abe9d6d0760800000000000000
+      internalID: 7425711889102500563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0036
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db504e2428e6a4fd0800000000000000
+      internalID: -2356949949227989571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0037
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fae85ff9d46ec20800000000000000
+      internalID: 3235358731727187780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0038
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43818585856bb9810800000000000000
+      internalID: 1773211368855967796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0039
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a289d7abe659960800000000000000
+      internalID: 7608108892762417767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0040
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5cea03590d082e0800000000000000
+      internalID: -2125469684933409361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0041
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac5e8fb350ccb300800000000000000
+      internalID: 269301543663983776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0042
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c4cad322930e30800000000000000
+      internalID: 4468575937973502008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0043
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f763be1a81e8fe270800000000000000
+      internalID: 8281994476204537471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0044
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ecd076f4ae4c3a0800000000000000
+      internalID: -6645929523339735542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0045
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6f71f21faed7f0800000000000000
+      internalID: -585838405615654160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0046
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d72ba07eb66620800000000000000
+      internalID: 2767108412182878719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0047
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b282b1d7c279501f0800000000000000
+      internalID: -1079290318352078805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0048
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd4cb09e6e060050800000000000000
+      internalID: 5766312240931950030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0049
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad7f55a28de8d00800000000000000
+      internalID: 976955845528509143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0050
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609bf29acc4c7b30800000000000000
+      internalID: 4286385378282934368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0050
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 3737
+        width: 617
+        height: 405
+      alignment: 9
+      pivot: {x: -0.10048623, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609bf29acc4c7b30800000000000000
+      internalID: 4286385378282934368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0051
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 3719
+        width: 615
+        height: 423
+      alignment: 9
+      pivot: {x: -0.10406504, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6249eb095e8d20800000000000000
+      internalID: 3282659086092627315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0052
+      rect:
+        serializedVersion: 2
+        x: 5575
+        y: 3710
+        width: 606
+        height: 432
+      alignment: 9
+      pivot: {x: -0.120462045, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fd1abd352aab50800000000000000
+      internalID: 6605132750538011306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0053
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 3700
+        width: 595
+        height: 442
+      alignment: 9
+      pivot: {x: -0.14117648, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31354d562ff9f60800000000000000
+      internalID: 8043413978674828192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0054
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2985
+        width: 582
+        height: 451
+      alignment: 9
+      pivot: {x: -0.16666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b1046fc8fa4430800000000000000
+      internalID: 3768097607868592278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0055
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2975
+        width: 569
+        height: 461
+      alignment: 9
+      pivot: {x: -0.19332162, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae31e0a9a535220800000000000000
+      internalID: 2473420238064183879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0056
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2964
+        width: 556
+        height: 472
+      alignment: 9
+      pivot: {x: -0.22122303, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04d72ac0429d060800000000000000
+      internalID: 6978648734271619245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0057
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2954
+        width: 565
+        height: 482
+      alignment: 9
+      pivot: {x: -0.20176992, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18263f4b866739460800000000000000
+      internalID: 7247266417453785729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0058
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2945
+        width: 561
+        height: 491
+      alignment: 9
+      pivot: {x: -0.21033868, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7885a65538546b0800000000000000
+      internalID: -5312695782533986324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0059
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 2933
+        width: 551
+        height: 503
+      alignment: 9
+      pivot: {x: -0.2323049, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2316842da443552e0800000000000000
+      internalID: -2137744952157249230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0060
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 2927
+        width: 540
+        height: 509
+      alignment: 9
+      pivot: {x: -0.2574074, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68683c41e434547a0800000000000000
+      internalID: -6393630093347682682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0061
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 2939
+        width: 527
+        height: 497
+      alignment: 9
+      pivot: {x: -0.28842506, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54061c5840c5960b0800000000000000
+      internalID: -5734951475985948603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0062
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 2971
+        width: 520
+        height: 465
+      alignment: 9
+      pivot: {x: -0.30576923, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea7cd28cadd0a20800000000000000
+      internalID: 3030318677586587378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0063
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 3015
+        width: 516
+        height: 421
+      alignment: 9
+      pivot: {x: -0.31589147, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f65ad41ce319770800000000000000
+      internalID: 8615736562088767294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0064
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 3052
+        width: 513
+        height: 384
+      alignment: 9
+      pivot: {x: -0.32358673, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7154bc19bea5e610800000000000000
+      internalID: 1649916948574916989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0065
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 3062
+        width: 492
+        height: 374
+      alignment: 9
+      pivot: {x: -0.3800813, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ba18bd72ca3be0800000000000000
+      internalID: -1496670080931810788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0066
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2550
+        width: 497
+        height: 375
+      alignment: 9
+      pivot: {x: -0.36619717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2ae7c48411c390800000000000000
+      internalID: -7799930519106736605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0067
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2547
+        width: 526
+        height: 378
+      alignment: 9
+      pivot: {x: -0.2908745, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377691d9315274a0800000000000000
+      internalID: -6597121195373070541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0068
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2543
+        width: 549
+        height: 382
+      alignment: 9
+      pivot: {x: -0.23679417, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf1e33edd399ae0800000000000000
+      internalID: -1542133372835202373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0069
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 2540
+        width: 570
+        height: 385
+      alignment: 9
+      pivot: {x: -0.19122808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9af23c6522b730800000000000000
+      internalID: 4013311364582513533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0070
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2535
+        width: 592
+        height: 390
+      alignment: 9
+      pivot: {x: -0.14695945, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c2479d14aec3630800000000000000
+      internalID: 3908256145192791112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0071
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 2528
+        width: 619
+        height: 397
+      alignment: 9
+      pivot: {x: -0.09693053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec1c101ae650380800000000000000
+      internalID: -9005670242059170257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0072
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2516
+        width: 631
+        height: 409
+      alignment: 9
+      pivot: {x: -0.07606973, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d46d5f7641cef70800000000000000
+      internalID: 9217764974059212100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0073
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2495
+        width: 629
+        height: 430
+      alignment: 9
+      pivot: {x: -0.07949126, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4304814ede0b13880800000000000000
+      internalID: -8632924474911997900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0074
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 2479
+        width: 613
+        height: 446
+      alignment: 9
+      pivot: {x: -0.10766721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba6523ea6d1f3c10800000000000000
+      internalID: 2035377901509372603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0075
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 2469
+        width: 590
+        height: 456
+      alignment: 9
+      pivot: {x: -0.15084746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de3526dbc9aa6920800000000000000
+      internalID: 2984384396022595280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0076
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 2465
+        width: 563
+        height: 460
+      alignment: 9
+      pivot: {x: -0.20603907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b21894e0997ce0800000000000000
+      internalID: -1406934097098263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0077
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 2454
+        width: 531
+        height: 471
+      alignment: 9
+      pivot: {x: -0.2787194, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dadadbef8af3a080800000000000000
+      internalID: -9177216119606682920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0078
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1959
+        width: 497
+        height: 493
+      alignment: 9
+      pivot: {x: -0.36619717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7480fb0a63b83ca10800000000000000
+      internalID: 1928538132186073159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0079
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1928
+        width: 460
+        height: 524
+      alignment: 9
+      pivot: {x: -0.47608694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f40979b408510410800000000000000
+      internalID: 1441530133050098929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0080
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1894
+        width: 421
+        height: 558
+      alignment: 9
+      pivot: {x: -0.6128266, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e70daf3c7e5e7a0800000000000000
+      internalID: -6348413270796239347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0081
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1860
+        width: 419
+        height: 592
+      alignment: 9
+      pivot: {x: -0.62052506, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d502750d441d770800000000000000
+      internalID: 8633757622251576580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0082
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1827
+        width: 419
+        height: 625
+      alignment: 9
+      pivot: {x: -0.62052506, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385a8884074a3630800000000000000
+      internalID: 3907513711493535794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0083
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1815
+        width: 458
+        height: 637
+      alignment: 9
+      pivot: {x: -0.5676856, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401a2c7be35db730800000000000000
+      internalID: 4016458713549901899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0084
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1821
+        width: 537
+        height: 631
+      alignment: 9
+      pivot: {x: -0.45623836, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c439a2e2cab5a00800000000000000
+      internalID: 746379477542718612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0085
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1843
+        width: 635
+        height: 609
+      alignment: 9
+      pivot: {x: -0.27086616, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce230bd5353b4340800000000000000
+      internalID: 4849027929218428611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0086
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 1885
+        width: 666
+        height: 567
+      alignment: 9
+      pivot: {x: -0.17417417, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee94b1e6a185f8e0800000000000000
+      internalID: -1660278333864894740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0087
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 1938
+        width: 665
+        height: 514
+      alignment: 9
+      pivot: {x: -0.114285715, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51344a9e4a974de0800000000000000
+      internalID: -1348939900987887267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0088
+      rect:
+        serializedVersion: 2
+        x: 5197
+        y: 1933
+        width: 650
+        height: 519
+      alignment: 9
+      pivot: {x: -0.07692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9737258f2309d0800000000000000
+      internalID: -2809349493613945863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0089
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 1905
+        width: 642
+        height: 547
+      alignment: 9
+      pivot: {x: -0.057632398, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6841ad68f3579b6a0800000000000000
+      internalID: -6432981677016214394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0090
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1244
+        width: 640
+        height: 569
+      alignment: 9
+      pivot: {x: -0.0609375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a8400bc98d9970800000000000000
+      internalID: 8763311954908980387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0091
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1223
+        width: 623
+        height: 590
+      alignment: 9
+      pivot: {x: -0.08988764, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace130fcd8f06f60800000000000000
+      internalID: 8025688163780521132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0092
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1208
+        width: 615
+        height: 605
+      alignment: 9
+      pivot: {x: -0.10406504, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe1190f05b99a90800000000000000
+      internalID: -7306609844250611746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0093
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1191
+        width: 613
+        height: 622
+      alignment: 9
+      pivot: {x: -0.10766721, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743e375f3378e8ff0800000000000000
+      internalID: -31939490113920185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0094
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1170
+        width: 614
+        height: 643
+      alignment: 9
+      pivot: {x: -0.10586319, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6e9da5ebdaf4b0800000000000000
+      internalID: -5405766623198025201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0095
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 1143
+        width: 599
+        height: 670
+      alignment: 9
+      pivot: {x: -0.13355593, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c557937bba7d1f0800000000000000
+      internalID: -1020157987144770552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0096
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1101
+        width: 562
+        height: 712
+      alignment: 9
+      pivot: {x: -0.20818505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698e68a7065eb330800000000000000
+      internalID: 3728512132399925612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0097
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1095
+        width: 544
+        height: 718
+      alignment: 9
+      pivot: {x: -0.24816176, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe06500658e53db0800000000000000
+      internalID: -4812685170705035531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0098
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 1164
+        width: 593
+        height: 649
+      alignment: 9
+      pivot: {x: -0.1450253, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7579a45a7c3b0300800000000000000
+      internalID: 219335502961669503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0099
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 1289
+        width: 665
+        height: 524
+      alignment: 9
+      pivot: {x: -0.021052632, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef0ef45c6930cc0800000000000000
+      internalID: -3745984690849251765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0100
+      rect:
+        serializedVersion: 2
+        x: 6088
+        y: 1302
+        width: 679
+        height: 511
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a65a5f1361080570800000000000000
+      internalID: 8432991827490657957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 644
+        height: 517
+      alignment: 9
+      pivot: {x: -0.054347824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c5e7df7efecb00800000000000000
+      internalID: 850897204656062511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0102
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 572
+        width: 609
+        height: 521
+      alignment: 9
+      pivot: {x: -0.11494253, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96323f96a45566a40800000000000000
+      internalID: 5361066184524637033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0103
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 568
+        width: 585
+        height: 525
+      alignment: 9
+      pivot: {x: -0.16068377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c47856184f27a00800000000000000
+      internalID: 752932924315618372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0104
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 565
+        width: 563
+        height: 528
+      alignment: 9
+      pivot: {x: -0.20603907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a54fe055d6fa350800000000000000
+      internalID: 6030158638162926198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0105
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 567
+        width: 544
+        height: 526
+      alignment: 9
+      pivot: {x: -0.24816176, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7d13c7e363e720800000000000000
+      internalID: 2874250834254593479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0106
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 553
+        width: 533
+        height: 540
+      alignment: 9
+      pivot: {x: -0.2739212, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb679d718923fe90800000000000000
+      internalID: -6993200160241652799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0107
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 528
+        width: 528
+        height: 565
+      alignment: 9
+      pivot: {x: -0.28598484, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4460aa2c6e39aa0800000000000000
+      internalID: -6155322541934754636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0108
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 504
+        width: 508
+        height: 589
+      alignment: 9
+      pivot: {x: -0.33661416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9a60c8564f4e080800000000000000
+      internalID: -9158927025186625092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0109
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 437
+        width: 497
+        height: 656
+      alignment: 9
+      pivot: {x: -0.36619717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eeb92c5405ad6f0800000000000000
+      internalID: -659126134908391902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0110
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 401
+        width: 504
+        height: 692
+      alignment: 9
+      pivot: {x: -0.3472222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ae4a6393da6900800000000000000
+      internalID: 678587323969872010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand0111
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 431
+        width: 508
+        height: 662
+      alignment: 9
+      pivot: {x: -0.33661416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d59013b1945a92a0800000000000000
+      internalID: -6729973708400585256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dad Sing Note DOWN0000: -2663236590238691572
+      Dad Sing Note DOWN0001: 7245789024079521000
+      Dad Sing Note DOWN0002: -3887152585958231916
+      Dad Sing Note DOWN0003: -2309940387900688523
+      Dad Sing Note DOWN0004: 8174619644383713983
+      Dad Sing Note DOWN0005: -4859882677372306299
+      Dad Sing Note DOWN0006: 4955714000869255256
+      Dad Sing Note DOWN0007: 4228929481609365457
+      Dad Sing Note DOWN0008: 1051906983951451791
+      Dad Sing Note DOWN0009: 71893227382399589
+      Dad Sing Note DOWN0010: -2592564733891795422
+      Dad Sing Note DOWN0011: 8883901955655862194
+      Dad Sing Note DOWN0012: 3299350313990735781
+      Dad Sing Note DOWN0013: 3904405643279940297
+      Dad Sing Note DOWN0014: -4894573935088425561
+      Dad Sing Note DOWN0015: -2815357509498933156
+      Dad Sing Note DOWN0016: -4198134008953430466
+      Dad Sing Note LEFT0000: -4507305523829708018
+      Dad Sing Note LEFT0001: -7747211946733606708
+      Dad Sing Note LEFT0002: -7857790219093122460
+      Dad Sing Note LEFT0003: 4652142687166093263
+      Dad Sing Note LEFT0004: -8237994088029273787
+      Dad Sing Note LEFT0005: -5726992642453805875
+      Dad Sing Note LEFT0006: -1550736542198315062
+      Dad Sing Note LEFT0007: 5250308944584462494
+      Dad Sing Note LEFT0008: 6732529912725816356
+      Dad Sing Note LEFT0009: 1277414273697427409
+      Dad Sing Note LEFT0010: 4470869897301140100
+      Dad Sing Note LEFT0011: 2718416986017465268
+      Dad Sing Note LEFT0012: -6245425400028135311
+      Dad Sing Note LEFT0013: 2984106436804612670
+      Dad Sing Note LEFT0014: -8011969141993305330
+      Dad Sing Note LEFT0015: 4873801298228650927
+      Dad Sing Note LEFT0016: 7726004913561441063
+      Dad Sing Note RIGHT0000: 2477490562412138726
+      Dad Sing Note RIGHT0001: 4446859626554994925
+      Dad Sing Note RIGHT0002: -1960657563725839407
+      Dad Sing Note RIGHT0003: 1021456290226046817
+      Dad Sing Note RIGHT0004: -523136226594671032
+      Dad Sing Note RIGHT0005: -7292567874304985901
+      Dad Sing Note RIGHT0006: 5683851638384899570
+      Dad Sing Note RIGHT0007: -4457789436908973831
+      Dad Sing Note RIGHT0008: 357391944120993246
+      Dad Sing Note RIGHT0009: -5553364375488517885
+      Dad Sing Note RIGHT0010: 2207555677627054980
+      Dad Sing Note RIGHT0011: -7622823871617121965
+      Dad Sing Note RIGHT0012: -6361871332228669315
+      Dad Sing Note RIGHT0013: 4996151500968159230
+      Dad Sing Note RIGHT0014: 711105704824345781
+      Dad Sing Note RIGHT0015: -4899287982185164867
+      Dad Sing Note RIGHT0016: 1515437267715706858
+      Dad Sing Note UP0000: -7404560147086493089
+      Dad Sing Note UP0001: -7859986410234419109
+      Dad Sing Note UP0002: 5552203620857318157
+      Dad Sing Note UP0003: -8430229543839188189
+      Dad Sing Note UP0004: -51799685213130890
+      Dad Sing Note UP0005: -5133300061273107473
+      Dad Sing Note UP0006: -8239522000802244992
+      Dad Sing Note UP0007: -7832713928564391788
+      Dad Sing Note UP0008: -9141362237025755003
+      Dad Sing Note UP0009: -3765743891027189161
+      Dad Sing Note UP0010: 716620721035857452
+      Dad Sing Note UP0011: 1401712988647802986
+      Dad Sing Note UP0012: -8557218733691553737
+      Dad Sing Note UP0013: -4081843627515750701
+      Dad Sing Note UP0014: 2799621043465557317
+      Dad Sing Note UP0015: 8963571724423774505
+      Dad Sing Note UP0016: -7752115247197363084
+      Dad Sing Note UP0017: 5763130102827989045
+      Dad Sing Note UP0018: 1303401076457186763
+      Dad idle dance0000: -8707701929941218994
+      Dad idle dance0001: 4514306177176364930
+      Dad idle dance0002: 857386756710351376
+      Dad idle dance0003: 1215558758027024569
+      Dad idle dance0004: -6339898786905128629
+      Dad idle dance0005: -3521678620548411694
+      Dad idle dance0006: 7338009003613694349
+      Dad idle dance0007: -7499797355841263418
+      Dad idle dance0008: -284847512634653122
+      Dad idle dance0009: 537678143646646040
+      Dad idle dance0010: -4372868969820008613
+      Dad idle dance0011: -744721315396939343
+      Dad idle dance0012: -8717416909272307463
+      Dad idle dance0013: -3888559250689767959
+      sit0000: 6283308165161618832
+      stand0001: -178038856036398335
+      stand0002: 4179125499725562936
+      stand0003: -4515076560028105083
+      stand0004: 3144210850958413352
+      stand0005: 8855775880634736148
+      stand0006: 1757309023650704550
+      stand0007: -5098346222847018379
+      stand0008: -8572200245205338174
+      stand0009: -2888687328256431718
+      stand0010: -260119999429665481
+      stand0011: 5117497280309484363
+      stand0012: -4807174555598673953
+      stand0013: -7210224671311428310
+      stand0014: 2039028006099827274
+      stand0015: 3660325162053455521
+      stand0016: -5336558533427128220
+      stand0017: -773729847474775627
+      stand0018: 4936920522128088910
+      stand0019: -1379836132019880124
+      stand0020: -2426562815507408467
+      stand0021: 3020850919257641011
+      stand0022: 8638561389622450048
+      stand0023: 7576887564011149672
+      stand0024: 7483335273004152097
+      stand0025: 7250089588069660710
+      stand0026: 4813847318879576800
+      stand0027: 5039235047049340885
+      stand0028: -6885722592348406924
+      stand0029: -7615283705450130643
+      stand0030: 2238595070319781994
+      stand0031: 1965031600461536642
+      stand0032: -604765319804773442
+      stand0033: -2188838748045949716
+      stand0034: -1298766992378648473
+      stand0035: 7425711889102500563
+      stand0036: -2356949949227989571
+      stand0037: 3235358731727187780
+      stand0038: 1773211368855967796
+      stand0039: 7608108892762417767
+      stand0040: -2125469684933409361
+      stand0041: 269301543663983776
+      stand0042: 4468575937973502008
+      stand0043: 8281994476204537471
+      stand0044: -6645929523339735542
+      stand0045: -585838405615654160
+      stand0046: 2767108412182878719
+      stand0047: -1079290318352078805
+      stand0048: 5766312240931950030
+      stand0049: 976955845528509143
+      stand0050: 4286385378282934368
+      stand0051: 3282659086092627315
+      stand0052: 6605132750538011306
+      stand0053: 8043413978674828192
+      stand0054: 3768097607868592278
+      stand0055: 2473420238064183879
+      stand0056: 6978648734271619245
+      stand0057: 7247266417453785729
+      stand0058: -5312695782533986324
+      stand0059: -2137744952157249230
+      stand0060: -6393630093347682682
+      stand0061: -5734951475985948603
+      stand0062: 3030318677586587378
+      stand0063: 8615736562088767294
+      stand0064: 1649916948574916989
+      stand0065: -1496670080931810788
+      stand0066: -7799930519106736605
+      stand0067: -6597121195373070541
+      stand0068: -1542133372835202373
+      stand0069: 4013311364582513533
+      stand0070: 3908256145192791112
+      stand0071: -9005670242059170257
+      stand0072: 9217764974059212100
+      stand0073: -8632924474911997900
+      stand0074: 2035377901509372603
+      stand0075: 2984384396022595280
+      stand0076: -1406934097098263629
+      stand0077: -9177216119606682920
+      stand0078: 1928538132186073159
+      stand0079: 1441530133050098929
+      stand0080: -6348413270796239347
+      stand0081: 8633757622251576580
+      stand0082: 3907513711493535794
+      stand0083: 4016458713549901899
+      stand0084: 746379477542718612
+      stand0085: 4849027929218428611
+      stand0086: -1660278333864894740
+      stand0087: -1348939900987887267
+      stand0088: -2809349493613945863
+      stand0089: -6432981677016214394
+      stand0090: 8763311954908980387
+      stand0091: 8025688163780521132
+      stand0092: -7306609844250611746
+      stand0093: -31939490113920185
+      stand0094: -5405766623198025201
+      stand0095: -1020157987144770552
+      stand0096: 3728512132399925612
+      stand0097: -4812685170705035531
+      stand0098: 219335502961669503
+      stand0099: -3745984690849251765
+      stand0100: 8432991827490657957
+      stand0101: 850897204656062511
+      stand0102: 5361066184524637033
+      stand0103: 752932924315618372
+      stand0104: 6030158638162926198
+      stand0105: 2874250834254593479
+      stand0106: -6993200160241652799
+      stand0107: -6155322541934754636
+      stand0108: -9158927025186625092
+      stand0109: -659126134908391902
+      stand0110: 678587323969872010
+      stand0111: -6729973708400585256
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

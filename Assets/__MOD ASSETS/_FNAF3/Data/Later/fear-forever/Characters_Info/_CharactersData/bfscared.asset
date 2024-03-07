@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: bfscared
+  m_EditorClassIdentifier: 
+  characterName: bfscared
+  animations:
+  - {fileID: 11400000, guid: 6cddfe55f321cdb4cb9ed2116042bf52, type: 2}
+  - {fileID: 11400000, guid: 0494353b30b4a4145b0eef1786718329, type: 2}
+  - {fileID: 11400000, guid: 0294bcd85be36604eb092bd72170abec, type: 2}
+  - {fileID: 11400000, guid: fde56c7bc3985e44991ab882b590f562, type: 2}
+  - {fileID: 11400000, guid: eaa0660af8a5cbf49a5b2a94e8836757, type: 2}
+  - {fileID: 11400000, guid: aeef9064e2d141a4487f604a700c7482, type: 2}
+  - {fileID: 11400000, guid: 5fae29cbd9873ea45aee493bc55271cd, type: 2}
+  - {fileID: 11400000, guid: 877f15e8e32ab924ca3c0f8a2bd27c35, type: 2}
+  - {fileID: 11400000, guid: 36be68156100fbd41ba2b03ac4284017, type: 2}
+  - {fileID: 11400000, guid: c2a7ce3f8b2afa44e9c51679e796a4b8, type: 2}
+  - {fileID: 11400000, guid: a234eb839f2c6fc44a20aab0a71e2939, type: 2}
+  - {fileID: 11400000, guid: 8a74ea239783e394bac532cc42288ed5, type: 2}
+  - {fileID: 11400000, guid: 4ed51771d635e9447a5473daa4c436b3, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 0.8
+  cameraOffset: {x: -2.1, y: 3.5}
+  orthographicSize: 4.8
+  yToUp: 4
+  yToDown: 3
+  xToLeft: -2.6
+  xToRight: -1.6
+  portrait: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitDead: {fileID: 1333002745, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitWin: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -2.4, y: 0.03, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  songDurationColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 0
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: db2faa03632018e4caa1642a34e5f62a, type: 3}
+  audioDeath: {fileID: 8300000, guid: dd0ff0e516bdf224c9246455576b5bf7, type: 3}

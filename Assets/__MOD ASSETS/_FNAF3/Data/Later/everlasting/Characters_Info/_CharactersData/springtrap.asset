@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: springtrap
+  m_EditorClassIdentifier: 
+  characterName: springtrap
+  animations:
+  - {fileID: 11400000, guid: 5dc455db38486cb48bf0f4f1cad8b558, type: 2}
+  - {fileID: 11400000, guid: 391db625068682b48a304d860ecfe75d, type: 2}
+  - {fileID: 11400000, guid: 82a8e07155e666041894c6d6639c6df7, type: 2}
+  - {fileID: 11400000, guid: 922f150e34fce0748a8cd839283a822d, type: 2}
+  - {fileID: 11400000, guid: 2bd66b03dab29864880620321cafc96c, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: -0.5, y: 4.5}
+  orthographicSize: 3.2
+  yToUp: 5
+  yToDown: 4
+  xToLeft: -1
+  xToRight: 0
+  portrait: {fileID: 958608501, guid: be92269e54a20de418c7cfef63b5e2b5, type: 3}
+  portraitDead: {fileID: 1065227220, guid: be92269e54a20de418c7cfef63b5e2b5, type: 3}
+  portraitWin: {fileID: 958608501, guid: be92269e54a20de418c7cfef63b5e2b5, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 0
+  newTransform: {x: 0, y: 0, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.3647059, g: 0.36862746, b: 0.2392157, a: 1}
+  songDurationColor: {r: 0.3647059, g: 0.36862746, b: 0.2392157, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: wafflebonnie
+  m_EditorClassIdentifier: 
+  characterName: wafflebonnie
+  animations:
+  - {fileID: 11400000, guid: a7b1803e4cdf11244abbe8e236a5c142, type: 2}
+  - {fileID: 11400000, guid: 7a6a9ebb6eb4e11499dbb88a094da1c7, type: 2}
+  - {fileID: 11400000, guid: e2ac23b1e8eadd944a2af70bff730110, type: 2}
+  - {fileID: 11400000, guid: c670242c14ff26140bf70bdaf6cf48e3, type: 2}
+  - {fileID: 11400000, guid: c5cf10340eb3fd34cb8509a4f12ecb83, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 2.398976
+  cameraOffset: {x: -5, y: 4}
+  orthographicSize: 6
+  yToUp: 4.5
+  yToDown: 3.5
+  xToLeft: -5.5
+  xToRight: -4.5
+  portrait: {fileID: -1640830749, guid: e6c56b4701a4bca45827e4e1e118de77, type: 3}
+  portraitDead: {fileID: -2045698500, guid: e6c56b4701a4bca45827e4e1e118de77, type: 3}
+  portraitWin: {fileID: -1640830749, guid: e6c56b4701a4bca45827e4e1e118de77, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -14.39, y: -7.15, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.63529414, g: 0.49803925, b: 0.003921569, a: 1}
+  songDurationColor: {r: 0.63529414, g: 0.49803925, b: 0.003921569, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0

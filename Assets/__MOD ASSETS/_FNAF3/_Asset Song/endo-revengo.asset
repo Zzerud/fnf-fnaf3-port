@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506c61b726e84d84bc8f4ef30a7665a2, type: 3}
+  m_Name: endo-revengo
+  m_EditorClassIdentifier: 
+  songName: endo-revengo
+  sceneName: endo-revengo
+  chart: {fileID: 4900000, guid: 2938fa10556e59943ad88ee3157f4299, type: 3}
+  chartEasy: {fileID: 4900000, guid: e2b576c4031fcc4428d30eee611beaa1, type: 3}
+  instrumentals: {fileID: 8300000, guid: dccaf294252f5084cb0e9ff0461c1a2c, type: 3}
+  vocals: {fileID: 8300000, guid: 29924edff5e528e42a068aa830d01d9c, type: 3}
+  videoRus: {fileID: 32900000, guid: f377f70e761d5744396aaa5b1f501665, type: 3}
+  videoEng: {fileID: 32900000, guid: f377f70e761d5744396aaa5b1f501665, type: 3}
+  isGfEnabled: 0
+  isNonsensicaAnimations: 0
+  isCustomIcons: 0
+  songIndex: 7
+  imageInPause: {fileID: 21300000, guid: 9c17230d18365114fad76a93e8ba80aa, type: 3}
+  songColor: {r: 0.4901961, g: 0.3529412, b: 0.27058825, a: 1}
+  additionalSongColor: {r: 0.4901961, g: 0.3529412, b: 0.27058825, a: 1}

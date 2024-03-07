@@ -1,0 +1,1636 @@
+fileFormatVersion: 2
+guid: c61ed6d40d654d64ca17bbc6a740e2d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BF NOTE DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2771
+        width: 483
+        height: 529
+      alignment: 9
+      pivot: {x: -0.01863354, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99035fb46589218f0800000000000000
+      internalID: -571226706313662311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2763
+        width: 486
+        height: 537
+      alignment: 9
+      pivot: {x: -0.012345679, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d6c8dc40bc93b20800000000000000
+      internalID: 3114743838792248694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2753
+        width: 491
+        height: 547
+      alignment: 9
+      pivot: {x: -0.00203666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe45f1aabd466d0800000000000000
+      internalID: -2998029928205325399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2754
+        width: 492
+        height: 546
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6973861ab8b56f40800000000000000
+      internalID: 5721182011025226092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2758
+        width: 491
+        height: 542
+      alignment: 9
+      pivot: {x: -0.00203666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d39059a15f2500800000000000000
+      internalID: 373607081738229309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2758
+        width: 491
+        height: 542
+      alignment: 9
+      pivot: {x: -0.00203666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5c46e74e624180800000000000000
+      internalID: -9132615839268447443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2758
+        width: 491
+        height: 542
+      alignment: 9
+      pivot: {x: -0.00203666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7874f6685ab873b0800000000000000
+      internalID: -5514452854867986310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 2654
+        width: 508
+        height: 646
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ae1a6b843f4970800000000000000
+      internalID: 8741263175134913425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 2660
+        width: 503
+        height: 640
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6c1092481b3490800000000000000
+      internalID: -7765586458305598146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2666
+        width: 499
+        height: 634
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38335dd97d97bf30800000000000000
+      internalID: 4591311491857332283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 2666
+        width: 499
+        height: 634
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae0f4f491e27330800000000000000
+      internalID: 3707273473160178319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 2665
+        width: 500
+        height: 635
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25220cfb25862aa0800000000000000
+      internalID: -6186110614188710614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 2665
+        width: 500
+        height: 635
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c2c552c50ed6b0800000000000000
+      internalID: -5269768181756279164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 2665
+        width: 500
+        height: 635
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af601acf344eb70800000000000000
+      internalID: 8927335113667574348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2128
+        width: 476
+        height: 526
+      alignment: 9
+      pivot: {x: -0.0021008404, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9f2664a40b0bd20800000000000000
+      internalID: 3292325160662792670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2126
+        width: 477
+        height: 528
+      alignment: 9
+      pivot: {x: -0.002096436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e152bad483e963f0800000000000000
+      internalID: -906943690194136602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2125
+        width: 479
+        height: 529
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4227451e106f30800000000000000
+      internalID: 4566683098890259943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2124
+        width: 480
+        height: 530
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c690ecc0b6a6ad80800000000000000
+      internalID: -8239715189946018105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 2124
+        width: 480
+        height: 530
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdf849d654793b10800000000000000
+      internalID: 1961727029058010546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2124
+        width: 480
+        height: 530
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1954f8f2f23551e0800000000000000
+      internalID: -2209804023015122661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2124
+        width: 479
+        height: 530
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ca215a9fd96580800000000000000
+      internalID: -8833283340230802184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0000
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 2009
+        width: 512
+        height: 645
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab159bd414375730800000000000000
+      internalID: 3987713259247836068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0001
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 2013
+        width: 522
+        height: 641
+      alignment: 9
+      pivot: {x: -0.0019157088, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d0c7d6b9de3db0800000000000000
+      internalID: -4810167972658097056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0002
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 2020
+        width: 530
+        height: 634
+      alignment: 9
+      pivot: {x: -0.003773585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f793e9205f0e090800000000000000
+      internalID: -8007130745871433923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 530
+        height: 634
+      alignment: 9
+      pivot: {x: -0.003773585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d8212143750d80800000000000000
+      internalID: -8285089215911767872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0004
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1375
+        width: 530
+        height: 634
+      alignment: 9
+      pivot: {x: -0.0018867925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061230cb50e6ae10800000000000000
+      internalID: 2208699351942960641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0005
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1375
+        width: 530
+        height: 634
+      alignment: 9
+      pivot: {x: -0.0018867925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74731f53e7bb4070800000000000000
+      internalID: 8091763342681797755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0006
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1375
+        width: 530
+        height: 634
+      alignment: 9
+      pivot: {x: -0.0018867925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3e38c0dee298fb0800000000000000
+      internalID: -4645129945003858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1436
+        width: 530
+        height: 573
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a26e559953ba820800000000000000
+      internalID: 2930494915222055470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1430
+        width: 521
+        height: 579
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40bc1a8e6902d00800000000000000
+      internalID: 945921847638820071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1430
+        width: 519
+        height: 579
+      alignment: 9
+      pivot: {x: -0.0019267823, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ad6de859eef380800000000000000
+      internalID: -8935448042506704410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1431
+        width: 522
+        height: 578
+      alignment: 9
+      pivot: {x: -0.0019157088, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e178713601b990800000000000000
+      internalID: -7372104305484897998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 1428
+        width: 523
+        height: 581
+      alignment: 9
+      pivot: {x: -0.0038240917, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94945b5597621cb00800000000000000
+      internalID: 847000507493206345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1419
+        width: 527
+        height: 590
+      alignment: 9
+      pivot: {x: -0.0018975332, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b6070e3aba8770800000000000000
+      internalID: 8613902012868112571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 1416
+        width: 530
+        height: 593
+      alignment: 9
+      pivot: {x: -0.003773585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f085c4383c1620800000000000000
+      internalID: 2746131672092177567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 530
+        height: 593
+      alignment: 9
+      pivot: {x: -0.003773585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750c214c0af9f840800000000000000
+      internalID: 5258508970471720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 783
+        width: 527
+        height: 592
+      alignment: 9
+      pivot: {x: -0.0037950664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd1210464af4b60800000000000000
+      internalID: 7732579834641111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 783
+        width: 527
+        height: 592
+      alignment: 9
+      pivot: {x: -0.0037950664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436cb0e1b54404d0800000000000000
+      internalID: -3169331607480016060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0000
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 783
+        width: 527
+        height: 592
+      alignment: 9
+      pivot: {x: -0.34535104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551d0bc4bc2ed1430800000000000000
+      internalID: 3755407027089756501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0001
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 768
+        width: 601
+        height: 607
+      alignment: 9
+      pivot: {x: -0.20133111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad823de5dabc320800000000000000
+      internalID: 2579345834380941993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0002
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 761
+        width: 637
+        height: 614
+      alignment: 9
+      pivot: {x: -0.13343799, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe61f1ecb89584d80800000000000000
+      internalID: -8266258659045075217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0003
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 757
+        width: 580
+        height: 618
+      alignment: 9
+      pivot: {x: -0.24482758, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d02e0e44704530800000000000000
+      internalID: 3837194761112967626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0004
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 751
+        width: 514
+        height: 624
+      alignment: 9
+      pivot: {x: -0.40466926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6a41f90ce659600800000000000000
+      internalID: 474407109339162347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0005
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 738
+        width: 514
+        height: 637
+      alignment: 9
+      pivot: {x: -0.40466926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1c2a65dde2f69c0800000000000000
+      internalID: -3931872421494996556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0006
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 726
+        width: 514
+        height: 649
+      alignment: 9
+      pivot: {x: -0.40466926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd5a0b0fbef3f80800000000000000
+      internalID: -8124515783764747189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 514
+        height: 653
+      alignment: 9
+      pivot: {x: -0.40466926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c046c34429f4e20800000000000000
+      internalID: 3337046670673448088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0008
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 130
+        width: 514
+        height: 596
+      alignment: 9
+      pivot: {x: -0.40466926, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ae05126c4f0050800000000000000
+      internalID: 5768913631828681479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0009
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 183
+        width: 510
+        height: 543
+      alignment: 9
+      pivot: {x: -0.30588236, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849d9e0b033d9a70800000000000000
+      internalID: 8835274166553646217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0010
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 205
+        width: 525
+        height: 521
+      alignment: 9
+      pivot: {x: -0.27238095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05da991b2ef6f82f0800000000000000
+      internalID: -968432375428436656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0011
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 198
+        width: 562
+        height: 528
+      alignment: 9
+      pivot: {x: -0.18683274, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eec6338e5c955370800000000000000
+      internalID: 8310720617124384482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0012
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc7ea33e4ebcdf0800000000000000
+      internalID: -158781697244541461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0013
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b72f6e953766a80800000000000000
+      internalID: -8473958818887075007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0014
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793fa8b845caf5000800000000000000
+      internalID: 26929601905882007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0015
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015ddee3d3e65dc40800000000000000
+      internalID: 5536452526249727248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0016
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb3c105a5d545b30800000000000000
+      internalID: 4275144588753910749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0017
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5139b951bc8d7d5d0800000000000000
+      internalID: -3037721056885632235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0018
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4eabf3475adf020800000000000000
+      internalID: 2377238097025492219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0019
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a042f51153833a410800000000000000
+      internalID: 1487094102538265610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0020
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970bb2236ba8649f0800000000000000
+      internalID: -484547394765344647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0021
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b14dae464809fee0800000000000000
+      internalID: -1226940325421039177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0022
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db466e9e6311880800000000000000
+      internalID: -8642065831726629550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0023
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9302a93c9ac59f470800000000000000
+      internalID: 8428870061801480249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0024
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd7087377f50e70800000000000000
+      internalID: 9080936298969553920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0025
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ddbf3eb5d49590800000000000000
+      internalID: -7668269252415203927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0026
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87fd20702d1f8180800000000000000
+      internalID: -9111031495989004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0027
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51be91165845de0800000000000000
+      internalID: -1345303736583776793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0028
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4adff910c7229de0800000000000000
+      internalID: -1327955234097472945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack0029
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 189
+        width: 666
+        height: 537
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28eb2f241ad9d3c0800000000000000
+      internalID: -4334193386141784020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BF NOTE DOWN0000: -571226706313662311
+      BF NOTE DOWN0001: 3114743838792248694
+      BF NOTE DOWN0002: -2998029928205325399
+      BF NOTE DOWN0003: 5721182011025226092
+      BF NOTE DOWN0004: 373607081738229309
+      BF NOTE DOWN0005: -9132615839268447443
+      BF NOTE DOWN0006: -5514452854867986310
+      BF NOTE LEFT0000: 8741263175134913425
+      BF NOTE LEFT0001: -7765586458305598146
+      BF NOTE LEFT0002: 4591311491857332283
+      BF NOTE LEFT0003: 3707273473160178319
+      BF NOTE LEFT0004: -6186110614188710614
+      BF NOTE LEFT0005: -5269768181756279164
+      BF NOTE LEFT0006: 8927335113667574348
+      BF NOTE RIGHT0000: 3292325160662792670
+      BF NOTE RIGHT0001: -906943690194136602
+      BF NOTE RIGHT0002: 4566683098890259943
+      BF NOTE RIGHT0003: -8239715189946018105
+      BF NOTE RIGHT0004: 1961727029058010546
+      BF NOTE RIGHT0005: -2209804023015122661
+      BF NOTE RIGHT0006: -8833283340230802184
+      BF NOTE UP0000: 3987713259247836068
+      BF NOTE UP0001: -4810167972658097056
+      BF NOTE UP0002: -8007130745871433923
+      BF NOTE UP0003: -8285089215911767872
+      BF NOTE UP0004: 2208699351942960641
+      BF NOTE UP0005: 8091763342681797755
+      BF NOTE UP0006: -4645129945003858986
+      BF idle dance0000: 2930494915222055470
+      BF idle dance0001: 945921847638820071
+      BF idle dance0002: -8935448042506704410
+      BF idle dance0003: -7372104305484897998
+      BF idle dance0004: 847000507493206345
+      BF idle dance0005: 8613902012868112571
+      BF idle dance0006: 2746131672092177567
+      BF idle dance0007: 5258508970471720313
+      BF idle dance0008: 7732579834641111931
+      BF idle dance0009: -3169331607480016060
+      attack0000: 3755407027089756501
+      attack0001: 2579345834380941993
+      attack0002: -8266258659045075217
+      attack0003: 3837194761112967626
+      attack0004: 474407109339162347
+      attack0005: -3931872421494996556
+      attack0006: -8124515783764747189
+      attack0007: 3337046670673448088
+      attack0008: 5768913631828681479
+      attack0009: 8835274166553646217
+      attack0010: -968432375428436656
+      attack0011: 8310720617124384482
+      attack0012: -158781697244541461
+      attack0013: -8473958818887075007
+      attack0014: 26929601905882007
+      attack0015: 5536452526249727248
+      attack0016: 4275144588753910749
+      attack0017: -3037721056885632235
+      attack0018: 2377238097025492219
+      attack0019: 1487094102538265610
+      attack0020: -484547394765344647
+      attack0021: -1226940325421039177
+      attack0022: -8642065831726629550
+      attack0023: 8428870061801480249
+      attack0024: 9080936298969553920
+      attack0025: -7668269252415203927
+      attack0026: -9111031495989004406
+      attack0027: -1345303736583776793
+      attack0028: -1327955234097472945
+      attack0029: -4334193386141784020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

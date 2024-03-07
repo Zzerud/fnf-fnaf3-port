@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: cassidy8bit
+  m_EditorClassIdentifier: 
+  characterName: cassidy8bit
+  animations:
+  - {fileID: 11400000, guid: 1bc7417edab016745b398993df89f655, type: 2}
+  - {fileID: 11400000, guid: 978ab4b06138ce745a099d124321da22, type: 2}
+  - {fileID: 11400000, guid: def8a79fd874d3442a2621a06eff849d, type: 2}
+  - {fileID: 11400000, guid: 8ea3295437734b941a8a190fb496debb, type: 2}
+  - {fileID: 11400000, guid: ada422be231d9764bb27f4937f34448f, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: -4.17, y: 1.86}
+  orthographicSize: 3
+  yToUp: 2.26
+  yToDown: 1.46
+  xToLeft: -4.57
+  xToRight: -3.77
+  portrait: {fileID: 872111615, guid: 17e871ad2332764429992bf0861f81fb, type: 3}
+  portraitDead: {fileID: 34658981, guid: 17e871ad2332764429992bf0861f81fb, type: 3}
+  portraitWin: {fileID: 872111615, guid: 17e871ad2332764429992bf0861f81fb, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -6.44, y: 0.22, z: 0}
+  changeColor: 1
+  healthColor: {r: 0.91372555, g: 0.91372555, b: 0.91372555, a: 1}
+  songDurationColor: {r: 0.91372555, g: 0.91372555, b: 0.91372555, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: 26fdc24014d288e4fbdff8d96dbe5991, type: 3}
+  audioDeath: {fileID: 8300000, guid: b461d80345edd684aaf325fca92facf7, type: 3}

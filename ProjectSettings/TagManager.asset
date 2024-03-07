@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIElement
+  - Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Metronome
+  - Character
+  - Gameplay UI
+  - Dead
+  - Notes
+  - Movable
+  - Line UI
+  - Rotate Move UI
+  - Background
+  - Background Arrows
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 1441061245
+    locked: 0
+  - name: Rating
+    uniqueID: 3823794925
+    locked: 0
+  - name: UI
+    uniqueID: 3879161755
+    locked: 0

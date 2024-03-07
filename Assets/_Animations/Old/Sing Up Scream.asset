@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e6f6b396aaad8409ac6804e2834b12, type: 3}
+  m_Name: Sing Up Scream
+  m_EditorClassIdentifier: 
+  animationName: Sing Up Scream
+  fps: 24
+  frames:
+  - sprite: {fileID: 1010690718834027947, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2465774096512936654, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -7979972927583286263, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2249671739770312927, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 6207932913237255024, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -5811612446601822331, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 2525080437998617092, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 5109206898403342690, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -4871216783861979115, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -4634297658779976996, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -7161961618402961500, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 8571446261817288935, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 5700654858520310729, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -61589915970635916, guid: e18a7cbd53e7ae14eb3c0a913222ebd8, type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -4849761582644502389, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -244265303470098614, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -6613217483708691900, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -4717765571406996542, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 2919690904283422769, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 1132476506675226280, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 3106658245871201248, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  sprites: []
+  update: 0
+  spriteAnimationType: 1

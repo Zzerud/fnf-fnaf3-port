@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506c61b726e84d84bc8f4ef30a7665a2, type: 3}
+  m_Name: brain-damage
+  m_EditorClassIdentifier: 
+  songName: brain-damage
+  sceneName: brain-damage
+  chart: {fileID: 4900000, guid: 10cc050a3dba8974f88d2b41089aaa5a, type: 3}
+  chartEasy: {fileID: 4900000, guid: 45e7eae72db94d649b3c8065a348cba7, type: 3}
+  instrumentals: {fileID: 8300000, guid: 2c2dd5106d1f72a4f887d1a27955a8d3, type: 3}
+  vocals: {fileID: 8300000, guid: bcfacc9a9d4ea234898d5a3bb7a3482b, type: 3}
+  videoRus: {fileID: 32900000, guid: 8fe05010e2cd2fd42b39a239667a5b70, type: 3}
+  videoEng: {fileID: 32900000, guid: 8fe05010e2cd2fd42b39a239667a5b70, type: 3}
+  isGfEnabled: 0
+  isNonsensicaAnimations: 0
+  isCustomIcons: 0
+  songIndex: 4
+  imageInPause: {fileID: 21300000, guid: c9ad6fb8f2c331440b84f8095dce4e33, type: 3}
+  songColor: {r: 0.23137257, g: 0.21960786, b: 0.027450982, a: 1}
+  additionalSongColor: {r: 0.23137257, g: 0.21960786, b: 0.027450982, a: 1}

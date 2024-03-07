@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: oobsbonnie
+  m_EditorClassIdentifier: 
+  characterName: oobsbonnie
+  animations:
+  - {fileID: 11400000, guid: 4a9266bc02567a849a456fb1c39b125a, type: 2}
+  - {fileID: 11400000, guid: 5817f6f39b508e14f84bac34ef3bd27b, type: 2}
+  - {fileID: 11400000, guid: 5c8968629162a304ab30582cad9fec3c, type: 2}
+  - {fileID: 11400000, guid: 15152459c740c694faf71ca3add117f5, type: 2}
+  - {fileID: 11400000, guid: bcc45e954228cef4bbe47ef7e98208c9, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1.476864
+  cameraOffset: {x: -5, y: 3}
+  orthographicSize: 5.5
+  yToUp: 3.5
+  yToDown: 2.5
+  xToLeft: -5.5
+  xToRight: -4.5
+  portrait: {fileID: -2070158718, guid: c2bf8233d29b657459450dea6e681430, type: 3}
+  portraitDead: {fileID: -1704451967, guid: c2bf8233d29b657459450dea6e681430, type: 3}
+  portraitWin: {fileID: -2070158718, guid: c2bf8233d29b657459450dea6e681430, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -4.19, y: -0.44, z: 0}
+  changeColor: 1
+  healthColor: {r: 0.23137257, g: 0, b: 0.23137257, a: 1}
+  songDurationColor: {r: 0.23137257, g: 0, b: 0.23137257, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: 8f76b6c6e0b45c74fb893c5c1e679a17, type: 3}
+  audioDeath: {fileID: 8300000, guid: 64d89b5a026a351478b6b173121a5327, type: 3}

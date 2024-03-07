@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: Chica
+  m_EditorClassIdentifier: 
+  characterName: Chica
+  animations:
+  - {fileID: 11400000, guid: 5e4c70b86b7414e43a5c6c0754b1a01f, type: 2}
+  - {fileID: 11400000, guid: 59a7d32a1a12a7949b4cf0db28cf33ca, type: 2}
+  - {fileID: 11400000, guid: 10fb2bbc6a6e74b45b22697fa5374b84, type: 2}
+  - {fileID: 11400000, guid: 9568ef8f603246c4cb34645b1f1f7178, type: 2}
+  - {fileID: 11400000, guid: de7cd08bd6c8c5e48a209992646073cb, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 2.20593
+  cameraOffset: {x: 2.85, y: 2.94}
+  orthographicSize: 6
+  yToUp: 3.34
+  yToDown: 2.54
+  xToLeft: 2.45
+  xToRight: 3.25
+  portrait: {fileID: 1864345922, guid: 7ce30138ed009ee40b6b811acc1ecf5c, type: 3}
+  portraitDead: {fileID: 457549004, guid: 7ce30138ed009ee40b6b811acc1ecf5c, type: 3}
+  portraitWin: {fileID: 1864345922, guid: 7ce30138ed009ee40b6b811acc1ecf5c, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: 1.79, y: -6, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.7490196, g: 0.6, b: 0.09411766, a: 1}
+  songDurationColor: {r: 0.7490196, g: 0.6, b: 0.09411766, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 22100000, guid: 123acf36f3da1e1489534926fc788929, type: 2}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: 996d526933a813b44a4c46f3b393215e, type: 3}
+  audioDeath: {fileID: 8300000, guid: 9dcfa67c434210243ace43367905cdad, type: 3}

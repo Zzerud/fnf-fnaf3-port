@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506c61b726e84d84bc8f4ef30a7665a2, type: 3}
+  m_Name: misconception
+  m_EditorClassIdentifier: 
+  songName: misconception
+  sceneName: misconception
+  chart: {fileID: 4900000, guid: 308405b9bdfcac44893f243bf0cbe7f1, type: 3}
+  chartEasy: {fileID: 4900000, guid: a1772808b26bb7f429608bfd6d36eaf7, type: 3}
+  instrumentals: {fileID: 8300000, guid: 2ea73f92f4f09e742a2257788c90671f, type: 3}
+  vocals: {fileID: 8300000, guid: e50d6890e5593bf44bd33e74e0026800, type: 3}
+  videoRus: {fileID: 0}
+  videoEng: {fileID: 0}
+  isGfEnabled: 0
+  isNonsensicaAnimations: 0
+  isCustomIcons: 0
+  songIndex: 9
+  imageInPause: {fileID: 21300000, guid: b26e25a1409583c418916c20342f216e, type: 3}
+  songColor: {r: 0.6666667, g: 0.39607847, b: 0.03137255, a: 1}
+  additionalSongColor: {r: 1, g: 1, b: 1, a: 1}

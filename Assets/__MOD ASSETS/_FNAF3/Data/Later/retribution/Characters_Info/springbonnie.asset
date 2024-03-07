@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: springbonnie
+  m_EditorClassIdentifier: 
+  characterName: springbonnie
+  animations:
+  - {fileID: 11400000, guid: c8223fa5a1f3e0c45bd5c7929928f742, type: 2}
+  - {fileID: 11400000, guid: ac22e1b867de5ba4f84591914c5edccb, type: 2}
+  - {fileID: 11400000, guid: 493ea979eb6b6b54994953b3c40e38af, type: 2}
+  - {fileID: 11400000, guid: f8acf9f2ac439734098bdf5de80d4902, type: 2}
+  - {fileID: 11400000, guid: 76f5026a816a1c046b2a63cc4b65915c, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: -0.86, y: 3.63}
+  orthographicSize: 2
+  yToUp: 3.93
+  yToDown: 3.33
+  xToLeft: -1.16
+  xToRight: -0.56
+  portrait: {fileID: -1483357918, guid: aa3da857e5b198249a2c3b141667d599, type: 3}
+  portraitDead: {fileID: 297103247, guid: aa3da857e5b198249a2c3b141667d599, type: 3}
+  portraitWin: {fileID: -1483357918, guid: aa3da857e5b198249a2c3b141667d599, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -2.46, y: -0.76, z: 0}
+  changeColor: 1
+  healthColor: {r: 0.69411767, g: 0.49803925, b: 0, a: 1}
+  songDurationColor: {r: 0.69411767, g: 0.49803925, b: 0, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0

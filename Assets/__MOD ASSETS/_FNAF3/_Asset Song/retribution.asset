@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506c61b726e84d84bc8f4ef30a7665a2, type: 3}
+  m_Name: retribution
+  m_EditorClassIdentifier: 
+  songName: retribution
+  sceneName: retribution
+  chart: {fileID: 4900000, guid: 70de3acda1a81144c9b9f89d687674da, type: 3}
+  chartEasy: {fileID: 4900000, guid: acfbd04e8f7194d4d9c2e47375eb1319, type: 3}
+  instrumentals: {fileID: 8300000, guid: b97d470d702e3ec419867eb5446355ce, type: 3}
+  vocals: {fileID: 8300000, guid: a432b31dbabce8a43863fb0719502d74, type: 3}
+  videoRus: {fileID: 32900000, guid: f355c584c3b4b894cb82c4b892f95565, type: 3}
+  videoEng: {fileID: 32900000, guid: f355c584c3b4b894cb82c4b892f95565, type: 3}
+  isGfEnabled: 0
+  isNonsensicaAnimations: 0
+  isCustomIcons: 0
+  songIndex: 1
+  imageInPause: {fileID: 21300000, guid: 79563dce3df84394b9c69ab9d29678b9, type: 3}
+  songColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}
+  additionalSongColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}

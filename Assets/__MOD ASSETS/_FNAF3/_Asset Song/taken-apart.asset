@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 506c61b726e84d84bc8f4ef30a7665a2, type: 3}
+  m_Name: taken-apart
+  m_EditorClassIdentifier: 
+  songName: taken-apart
+  sceneName: taken-apart
+  chart: {fileID: 4900000, guid: d3d29ad7df61af84a913e81e9e53f2c2, type: 3}
+  chartEasy: {fileID: 4900000, guid: 7b0cc0c3fa91a9e4a945fbb8a2588c92, type: 3}
+  instrumentals: {fileID: 8300000, guid: 0c2a48b22084ca245a9b605945566aeb, type: 3}
+  vocals: {fileID: 8300000, guid: 18971695e0383564ead069ba4cadff0c, type: 3}
+  videoRus: {fileID: 32900000, guid: 29f2d3fbc11697848976eef0dbdc2c27, type: 3}
+  videoEng: {fileID: 32900000, guid: 29f2d3fbc11697848976eef0dbdc2c27, type: 3}
+  isGfEnabled: 0
+  isNonsensicaAnimations: 0
+  isCustomIcons: 0
+  songIndex: 0
+  imageInPause: {fileID: 21300000, guid: aac44fc5597bff147aa97aecd4ea1b25, type: 3}
+  songColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}
+  additionalSongColor: {r: 0.44705886, g: 0, b: 0.627451, a: 1}

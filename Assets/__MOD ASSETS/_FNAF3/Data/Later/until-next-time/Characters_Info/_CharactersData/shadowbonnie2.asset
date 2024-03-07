@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eda7885aa86435d9c4493e986f6e9e6, type: 3}
+  m_Name: shadowbonnie2
+  m_EditorClassIdentifier: 
+  characterName: shadowbonnie2
+  animations:
+  - {fileID: 11400000, guid: 26c1c9c25bf7a0f448ca45077faed14c, type: 2}
+  - {fileID: 11400000, guid: 0a518d78d517b1d4495f5a9dfd5e6b58, type: 2}
+  - {fileID: 11400000, guid: f5f1747c53b35f546b32d42c204da24c, type: 2}
+  - {fileID: 11400000, guid: 7a5e3c10cd41b6a4e861cc77f68864c4, type: 2}
+  - {fileID: 11400000, guid: 423d937b771dab84bbeb4315c1061488, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 1
+  cameraOffset: {x: 2, y: 6}
+  orthographicSize: 5.5
+  yToUp: 0
+  yToDown: 0
+  xToLeft: 0
+  xToRight: 0
+  portrait: {fileID: 0}
+  portraitDead: {fileID: 0}
+  portraitWin: {fileID: 0}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 0
+  newTransform: {x: 0, y: 0, z: 0}
+  changeColor: 0
+  healthColor: {r: 1, g: 0, b: 0, a: 1}
+  songDurationColor: {r: 0, g: 0, b: 0, a: 0}
+  isRotated: 0
+  isBobingWhileSing: 0

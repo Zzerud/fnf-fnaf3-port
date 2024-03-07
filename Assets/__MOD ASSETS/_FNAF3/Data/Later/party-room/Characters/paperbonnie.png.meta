@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: c72359ae5a640e541bdd7161192eca6d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3629
+        width: 205
+        height: 571
+      alignment: 9
+      pivot: {x: -0.004878049, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f000e7e684a0bd0800000000000000
+      internalID: -2663236590238691572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3650
+        width: 208
+        height: 550
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42fa14ab63e8460800000000000000
+      internalID: 7245789024079521000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3643
+        width: 207
+        height: 557
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f73e615f0e0ac0800000000000000
+      internalID: -3887152585958231916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3628
+        width: 205
+        height: 572
+      alignment: 9
+      pivot: {x: -0.004878049, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f9dea47171ffd0800000000000000
+      internalID: -2309940387900688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 3612
+        width: 202
+        height: 588
+      alignment: 9
+      pivot: {x: -0.014851485, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbadb6d6145127170800000000000000
+      internalID: 8174619644383713983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3603
+        width: 199
+        height: 597
+      alignment: 9
+      pivot: {x: -0.025125628, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c3625247a3e8cb0800000000000000
+      internalID: -4859882677372306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3601
+        width: 195
+        height: 599
+      alignment: 9
+      pivot: {x: -0.046153847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ed3690ab36c440800000000000000
+      internalID: 4955714000869255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2402
+        width: 193
+        height: 595
+      alignment: 9
+      pivot: {x: -0.062176164, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c08b25fc20ba30800000000000000
+      internalID: 4228929481609365457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3598
+        width: 271
+        height: 602
+      alignment: 9
+      pivot: {x: -0.12915128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b69fdb185d271c0800000000000000
+      internalID: -4507305523829708018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3599
+        width: 294
+        height: 601
+      alignment: 9
+      pivot: {x: -0.023809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8e74be7cf5c7490800000000000000
+      internalID: -7747211946733606708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 3599
+        width: 302
+        height: 601
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626a679d6583f290800000000000000
+      internalID: -7857790219093122460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3598
+        width: 305
+        height: 602
+      alignment: 9
+      pivot: {x: -0.0032786885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc757f8302bbf8040800000000000000
+      internalID: 4652142687166093263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3598
+        width: 298
+        height: 602
+      alignment: 9
+      pivot: {x: -0.043624163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5414f311604ccad80800000000000000
+      internalID: -8237994088029273787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 3599
+        width: 271
+        height: 601
+      alignment: 9
+      pivot: {x: -0.16605166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e34bd882a580b0800000000000000
+      internalID: -5726992642453805875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 3601
+        width: 226
+        height: 599
+      alignment: 9
+      pivot: {x: -0.42477876, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac74d0eb45daa7ae0800000000000000
+      internalID: -1550736542198315062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2402
+        width: 193
+        height: 595
+      alignment: 9
+      pivot: {x: -0.69948184, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e905303fa28dcd840800000000000000
+      internalID: 5250308944584462494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2998
+        width: 318
+        height: 599
+      alignment: 9
+      pivot: {x: -0.003144654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e055fa4a80d16220800000000000000
+      internalID: 2477490562412138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2999
+        width: 344
+        height: 598
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de036d6154b66bd30800000000000000
+      internalID: 4446859626554994925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2999
+        width: 341
+        height: 598
+      alignment: 9
+      pivot: {x: -0.0029325513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d340f375585ac4e0800000000000000
+      internalID: -1960657563725839407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2998
+        width: 327
+        height: 599
+      alignment: 9
+      pivot: {x: -0.003058104, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16703848511fc2e00800000000000000
+      internalID: 1021456290226046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2998
+        width: 303
+        height: 599
+      alignment: 9
+      pivot: {x: -0.00990099, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bfa4af527db8f0800000000000000
+      internalID: -523136226594671032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2999
+        width: 272
+        height: 598
+      alignment: 9
+      pivot: {x: -0.018382354, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d430afe7289bca90800000000000000
+      internalID: -7292567874304985901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 3000
+        width: 230
+        height: 597
+      alignment: 9
+      pivot: {x: -0.030434782, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f534f563f811ee40800000000000000
+      internalID: 5683851638384899570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2402
+        width: 193
+        height: 595
+      alignment: 9
+      pivot: {x: -0.046632126, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05d812020c222c0800000000000000
+      internalID: -4457789436908973831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0000
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3007
+        width: 294
+        height: 590
+      alignment: 9
+      pivot: {x: -0.11904762, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a35eaf6c7bd3990800000000000000
+      internalID: -7404560147086493089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0001
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3011
+        width: 335
+        height: 586
+      alignment: 9
+      pivot: {x: -0.041791044, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58649ef008bbe290800000000000000
+      internalID: -7859986410234419109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0002
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 3009
+        width: 344
+        height: 588
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b86ddb6c36d0d40800000000000000
+      internalID: 5552203620857318157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0003
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 3007
+        width: 326
+        height: 590
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b367825eec10b80800000000000000
+      internalID: -8430229543839188189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 284
+        height: 593
+      alignment: 9
+      pivot: {x: -0.059859157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fe463f578f74ff0800000000000000
+      internalID: -51799685213130890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0005
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2402
+        width: 238
+        height: 595
+      alignment: 9
+      pivot: {x: -0.17226891, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3535aaacad2c8b0800000000000000
+      internalID: -5133300061273107473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0006
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2401
+        width: 197
+        height: 596
+      alignment: 9
+      pivot: {x: -0.31979695, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869a27256657ad80800000000000000
+      internalID: -8239522000802244992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad Sing Note UP0007
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2402
+        width: 193
+        height: 595
+      alignment: 9
+      pivot: {x: -0.32124352, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904aa47e2c9c4390800000000000000
+      internalID: -7832713928564391788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2404
+        width: 230
+        height: 593
+      alignment: 9
+      pivot: {x: -0.02173913, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ced7ea37082780800000000000000
+      internalID: -8707701929941218994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2405
+        width: 258
+        height: 592
+      alignment: 9
+      pivot: {x: -0.027131783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e2f1ec8906ae30800000000000000
+      internalID: 4514306177176364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2405
+        width: 261
+        height: 592
+      alignment: 9
+      pivot: {x: -0.026819924, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01248dc66bc06eb00800000000000000
+      internalID: 857386756710351376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2404
+        width: 260
+        height: 593
+      alignment: 9
+      pivot: {x: -0.023076924, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d0d700488ed010800000000000000
+      internalID: 1215558758027024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2404
+        width: 255
+        height: 593
+      alignment: 9
+      pivot: {x: -0.019607844, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41079eb4a72408a0800000000000000
+      internalID: -6339898786905128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2403
+        width: 248
+        height: 594
+      alignment: 9
+      pivot: {x: -0.016129032, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decf1904fb702fc0800000000000000
+      internalID: -3521678620548411694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2403
+        width: 240
+        height: 594
+      alignment: 9
+      pivot: {x: -0.0125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8923037f48d5d560800000000000000
+      internalID: 7338009003613694349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 2403
+        width: 231
+        height: 594
+      alignment: 9
+      pivot: {x: -0.008658009, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8eaad5a0e5be790800000000000000
+      internalID: -7499797355841263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2402
+        width: 220
+        height: 595
+      alignment: 9
+      pivot: {x: -0.0045454544, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36024a42b40c0cf0800000000000000
+      internalID: -284847512634653122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 2402
+        width: 208
+        height: 595
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fbc834c67367700800000000000000
+      internalID: 537678143646646040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0010
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 2402
+        width: 195
+        height: 595
+      alignment: 9
+      pivot: {x: -0.0051282053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcc8427d27053c0800000000000000
+      internalID: -4372868969820008613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad idle dance0011
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2402
+        width: 193
+        height: 595
+      alignment: 9
+      pivot: {x: -0.005181347, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19a1bc8e73aa5f0800000000000000
+      internalID: -744721315396939343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 422
+        height: 576
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e20210f97b60bb0800000000000000
+      internalID: -4970083245210194344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0001
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1815
+        width: 399
+        height: 585
+      alignment: 9
+      pivot: {x: -0.05764411, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c1e230016ae9e0800000000000000
+      internalID: -1591352864840497836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0002
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1806
+        width: 372
+        height: 594
+      alignment: 9
+      pivot: {x: -0.13440861, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e800e3f302000770800000000000000
+      internalID: 8574855906513127654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0003
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1799
+        width: 339
+        height: 601
+      alignment: 9
+      pivot: {x: -0.24483776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9744db3e567b4e0800000000000000
+      internalID: -1965990683516569169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0004
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1794
+        width: 305
+        height: 606
+      alignment: 9
+      pivot: {x: -0.39344263, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ac9a390847d9900800000000000000
+      internalID: 692838013266938463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0005
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1792
+        width: 276
+        height: 608
+      alignment: 9
+      pivot: {x: -0.5905797, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5573b65d389c5b0800000000000000
+      internalID: -5347598129875692068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0006
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1792
+        width: 249
+        height: 608
+      alignment: 9
+      pivot: {x: -0.85542166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e0c38649783d90800000000000000
+      internalID: -7117805867293941038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0007
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1794
+        width: 215
+        height: 606
+      alignment: 9
+      pivot: {x: -1.2372093, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d89532e783d3c30800000000000000
+      internalID: 4340687730265132294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0008
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1797
+        width: 231
+        height: 603
+      alignment: 9
+      pivot: {x: -1.1991342, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcd8f0c5e5445410800000000000000
+      internalID: 1464872631889616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0009
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1799
+        width: 272
+        height: 601
+      alignment: 9
+      pivot: {x: -1.0514706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f46ccdbe56efb30800000000000000
+      internalID: 4323004756017958663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0010
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1802
+        width: 301
+        height: 598
+      alignment: 9
+      pivot: {x: -0.9800664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f22edb6677b7a0800000000000000
+      internalID: -6361485742977124713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 321
+        height: 597
+      alignment: 9
+      pivot: {x: -0.94392526, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f959eefc42496f1a0800000000000000
+      internalID: -6776065703504079457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0012
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1196
+        width: 329
+        height: 595
+      alignment: 9
+      pivot: {x: -0.9452888, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fb3fb9e12a784f0800000000000000
+      internalID: -826513754250035431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0013
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1197
+        width: 327
+        height: 594
+      alignment: 9
+      pivot: {x: -0.9724771, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ce9f70e49a0a0e0800000000000000
+      internalID: -2260620860333626332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0014
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1199
+        width: 316
+        height: 592
+      alignment: 9
+      pivot: {x: -1.028481, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f1cbdb0fa6cd950800000000000000
+      internalID: 6475167946459848531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0015
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1201
+        width: 304
+        height: 590
+      alignment: 9
+      pivot: {x: -1.0888158, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d709d8c9967fb0800000000000000
+      internalID: -4650360477299781099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0016
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1203
+        width: 289
+        height: 588
+      alignment: 9
+      pivot: {x: -1.1626297, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c6d1ec72b724580800000000000000
+      internalID: -8844371307310257019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0017
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1206
+        width: 271
+        height: 585
+      alignment: 9
+      pivot: {x: -1.2583026, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6838ff514aff31ce0800000000000000
+      internalID: -1435522775992269946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0018
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1209
+        width: 252
+        height: 582
+      alignment: 9
+      pivot: {x: -1.3690476, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251b1bc43a9bf4820800000000000000
+      internalID: 2904744395694780754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0019
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1211
+        width: 234
+        height: 580
+      alignment: 9
+      pivot: {x: -1.4871795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8006a79a7cd7ec00800000000000000
+      internalID: 929954267163656335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0020
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1212
+        width: 223
+        height: 579
+      alignment: 9
+      pivot: {x: -1.5426009, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea99b8b23545215c0800000000000000
+      internalID: -4246238782467368530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0021
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 1212
+        width: 218
+        height: 579
+      alignment: 9
+      pivot: {x: -1.5321101, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd50a952c5f3a410800000000000000
+      internalID: 1487302517038538230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0022
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1212
+        width: 225
+        height: 579
+      alignment: 9
+      pivot: {x: -1.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c73e286a4942d50800000000000000
+      internalID: 6711652787570310230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0023
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 237
+        height: 582
+      alignment: 9
+      pivot: {x: -1.257384, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d286caaccd6d0a870800000000000000
+      internalID: 8692183524606502957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0024
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 609
+        width: 244
+        height: 584
+      alignment: 9
+      pivot: {x: -1.1680328, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf973d45c6ce270800000000000000
+      internalID: 8281112926408538900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0025
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 606
+        width: 247
+        height: 587
+      alignment: 9
+      pivot: {x: -1.1133603, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e929302b51ba87d0800000000000000
+      internalID: -2915322803828217369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0026
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 603
+        width: 246
+        height: 590
+      alignment: 9
+      pivot: {x: -1.093496, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cac143575012b70800000000000000
+      internalID: 8872378741840194623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0027
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 601
+        width: 240
+        height: 592
+      alignment: 9
+      pivot: {x: -1.1166667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4bb63c9cac73f30800000000000000
+      internalID: 4555332516024399064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0028
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 599
+        width: 232
+        height: 594
+      alignment: 9
+      pivot: {x: -1.1637931, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae1b59c1ca72aaa0800000000000000
+      internalID: -6151219168309207388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0029
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 598
+        width: 223
+        height: 595
+      alignment: 9
+      pivot: {x: -1.2421525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d7d351f48ceee0800000000000000
+      internalID: -1230462426150349393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0030
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 597
+        width: 212
+        height: 596
+      alignment: 9
+      pivot: {x: -1.3537736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff1beeeee564040800000000000000
+      internalID: 4631493647097003971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0031
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 596
+        width: 200
+        height: 597
+      alignment: 9
+      pivot: {x: -1.495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92fba410f09fbac0800000000000000
+      internalID: -3837188996683009379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0032
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 597
+        width: 196
+        height: 596
+      alignment: 9
+      pivot: {x: -1.5510204, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e644166f0571a0f0800000000000000
+      internalID: -1107475324358867231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0033
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 597
+        width: 195
+        height: 596
+      alignment: 9
+      pivot: {x: -1.5641025, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8921ac0dcfa72d7d0800000000000000
+      internalID: -2895116384192556392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0034
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 597
+        width: 195
+        height: 596
+      alignment: 9
+      pivot: {x: -1.5692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed876ca4c4314a310800000000000000
+      internalID: 1415277401294141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0035
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 598
+        width: 194
+        height: 595
+      alignment: 9
+      pivot: {x: -1.5876288, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c260cabe8547380800000000000000
+      internalID: -8974450388215911303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0036
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 598
+        width: 192
+        height: 595
+      alignment: 9
+      pivot: {x: -1.6145834, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c178c01f7f88a410800000000000000
+      internalID: 1488597452751139269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0037
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 599
+        width: 192
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6197916, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e11dd447a94a1c0800000000000000
+      internalID: -4493296703896478081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0038
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 599
+        width: 192
+        height: 594
+      alignment: 9
+      pivot: {x: -1.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705174fc6b4a1fb0800000000000000
+      internalID: -4676342331741220749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0039
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 192
+        height: 594
+      alignment: 9
+      pivot: {x: -1.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d13718cdbda180800000000000000
+      internalID: -9102410604765652552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0040
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7340058d23ca32d60800000000000000
+      internalID: 7864318708696482871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0041
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76945f254928eac0800000000000000
+      internalID: -3825762506327681414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0042
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b2c4c4fd67da10800000000000000
+      internalID: 1934135463019458751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0043
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07abe501b0b28d9a0800000000000000
+      internalID: -6208164759810950544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0044
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6123ddfb2e52a430800000000000000
+      internalID: 3792697379234455915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0045
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6788897f7e9212670800000000000000
+      internalID: 8512130846975101046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0046
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f54aa66581557c0800000000000000
+      internalID: -4083330727706075340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0047
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3e6e8356aa2870800000000000000
+      internalID: 8658916111375284888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0048
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81aee7fc02288460800000000000000
+      internalID: 7244077439720006030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0049
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da107c678a677e00800000000000000
+      internalID: 1042418968631974612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0050
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ddeb5190fde0d0800000000000000
+      internalID: -3391790437236879299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0051
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ad5d27f52f66b0800000000000000
+      internalID: -5300976492843523675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0052
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2e62a1879fb550800000000000000
+      internalID: 6178823796807314332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0053
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5e2ab88f1a82a0800000000000000
+      internalID: -6734535620679541996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0054
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4424ca3afc9ad6b0800000000000000
+      internalID: -5270727815342054326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0055
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9f2fb4d34cf5c0800000000000000
+      internalID: -4180391773086966756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0056
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c4fbfe37afa8200800000000000000
+      internalID: 183234110712400905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0057
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d501fe1ce46b70800000000000000
+      internalID: 8891491181973068070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0058
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0099c7f27daf270800000000000000
+      internalID: 8285171063455285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0059
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e76edfe309cf40800000000000000
+      internalID: 5749130728078566199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0060
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87cfec388c1fc1a0800000000000000
+      internalID: -6787174741960570998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0061
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83827d94e104f3140800000000000000
+      internalID: 4701547034830121016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0062
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b888f9a695fbf0800000000000000
+      internalID: -291160944132180118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0063
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6e094be6990bc40800000000000000
+      internalID: 5526085443538445994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0064
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5723ef153a97d1760800000000000000
+      internalID: 7430228702593430133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0065
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8283e2e378d6d0800000000000000
+      internalID: -2965492936306685395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0066
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac187488a0cea10800000000000000
+      internalID: 1939937119921359546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0067
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdded7ad782d0e040800000000000000
+      internalID: 4674967894138678747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0068
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773a028fb6e84ffd0800000000000000
+      internalID: -2309064114558688393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0069
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ef45113b5f1cf0800000000000000
+      internalID: -279404385504597628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0070
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce853ff7da1a97fc0800000000000000
+      internalID: -3496585869128410900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0071
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3c690b95987750800000000000000
+      internalID: 6302952171615566660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0072
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965519cd00329e20800000000000000
+      internalID: 3355797508110767765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0073
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a61e207aa947610800000000000000
+      internalID: 1618088208231393901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0074
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d220f10ed33520800000000000000
+      internalID: 2680730303120725881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0075
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148466509d1fb1220800000000000000
+      internalID: 2457823936061524033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0076
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08780c649f97380800000000000000
+      internalID: -8972866700285869867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0077
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243d33c9b0014870800000000000000
+      internalID: 8665207955882062881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0078
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f2fda7e2e69750800000000000000
+      internalID: 6311481412490032160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0079
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62aad34f6744a2cb0800000000000000
+      internalID: -4888019167862740442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0080
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca2dbcd862e6e170800000000000000
+      internalID: 8207496310937168591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0081
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466fa392df69e4a40800000000000000
+      internalID: 5354383021052720740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0082
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ecefce8d376b0b0800000000000000
+      internalID: -5713251701746643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0083
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4fb0d404f202b20800000000000000
+      internalID: 3107535696102683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0084
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30ccd99ae50a450800000000000000
+      internalID: 6097977978049528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0085
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f056e49dfe23920800000000000000
+      internalID: 2968698820992765754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0086
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b562527599c0c20800000000000000
+      internalID: 3174080436953832194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0087
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9adcf95e5a15270800000000000000
+      internalID: 8237547599084497330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0088
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b923850f4100c0800000000000000
+      internalID: -4611317658356696780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0089
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfabbcf40c29dde80800000000000000
+      internalID: -8152198395800601860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0090
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd3b6508cef0530800000000000000
+      internalID: 3823534644615437685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0091
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8574b1b6b2610d0800000000000000
+      internalID: -3452524325313750787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0092
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3458325d86fc7aa0800000000000000
+      internalID: -6161779103319436230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0093
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64651d612039ab5e0800000000000000
+      internalID: -1893039056173836730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0094
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928da3c83382419e0800000000000000
+      internalID: -1651650961477019607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0095
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c542ce3685845d90800000000000000
+      internalID: -7109911100086139452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0096
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c55b865121052930800000000000000
+      internalID: 4117698676997707200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0097
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03942167bc0ad52a0800000000000000
+      internalID: -6747059871011419856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0098
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2e302a1a5b84630800000000000000
+      internalID: 3911575982183801524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enter0099
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 191
+        height: 594
+      alignment: 9
+      pivot: {x: -1.6387434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53534c7f7cf9fc260800000000000000
+      internalID: 7120085217100182837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dad Sing Note DOWN0000: -2663236590238691572
+      Dad Sing Note DOWN0001: 7245789024079521000
+      Dad Sing Note DOWN0002: -3887152585958231916
+      Dad Sing Note DOWN0003: -2309940387900688523
+      Dad Sing Note DOWN0004: 8174619644383713983
+      Dad Sing Note DOWN0005: -4859882677372306299
+      Dad Sing Note DOWN0006: 4955714000869255256
+      Dad Sing Note DOWN0007: 4228929481609365457
+      Dad Sing Note LEFT0000: -4507305523829708018
+      Dad Sing Note LEFT0001: -7747211946733606708
+      Dad Sing Note LEFT0002: -7857790219093122460
+      Dad Sing Note LEFT0003: 4652142687166093263
+      Dad Sing Note LEFT0004: -8237994088029273787
+      Dad Sing Note LEFT0005: -5726992642453805875
+      Dad Sing Note LEFT0006: -1550736542198315062
+      Dad Sing Note LEFT0007: 5250308944584462494
+      Dad Sing Note RIGHT0000: 2477490562412138726
+      Dad Sing Note RIGHT0001: 4446859626554994925
+      Dad Sing Note RIGHT0002: -1960657563725839407
+      Dad Sing Note RIGHT0003: 1021456290226046817
+      Dad Sing Note RIGHT0004: -523136226594671032
+      Dad Sing Note RIGHT0005: -7292567874304985901
+      Dad Sing Note RIGHT0006: 5683851638384899570
+      Dad Sing Note RIGHT0007: -4457789436908973831
+      Dad Sing Note UP0000: -7404560147086493089
+      Dad Sing Note UP0001: -7859986410234419109
+      Dad Sing Note UP0002: 5552203620857318157
+      Dad Sing Note UP0003: -8430229543839188189
+      Dad Sing Note UP0004: -51799685213130890
+      Dad Sing Note UP0005: -5133300061273107473
+      Dad Sing Note UP0006: -8239522000802244992
+      Dad Sing Note UP0007: -7832713928564391788
+      Dad idle dance0000: -8707701929941218994
+      Dad idle dance0001: 4514306177176364930
+      Dad idle dance0002: 857386756710351376
+      Dad idle dance0003: 1215558758027024569
+      Dad idle dance0004: -6339898786905128629
+      Dad idle dance0005: -3521678620548411694
+      Dad idle dance0006: 7338009003613694349
+      Dad idle dance0007: -7499797355841263418
+      Dad idle dance0008: -284847512634653122
+      Dad idle dance0009: 537678143646646040
+      Dad idle dance0010: -4372868969820008613
+      Dad idle dance0011: -744721315396939343
+      enter0000: -4970083245210194344
+      enter0001: -1591352864840497836
+      enter0002: 8574855906513127654
+      enter0003: -1965990683516569169
+      enter0004: 692838013266938463
+      enter0005: -5347598129875692068
+      enter0006: -7117805867293941038
+      enter0007: 4340687730265132294
+      enter0008: 1464872631889616113
+      enter0009: 4323004756017958663
+      enter0010: -6361485742977124713
+      enter0011: -6776065703504079457
+      enter0012: -826513754250035431
+      enter0013: -2260620860333626332
+      enter0014: 6475167946459848531
+      enter0015: -4650360477299781099
+      enter0016: -8844371307310257019
+      enter0017: -1435522775992269946
+      enter0018: 2904744395694780754
+      enter0019: 929954267163656335
+      enter0020: -4246238782467368530
+      enter0021: 1487302517038538230
+      enter0022: 6711652787570310230
+      enter0023: 8692183524606502957
+      enter0024: 8281112926408538900
+      enter0025: -2915322803828217369
+      enter0026: 8872378741840194623
+      enter0027: 4555332516024399064
+      enter0028: -6151219168309207388
+      enter0029: -1230462426150349393
+      enter0030: 4631493647097003971
+      enter0031: -3837188996683009379
+      enter0032: -1107475324358867231
+      enter0033: -2895116384192556392
+      enter0034: 1415277401294141662
+      enter0035: -8974450388215911303
+      enter0036: 1488597452751139269
+      enter0037: -4493296703896478081
+      enter0038: -4676342331741220749
+      enter0039: -9102410604765652552
+      enter0040: 7864318708696482871
+      enter0041: -3825762506327681414
+      enter0042: 1934135463019458751
+      enter0043: -6208164759810950544
+      enter0044: 3792697379234455915
+      enter0045: 8512130846975101046
+      enter0046: -4083330727706075340
+      enter0047: 8658916111375284888
+      enter0048: 7244077439720006030
+      enter0049: 1042418968631974612
+      enter0050: -3391790437236879299
+      enter0051: -5300976492843523675
+      enter0052: 6178823796807314332
+      enter0053: -6734535620679541996
+      enter0054: -5270727815342054326
+      enter0055: -4180391773086966756
+      enter0056: 183234110712400905
+      enter0057: 8891491181973068070
+      enter0058: 8285171063455285419
+      enter0059: 5749130728078566199
+      enter0060: -6787174741960570998
+      enter0061: 4701547034830121016
+      enter0062: -291160944132180118
+      enter0063: 5526085443538445994
+      enter0064: 7430228702593430133
+      enter0065: -2965492936306685395
+      enter0066: 1939937119921359546
+      enter0067: 4674967894138678747
+      enter0068: -2309064114558688393
+      enter0069: -279404385504597628
+      enter0070: -3496585869128410900
+      enter0071: 6302952171615566660
+      enter0072: 3355797508110767765
+      enter0073: 1618088208231393901
+      enter0074: 2680730303120725881
+      enter0075: 2457823936061524033
+      enter0076: -8972866700285869867
+      enter0077: 8665207955882062881
+      enter0078: 6311481412490032160
+      enter0079: -4888019167862740442
+      enter0080: 8207496310937168591
+      enter0081: 5354383021052720740
+      enter0082: -5713251701746643321
+      enter0083: 3107535696102683891
+      enter0084: 6097977978049528802
+      enter0085: 2968698820992765754
+      enter0086: 3174080436953832194
+      enter0087: 8237547599084497330
+      enter0088: -4611317658356696780
+      enter0089: -8152198395800601860
+      enter0090: 3823534644615437685
+      enter0091: -3452524325313750787
+      enter0092: -6161779103319436230
+      enter0093: -1893039056173836730
+      enter0094: -1651650961477019607
+      enter0095: -7109911100086139452
+      enter0096: 4117698676997707200
+      enter0097: -6747059871011419856
+      enter0098: 3911575982183801524
+      enter0099: 7120085217100182837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

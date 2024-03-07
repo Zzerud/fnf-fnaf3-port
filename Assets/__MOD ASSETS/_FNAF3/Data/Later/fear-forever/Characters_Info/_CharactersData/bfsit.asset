@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: bfsit
+  m_EditorClassIdentifier: 
+  characterName: bfsit
+  animations:
+  - {fileID: 11400000, guid: c918288c945b2a443a869d9b1f6e911a, type: 2}
+  - {fileID: 11400000, guid: 623dea7a348c302449815d7aa85fb5a4, type: 2}
+  - {fileID: 11400000, guid: f694281fea0f3b44d9c711f438f470ce, type: 2}
+  - {fileID: 11400000, guid: 7b0068e1713664a40abb735710223cd8, type: 2}
+  - {fileID: 11400000, guid: 4cc197c3ab55a11448d23948e761b512, type: 2}
+  - {fileID: 11400000, guid: 9e1ca78ed7d2bc741880b7a9f8435555, type: 2}
+  - {fileID: 11400000, guid: c7a0e6c58fd401543af3bf641812bbe0, type: 2}
+  - {fileID: 11400000, guid: 32e929e9ec0792146aeabb2c5e062eb8, type: 2}
+  - {fileID: 11400000, guid: 8e7d78c9301c4684a8dc11d153e02995, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 0.8
+  cameraOffset: {x: 2.5, y: 3}
+  orthographicSize: 4
+  yToUp: 3.5
+  yToDown: 2.5
+  xToLeft: 2
+  xToRight: 3
+  portrait: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitDead: {fileID: 1333002745, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitWin: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: 3.41, y: -0.23, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  songDurationColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 0
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: db2faa03632018e4caa1642a34e5f62a, type: 3}
+  audioDeath: {fileID: 8300000, guid: dd0ff0e516bdf224c9246455576b5bf7, type: 3}

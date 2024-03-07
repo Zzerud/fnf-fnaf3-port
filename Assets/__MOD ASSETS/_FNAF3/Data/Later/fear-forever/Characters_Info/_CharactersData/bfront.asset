@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: bfront
+  m_EditorClassIdentifier: 
+  characterName: none
+  animations:
+  - {fileID: 11400000, guid: b9b73fb1e961b47419400d12207f092c, type: 2}
+  - {fileID: 11400000, guid: 681494910fb36624d8432b0412cd8109, type: 2}
+  - {fileID: 11400000, guid: 39f765a056c1f5c4e8f914f72535870e, type: 2}
+  - {fileID: 11400000, guid: 455e536231464ae429ee293f0b91f177, type: 2}
+  - {fileID: 11400000, guid: 70131592e6f208e47a866d97d0837536, type: 2}
+  - {fileID: 11400000, guid: e407d82f1d49132439ff2e41ab358b44, type: 2}
+  - {fileID: 11400000, guid: 426d9ad9f6a3eec40a7190d2475b1b3d, type: 2}
+  - {fileID: 11400000, guid: 22db80164468d244ba57d3244ce1f4fd, type: 2}
+  - {fileID: 11400000, guid: 98ecd10b45744eb4baa07000115722f8, type: 2}
+  idleOnly: 1
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 2
+  cameraOffset: {x: -2.4, y: 3.4}
+  orthographicSize: 8
+  yToUp: 3.9
+  yToDown: 2.9
+  xToLeft: -2.9
+  xToRight: -1.9
+  portrait: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitDead: {fileID: 1333002745, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitWin: {fileID: -462987411, guid: 500b02acf37f4bb44a0539c02e85b7b0, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -7.53, y: -3.78, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  songDurationColor: {r: 0.21176472, g: 0.6901961, b: 0.80392164, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 0
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: db2faa03632018e4caa1642a34e5f62a, type: 3}
+  audioDeath: {fileID: 8300000, guid: dd0ff0e516bdf224c9246455576b5bf7, type: 3}

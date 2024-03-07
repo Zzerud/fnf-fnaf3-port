@@ -1,0 +1,3572 @@
+fileFormatVersion: 2
+guid: e7286ed117d23ce478fb12e54b88d734
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BF NOTE DOWN0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5969
+        width: 437
+        height: 531
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99035fb46589218f0800000000000000
+      internalID: -571226706313662311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0001
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5966
+        width: 410
+        height: 534
+      alignment: 9
+      pivot: {x: -0.06341463, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d6c8dc40bc93b20800000000000000
+      internalID: 3114743838792248694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0002
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 5964
+        width: 406
+        height: 536
+      alignment: 9
+      pivot: {x: -0.08128079, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abe45f1aabd466d0800000000000000
+      internalID: -2998029928205325399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0003
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 5961
+        width: 410
+        height: 539
+      alignment: 9
+      pivot: {x: -0.08292683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6973861ab8b56f40800000000000000
+      internalID: 5721182011025226092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0004
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 5958
+        width: 415
+        height: 542
+      alignment: 9
+      pivot: {x: -0.084337346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d39059a15f2500800000000000000
+      internalID: 373607081738229309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0005
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 5954
+        width: 419
+        height: 546
+      alignment: 9
+      pivot: {x: -0.08591885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b5c46e74e624180800000000000000
+      internalID: -9132615839268447443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0006
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 5950
+        width: 426
+        height: 550
+      alignment: 9
+      pivot: {x: -0.08450704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7874f6685ab873b0800000000000000
+      internalID: -5514452854867986310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0007
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 5945
+        width: 432
+        height: 555
+      alignment: 9
+      pivot: {x: -0.08564815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f30381fddf84e120800000000000000
+      internalID: 2442235081344091120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0008
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 5941
+        width: 438
+        height: 559
+      alignment: 9
+      pivot: {x: -0.0890411, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6d955e0e21d600800000000000000
+      internalID: 491224473460894972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0009
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 5938
+        width: 442
+        height: 562
+      alignment: 9
+      pivot: {x: -0.09728507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e17034ba0ca810800000000000000
+      internalID: 1777807721927663670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0010
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 5935
+        width: 444
+        height: 565
+      alignment: 9
+      pivot: {x: -0.11036036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaf789033f86860800000000000000
+      internalID: 7523530567564896804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5369
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.12612613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bac527cc34ac900800000000000000
+      internalID: 705450837007969178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0000
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5404
+        width: 437
+        height: 531
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea53057c10d0980800000000000000
+      internalID: -8571192560260370801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0001
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 5401
+        width: 410
+        height: 534
+      alignment: 9
+      pivot: {x: -0.06341463, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a0ec5d453de4b0800000000000000
+      internalID: -5409608971015117883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0002
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 5399
+        width: 406
+        height: 536
+      alignment: 9
+      pivot: {x: -0.08128079, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd47e67936d4fd0800000000000000
+      internalID: -2356117528000537754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0003
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 5396
+        width: 410
+        height: 539
+      alignment: 9
+      pivot: {x: -0.08292683, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0706a8ec7911f00800000000000000
+      internalID: 1085815898513633441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0004
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 5393
+        width: 415
+        height: 542
+      alignment: 9
+      pivot: {x: -0.084337346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32397efafe0758830800000000000000
+      internalID: 4072785612777165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0005
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 5389
+        width: 419
+        height: 546
+      alignment: 9
+      pivot: {x: -0.08591885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59f60d5d829dc6b0800000000000000
+      internalID: -5274398452732200613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0006
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 5385
+        width: 426
+        height: 550
+      alignment: 9
+      pivot: {x: -0.08450704, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aefac4b2a5cec470800000000000000
+      internalID: 8416882056210611876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0007
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 5380
+        width: 432
+        height: 555
+      alignment: 9
+      pivot: {x: -0.08564815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7bca5095d623e10800000000000000
+      internalID: 2175921799088093173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0008
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 5376
+        width: 438
+        height: 559
+      alignment: 9
+      pivot: {x: -0.0890411, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a37c9ba886fed2e0800000000000000
+      internalID: -2098969309452930144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0009
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 5373
+        width: 442
+        height: 562
+      alignment: 9
+      pivot: {x: -0.09728507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0b3e9f4888c6b0800000000000000
+      internalID: -5275817087926071927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4804
+        width: 444
+        height: 565
+      alignment: 9
+      pivot: {x: -0.11036036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1e000ad8dae0b50800000000000000
+      internalID: 6561372530911797719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN ALT0011
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4803
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.12612613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e97cd4ba6568f660800000000000000
+      internalID: 7419791895068178913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0000
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66009cdfb0af5c290800000000000000
+      internalID: -7870609844350680986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0001
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a99e0e9a0fc3610800000000000000
+      internalID: 1602420179850599042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0002
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac733c885c670750800000000000000
+      internalID: 6271100133701811374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0003
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ac5af53f8551250800000000000000
+      internalID: 5914731487926012507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0004
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b169b7dc38e640800000000000000
+      internalID: 5109400674477652317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0005
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef08c42fd95f6cbc0800000000000000
+      internalID: -3763050379897700098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0006
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13321e35b50bf3b80800000000000000
+      internalID: -8412811672609021135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0007
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e31b5b91381c480800000000000000
+      internalID: -8880672843752194540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0008
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2714743aea448370800000000000000
+      internalID: 8323860381050345262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0009
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19f15cb4e569b2a0800000000000000
+      internalID: -6721228935787316963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0010
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a5a9955873c4a20800000000000000
+      internalID: 3047872093696449065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE DOWN MISS0011
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 4775
+        width: 409
+        height: 594
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bdc29831b6fae20800000000000000
+      internalID: 3364025178319018830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0000
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 4807
+        width: 485
+        height: 562
+      alignment: 9
+      pivot: {x: -0.022680413, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193ae1a6b843f4970800000000000000
+      internalID: 8741263175134913425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0001
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 4806
+        width: 481
+        height: 563
+      alignment: 9
+      pivot: {x: -0.03742204, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6c1092481b3490800000000000000
+      internalID: -7765586458305598146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0002
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 4805
+        width: 498
+        height: 564
+      alignment: 9
+      pivot: {x: -0.012048192, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38335dd97d97bf30800000000000000
+      internalID: 4591311491857332283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0003
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 4804
+        width: 509
+        height: 565
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae0f4f491e27330800000000000000
+      internalID: 3707273473160178319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0004
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 4803
+        width: 508
+        height: 566
+      alignment: 9
+      pivot: {x: -0.00984252, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25220cfb25862aa0800000000000000
+      internalID: -6186110614188710614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0005
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 4802
+        width: 505
+        height: 567
+      alignment: 9
+      pivot: {x: -0.023762377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c2c552c50ed6b0800000000000000
+      internalID: -5269768181756279164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0006
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 4801
+        width: 498
+        height: 568
+      alignment: 9
+      pivot: {x: -0.044176705, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af601acf344eb70800000000000000
+      internalID: 8927335113667574348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4206
+        width: 488
+        height: 569
+      alignment: 9
+      pivot: {x: -0.07172131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03d8ba736934e00800000000000000
+      internalID: 1027830305816129763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0008
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4206
+        width: 476
+        height: 569
+      alignment: 9
+      pivot: {x: -0.10504202, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4f3e47e6a8c170800000000000000
+      internalID: 8198986634008416083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0009
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4206
+        width: 463
+        height: 569
+      alignment: 9
+      pivot: {x: -0.14254859, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f202204cb62e80800000000000000
+      internalID: -8203662687574232750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0010
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 4208
+        width: 455
+        height: 567
+      alignment: 9
+      pivot: {x: -0.16923077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db58e83d9fafade0800000000000000
+      internalID: -1319643075996787758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT0011
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 4209
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.2072072, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f21fe467e9e30f0800000000000000
+      internalID: -1135295825083027633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0000
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 4213
+        width: 513
+        height: 562
+      alignment: 9
+      pivot: {x: -0.021442495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dc4492a08bcdc30800000000000000
+      internalID: 4385582490933579055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0001
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 4212
+        width: 521
+        height: 563
+      alignment: 9
+      pivot: {x: -0.032629557, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608ad5036bb5bb20800000000000000
+      internalID: 3149629548389892197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0002
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4211
+        width: 535
+        height: 564
+      alignment: 9
+      pivot: {x: -0.011214953, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67a55af9cff63e00800000000000000
+      internalID: 1024287208226793322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0003
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 4210
+        width: 544
+        height: 565
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd7dac4a252ce40800000000000000
+      internalID: 5675189348171505453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0004
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 4209
+        width: 541
+        height: 566
+      alignment: 9
+      pivot: {x: -0.009242144, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e6b074a424b470800000000000000
+      internalID: 8409386692891830183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3639
+        width: 533
+        height: 567
+      alignment: 9
+      pivot: {x: -0.022514071, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17337614608280b00800000000000000
+      internalID: 794929341563089777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0006
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3638
+        width: 518
+        height: 568
+      alignment: 9
+      pivot: {x: -0.042471044, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6036e3ecec6e16310800000000000000
+      internalID: 1396651135359410950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0007
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 3637
+        width: 497
+        height: 569
+      alignment: 9
+      pivot: {x: -0.07042254, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806acc19958c7b40800000000000000
+      internalID: 5439369342616232066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0008
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3637
+        width: 476
+        height: 569
+      alignment: 9
+      pivot: {x: -0.10504202, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a63bbf0b4da9b0800000000000000
+      internalID: -5067311474784427802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0009
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3637
+        width: 463
+        height: 569
+      alignment: 9
+      pivot: {x: -0.14254859, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f649515e1c5ffdf0800000000000000
+      internalID: -144295377768986895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0010
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3639
+        width: 455
+        height: 567
+      alignment: 9
+      pivot: {x: -0.16923077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac6d63f28d1fd00800000000000000
+      internalID: 1004821889175439950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT ALT0011
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 3640
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.2072072, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5596f77c75e1d80800000000000000
+      internalID: -8278082550712674858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0000
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785ea07dbdf77ff0800000000000000
+      internalID: -38283081728239499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0001
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b64bf0fe052930800000000000000
+      internalID: 4117713862470842086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0002
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16bbb35a4b8a090800000000000000
+      internalID: -8022964114395799130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0003
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d740133a600e100800000000000000
+      internalID: 135115286792928563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0004
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101ae6eedfd3769c0800000000000000
+      internalID: -3934107588648591103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0005
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25f6002a9a8c9700800000000000000
+      internalID: 548465649199281453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0006
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d44b3300314fd90800000000000000
+      internalID: -7065001023849083533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0007
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20336e2eabb56c050800000000000000
+      internalID: 5820440426651726594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0008
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc2fa9056121c690800000000000000
+      internalID: -7583743579677315856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0009
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b48084f118a150800000000000000
+      internalID: 5883972654985425771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0010
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242adc4a879ec7010800000000000000
+      internalID: 1188081106089255490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE LEFT MISS0011
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3593
+        width: 482
+        height: 613
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84f3989d1f6e03a0800000000000000
+      internalID: -6697293422948780913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0000
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 3649
+        width: 477
+        height: 557
+      alignment: 9
+      pivot: {x: -0.033542976, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9f2664a40b0bd20800000000000000
+      internalID: 3292325160662792670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3655
+        width: 493
+        height: 551
+      alignment: 9
+      pivot: {x: -0.03245436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e152bad483e963f0800000000000000
+      internalID: -906943690194136602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3043
+        width: 496
+        height: 550
+      alignment: 9
+      pivot: {x: -0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4227451e106f30800000000000000
+      internalID: 4566683098890259943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3039
+        width: 491
+        height: 554
+      alignment: 9
+      pivot: {x: -0.03258656, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c690ecc0b6a6ad80800000000000000
+      internalID: -8239715189946018105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3036
+        width: 481
+        height: 557
+      alignment: 9
+      pivot: {x: -0.033264033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdf849d654793b10800000000000000
+      internalID: 1961727029058010546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3034
+        width: 472
+        height: 559
+      alignment: 9
+      pivot: {x: -0.033898305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1954f8f2f23551e0800000000000000
+      internalID: -2209804023015122661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 3032
+        width: 464
+        height: 561
+      alignment: 9
+      pivot: {x: -0.03448276, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ca215a9fd96580800000000000000
+      internalID: -8833283340230802184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3030
+        width: 455
+        height: 563
+      alignment: 9
+      pivot: {x: -0.035164837, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3bd90ee36f01c0800000000000000
+      internalID: -4535296425720071183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3029
+        width: 446
+        height: 564
+      alignment: 9
+      pivot: {x: -0.03587444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1ecf5f109000690800000000000000
+      internalID: -7638095063993753121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 3029
+        width: 441
+        height: 564
+      alignment: 9
+      pivot: {x: -0.03628118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f79d20dbf7a5d80800000000000000
+      internalID: -8261150116684398802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 3028
+        width: 441
+        height: 565
+      alignment: 9
+      pivot: {x: -0.022675738, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81029967ec73b7950800000000000000
+      internalID: 6447808651403534360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 3027
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2779e28e93d7b80800000000000000
+      internalID: -8395490460971863301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2470
+        width: 477
+        height: 557
+      alignment: 9
+      pivot: {x: -0.033542976, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059835c806a35280800000000000000
+      internalID: -9055711869113166582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0001
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2476
+        width: 493
+        height: 551
+      alignment: 9
+      pivot: {x: -0.03245436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31900fa419fc1f650800000000000000
+      internalID: 6265016779583523091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0002
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2477
+        width: 496
+        height: 550
+      alignment: 9
+      pivot: {x: -0.032258064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a04cbc71c977d90800000000000000
+      internalID: -7100034661509494143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0003
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2473
+        width: 491
+        height: 554
+      alignment: 9
+      pivot: {x: -0.03258656, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6f2f4e03f20270800000000000000
+      internalID: 8215395913060805132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0004
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 2470
+        width: 481
+        height: 557
+      alignment: 9
+      pivot: {x: -0.033264033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e10c48ac875ea0800000000000000
+      internalID: -5884079733678675617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0005
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2468
+        width: 472
+        height: 559
+      alignment: 9
+      pivot: {x: -0.033898305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5766d68280d6d890800000000000000
+      internalID: -7433524875901900961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0006
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2466
+        width: 464
+        height: 561
+      alignment: 9
+      pivot: {x: -0.03448276, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad0a8c0f438f35a0800000000000000
+      internalID: -6539363758382641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0007
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 2464
+        width: 455
+        height: 563
+      alignment: 9
+      pivot: {x: -0.035164837, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd23fe384feb100800000000000000
+      internalID: 125806687103933515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0008
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 2463
+        width: 446
+        height: 564
+      alignment: 9
+      pivot: {x: -0.03587444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1977432f99121090800000000000000
+      internalID: -8065355811384755941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0009
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 2463
+        width: 441
+        height: 564
+      alignment: 9
+      pivot: {x: -0.03628118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2338f78eccde40d0800000000000000
+      internalID: -3436566686034545877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898
+        width: 441
+        height: 565
+      alignment: 9
+      pivot: {x: -0.022675738, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9f682e89d86b4b0800000000000000
+      internalID: -5424993013346141748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT ALT0011
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1897
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc271edf0d6f0e10800000000000000
+      internalID: 2166069860706495738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0000
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f4490028c42630800000000000000
+      internalID: 3901463217129716030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0001
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb08f5fb524b8690800000000000000
+      internalID: -7598906983521448972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0002
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ad1d325dfc1efa0800000000000000
+      internalID: -5773104732976326074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0003
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e271c50af33b63d0800000000000000
+      internalID: -3212416760267312415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0004
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d774ec15fd0c70800000000000000
+      internalID: 8939070339841251003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0005
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a6fa68179950f30800000000000000
+      internalID: 4541204512143010385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0006
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708015b7949d0e70800000000000000
+      internalID: 9083079402774888570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0007
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86882c2cbeb938d20800000000000000
+      internalID: 3279636390543001704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0008
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a62d51945ebcb00800000000000000
+      internalID: 850025056750955009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0009
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c512c96d1017c5320800000000000000
+      internalID: 2548035741894320476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0010
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb700c6fb99c47170800000000000000
+      internalID: 8175380895281186750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE RIGHT MISS0011
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1874
+        width: 493
+        height: 589
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96a394144e2d9c0800000000000000
+      internalID: -3903806957924226633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0000
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1874
+        width: 461
+        height: 589
+      alignment: 9
+      pivot: {x: -0.0065075923, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab159bd414375730800000000000000
+      internalID: 3987713259247836068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0001
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1860
+        width: 461
+        height: 603
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064d0c7d6b9de3db0800000000000000
+      internalID: -4810167972658097056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0002
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1856
+        width: 463
+        height: 607
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f793e9205f0e090800000000000000
+      internalID: -8007130745871433923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0003
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1860
+        width: 462
+        height: 603
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0d8212143750d80800000000000000
+      internalID: -8285089215911767872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0004
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1862
+        width: 461
+        height: 601
+      alignment: 9
+      pivot: {x: -0.0021691974, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061230cb50e6ae10800000000000000
+      internalID: 2208699351942960641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0005
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1864
+        width: 459
+        height: 599
+      alignment: 9
+      pivot: {x: -0.0043572984, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74731f53e7bb4070800000000000000
+      internalID: 8091763342681797755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0006
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 1866
+        width: 456
+        height: 597
+      alignment: 9
+      pivot: {x: -0.00877193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3e38c0dee298fb0800000000000000
+      internalID: -4645129945003858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1262
+        width: 453
+        height: 594
+      alignment: 9
+      pivot: {x: -0.015452539, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2e2ac1bdabe6f0800000000000000
+      internalID: -654238341739434413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0008
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1265
+        width: 449
+        height: 591
+      alignment: 9
+      pivot: {x: -0.024498885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970eab5219bb5b20800000000000000
+      internalID: 3124294255010252692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0009
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1271
+        width: 440
+        height: 585
+      alignment: 9
+      pivot: {x: -0.043181818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab00650340d84b50800000000000000
+      internalID: 6577736242046176163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0010
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1280
+        width: 441
+        height: 576
+      alignment: 9
+      pivot: {x: -0.03628118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af2d991e284e200800000000000000
+      internalID: 208435388225878645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP0011
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1290
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.024774775, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c36c85a604be5fa0800000000000000
+      internalID: -5810008528621116471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0000
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1267
+        width: 461
+        height: 589
+      alignment: 9
+      pivot: {x: -0.0065075923, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8a577fdc9dbf040800000000000000
+      internalID: 4682575716224968956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0001
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1253
+        width: 467
+        height: 603
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a4b60e76df5f90800000000000000
+      internalID: -6962610662124771656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0002
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1249
+        width: 492
+        height: 607
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee419712b4149050800000000000000
+      internalID: 5806288574719545061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0003
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 1253
+        width: 508
+        height: 603
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f0686d3c270250800000000000000
+      internalID: 5910741678202877017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0004
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 1255
+        width: 517
+        height: 601
+      alignment: 9
+      pivot: {x: -0.001934236, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45846ec8d7df14cb0800000000000000
+      internalID: -4881341805416265644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 522
+        height: 599
+      alignment: 9
+      pivot: {x: -0.0038314175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e53d5ea0e423f60800000000000000
+      internalID: 8012552495758007836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0006
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 652
+        width: 517
+        height: 597
+      alignment: 9
+      pivot: {x: -0.007736944, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe31099c17946f0800000000000000
+      internalID: -699903156559811629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0007
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 655
+        width: 505
+        height: 594
+      alignment: 9
+      pivot: {x: -0.013861386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4e55f3caf4922a0800000000000000
+      internalID: -6761785764304526110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0008
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 658
+        width: 480
+        height: 591
+      alignment: 9
+      pivot: {x: -0.022916667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083171070ac17c50800000000000000
+      internalID: 6661327455295453188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0009
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 664
+        width: 449
+        height: 585
+      alignment: 9
+      pivot: {x: -0.042316258, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03d74cdb5393b10800000000000000
+      internalID: 1961658201858191594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0010
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 673
+        width: 441
+        height: 576
+      alignment: 9
+      pivot: {x: -0.03628118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041b0b39f2ed9db0800000000000000
+      internalID: -4783417669132282869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP ALT0011
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 683
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.024774775, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165f6cfddfb9f6f0800000000000000
+      internalID: -650277711034493414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0000
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bccd535aface30800000000000000
+      internalID: 4524704011610011589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0001
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e696acae1b90a30800000000000000
+      internalID: 4182069350966587033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0002
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a013257e0a078f80800000000000000
+      internalID: -8104497947218866013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0003
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e226c61eadc2560800000000000000
+      internalID: 7290442558526860955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0004
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a945d1ea408845060800000000000000
+      internalID: 6941322479367181466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0005
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6400e6865f4da8d40800000000000000
+      internalID: 5587512438190637126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0006
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d39812248fc0800800000000000000
+      internalID: 580111414938123564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0007
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ed621fcb05e270800000000000000
+      internalID: 8279036473985852919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0008
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18993dc0e0d7c530800000000000000
+      internalID: 3875295668309956635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0009
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f4cd7332b97cf0800000000000000
+      internalID: -253975969746585515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0010
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410f5707ed9cec000800000000000000
+      internalID: 58205802409095188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF NOTE UP MISS0011
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 642
+        width: 461
+        height: 607
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6acd50e42182a60800000000000000
+      internalID: 7649384093403883195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0000
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 688
+        width: 447
+        height: 561
+      alignment: 9
+      pivot: {x: -0.051454138, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a26e559953ba820800000000000000
+      internalID: 2930494915222055470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0001
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 693
+        width: 462
+        height: 556
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40bc1a8e6902d00800000000000000
+      internalID: 945921847638820071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 445
+        height: 557
+      alignment: 9
+      pivot: {x: -0.04269663, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ad6de859eef380800000000000000
+      internalID: -8935448042506704410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0003
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 84
+        width: 427
+        height: 558
+      alignment: 9
+      pivot: {x: -0.09601874, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e178713601b990800000000000000
+      internalID: -7372104305484897998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0004
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 82
+        width: 425
+        height: 560
+      alignment: 9
+      pivot: {x: -0.11058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94945b5597621cb00800000000000000
+      internalID: 847000507493206345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0005
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 79
+        width: 428
+        height: 563
+      alignment: 9
+      pivot: {x: -0.11448598, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0b6070e3aba8770800000000000000
+      internalID: 8613902012868112571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0006
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 78
+        width: 432
+        height: 564
+      alignment: 9
+      pivot: {x: -0.113425925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f085c4383c1620800000000000000
+      internalID: 2746131672092177567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0007
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 77
+        width: 436
+        height: 565
+      alignment: 9
+      pivot: {x: -0.10779817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750c214c0af9f840800000000000000
+      internalID: 5258508970471720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0008
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 76
+        width: 440
+        height: 566
+      alignment: 9
+      pivot: {x: -0.10227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd1210464af4b60800000000000000
+      internalID: 7732579834641111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0009
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 76
+        width: 443
+        height: 566
+      alignment: 9
+      pivot: {x: -0.094808124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436cb0e1b54404d0800000000000000
+      internalID: -3169331607480016060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0010
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 76
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.09009009, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e92f502f4feba0800000000000000
+      internalID: -6057535973335897679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BF idle dance0011
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 76
+        width: 444
+        height: 566
+      alignment: 9
+      pivot: {x: -0.08558559, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83500ad16d8489110800000000000000
+      internalID: 1267843379562022200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BF NOTE DOWN ALT0000: -8571192560260370801
+      BF NOTE DOWN ALT0001: -5409608971015117883
+      BF NOTE DOWN ALT0002: -2356117528000537754
+      BF NOTE DOWN ALT0003: 1085815898513633441
+      BF NOTE DOWN ALT0004: 4072785612777165603
+      BF NOTE DOWN ALT0005: -5274398452732200613
+      BF NOTE DOWN ALT0006: 8416882056210611876
+      BF NOTE DOWN ALT0007: 2175921799088093173
+      BF NOTE DOWN ALT0008: -2098969309452930144
+      BF NOTE DOWN ALT0009: -5275817087926071927
+      BF NOTE DOWN ALT0010: 6561372530911797719
+      BF NOTE DOWN ALT0011: 7419791895068178913
+      BF NOTE DOWN MISS0000: -7870609844350680986
+      BF NOTE DOWN MISS0001: 1602420179850599042
+      BF NOTE DOWN MISS0002: 6271100133701811374
+      BF NOTE DOWN MISS0003: 5914731487926012507
+      BF NOTE DOWN MISS0004: 5109400674477652317
+      BF NOTE DOWN MISS0005: -3763050379897700098
+      BF NOTE DOWN MISS0006: -8412811672609021135
+      BF NOTE DOWN MISS0007: -8880672843752194540
+      BF NOTE DOWN MISS0008: 8323860381050345262
+      BF NOTE DOWN MISS0009: -6721228935787316963
+      BF NOTE DOWN MISS0010: 3047872093696449065
+      BF NOTE DOWN MISS0011: 3364025178319018830
+      BF NOTE DOWN0000: -571226706313662311
+      BF NOTE DOWN0001: 3114743838792248694
+      BF NOTE DOWN0002: -2998029928205325399
+      BF NOTE DOWN0003: 5721182011025226092
+      BF NOTE DOWN0004: 373607081738229309
+      BF NOTE DOWN0005: -9132615839268447443
+      BF NOTE DOWN0006: -5514452854867986310
+      BF NOTE DOWN0007: 2442235081344091120
+      BF NOTE DOWN0008: 491224473460894972
+      BF NOTE DOWN0009: 1777807721927663670
+      BF NOTE DOWN0010: 7523530567564896804
+      BF NOTE DOWN0011: 705450837007969178
+      BF NOTE LEFT ALT0000: 4385582490933579055
+      BF NOTE LEFT ALT0001: 3149629548389892197
+      BF NOTE LEFT ALT0002: 1024287208226793322
+      BF NOTE LEFT ALT0003: 5675189348171505453
+      BF NOTE LEFT ALT0004: 8409386692891830183
+      BF NOTE LEFT ALT0005: 794929341563089777
+      BF NOTE LEFT ALT0006: 1396651135359410950
+      BF NOTE LEFT ALT0007: 5439369342616232066
+      BF NOTE LEFT ALT0008: -5067311474784427802
+      BF NOTE LEFT ALT0009: -144295377768986895
+      BF NOTE LEFT ALT0010: 1004821889175439950
+      BF NOTE LEFT ALT0011: -8278082550712674858
+      BF NOTE LEFT MISS0000: -38283081728239499
+      BF NOTE LEFT MISS0001: 4117713862470842086
+      BF NOTE LEFT MISS0002: -8022964114395799130
+      BF NOTE LEFT MISS0003: 135115286792928563
+      BF NOTE LEFT MISS0004: -3934107588648591103
+      BF NOTE LEFT MISS0005: 548465649199281453
+      BF NOTE LEFT MISS0006: -7065001023849083533
+      BF NOTE LEFT MISS0007: 5820440426651726594
+      BF NOTE LEFT MISS0008: -7583743579677315856
+      BF NOTE LEFT MISS0009: 5883972654985425771
+      BF NOTE LEFT MISS0010: 1188081106089255490
+      BF NOTE LEFT MISS0011: -6697293422948780913
+      BF NOTE LEFT0000: 8741263175134913425
+      BF NOTE LEFT0001: -7765586458305598146
+      BF NOTE LEFT0002: 4591311491857332283
+      BF NOTE LEFT0003: 3707273473160178319
+      BF NOTE LEFT0004: -6186110614188710614
+      BF NOTE LEFT0005: -5269768181756279164
+      BF NOTE LEFT0006: 8927335113667574348
+      BF NOTE LEFT0007: 1027830305816129763
+      BF NOTE LEFT0008: 8198986634008416083
+      BF NOTE LEFT0009: -8203662687574232750
+      BF NOTE LEFT0010: -1319643075996787758
+      BF NOTE LEFT0011: -1135295825083027633
+      BF NOTE RIGHT ALT0000: -9055711869113166582
+      BF NOTE RIGHT ALT0001: 6265016779583523091
+      BF NOTE RIGHT ALT0002: -7100034661509494143
+      BF NOTE RIGHT ALT0003: 8215395913060805132
+      BF NOTE RIGHT ALT0004: -5884079733678675617
+      BF NOTE RIGHT ALT0005: -7433524875901900961
+      BF NOTE RIGHT ALT0006: -6539363758382641755
+      BF NOTE RIGHT ALT0007: 125806687103933515
+      BF NOTE RIGHT ALT0008: -8065355811384755941
+      BF NOTE RIGHT ALT0009: -3436566686034545877
+      BF NOTE RIGHT ALT0010: -5424993013346141748
+      BF NOTE RIGHT ALT0011: 2166069860706495738
+      BF NOTE RIGHT MISS0000: 3901463217129716030
+      BF NOTE RIGHT MISS0001: -7598906983521448972
+      BF NOTE RIGHT MISS0002: -5773104732976326074
+      BF NOTE RIGHT MISS0003: -3212416760267312415
+      BF NOTE RIGHT MISS0004: 8939070339841251003
+      BF NOTE RIGHT MISS0005: 4541204512143010385
+      BF NOTE RIGHT MISS0006: 9083079402774888570
+      BF NOTE RIGHT MISS0007: 3279636390543001704
+      BF NOTE RIGHT MISS0008: 850025056750955009
+      BF NOTE RIGHT MISS0009: 2548035741894320476
+      BF NOTE RIGHT MISS0010: 8175380895281186750
+      BF NOTE RIGHT MISS0011: -3903806957924226633
+      BF NOTE RIGHT0000: 3292325160662792670
+      BF NOTE RIGHT0001: -906943690194136602
+      BF NOTE RIGHT0002: 4566683098890259943
+      BF NOTE RIGHT0003: -8239715189946018105
+      BF NOTE RIGHT0004: 1961727029058010546
+      BF NOTE RIGHT0005: -2209804023015122661
+      BF NOTE RIGHT0006: -8833283340230802184
+      BF NOTE RIGHT0007: -4535296425720071183
+      BF NOTE RIGHT0008: -7638095063993753121
+      BF NOTE RIGHT0009: -8261150116684398802
+      BF NOTE RIGHT0010: 6447808651403534360
+      BF NOTE RIGHT0011: -8395490460971863301
+      BF NOTE UP ALT0000: 4682575716224968956
+      BF NOTE UP ALT0001: -6962610662124771656
+      BF NOTE UP ALT0002: 5806288574719545061
+      BF NOTE UP ALT0003: 5910741678202877017
+      BF NOTE UP ALT0004: -4881341805416265644
+      BF NOTE UP ALT0005: 8012552495758007836
+      BF NOTE UP ALT0006: -699903156559811629
+      BF NOTE UP ALT0007: -6761785764304526110
+      BF NOTE UP ALT0008: 6661327455295453188
+      BF NOTE UP ALT0009: 1961658201858191594
+      BF NOTE UP ALT0010: -4783417669132282869
+      BF NOTE UP ALT0011: -650277711034493414
+      BF NOTE UP MISS0000: 4524704011610011589
+      BF NOTE UP MISS0001: 4182069350966587033
+      BF NOTE UP MISS0002: -8104497947218866013
+      BF NOTE UP MISS0003: 7290442558526860955
+      BF NOTE UP MISS0004: 6941322479367181466
+      BF NOTE UP MISS0005: 5587512438190637126
+      BF NOTE UP MISS0006: 580111414938123564
+      BF NOTE UP MISS0007: 8279036473985852919
+      BF NOTE UP MISS0008: 3875295668309956635
+      BF NOTE UP MISS0009: -253975969746585515
+      BF NOTE UP MISS0010: 58205802409095188
+      BF NOTE UP MISS0011: 7649384093403883195
+      BF NOTE UP0000: 3987713259247836068
+      BF NOTE UP0001: -4810167972658097056
+      BF NOTE UP0002: -8007130745871433923
+      BF NOTE UP0003: -8285089215911767872
+      BF NOTE UP0004: 2208699351942960641
+      BF NOTE UP0005: 8091763342681797755
+      BF NOTE UP0006: -4645129945003858986
+      BF NOTE UP0007: -654238341739434413
+      BF NOTE UP0008: 3124294255010252692
+      BF NOTE UP0009: 6577736242046176163
+      BF NOTE UP0010: 208435388225878645
+      BF NOTE UP0011: -5810008528621116471
+      BF idle dance0000: 2930494915222055470
+      BF idle dance0001: 945921847638820071
+      BF idle dance0002: -8935448042506704410
+      BF idle dance0003: -7372104305484897998
+      BF idle dance0004: 847000507493206345
+      BF idle dance0005: 8613902012868112571
+      BF idle dance0006: 2746131672092177567
+      BF idle dance0007: 5258508970471720313
+      BF idle dance0008: 7732579834641111931
+      BF idle dance0009: -3169331607480016060
+      BF idle dance0010: -6057535973335897679
+      BF idle dance0011: 1267843379562022200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

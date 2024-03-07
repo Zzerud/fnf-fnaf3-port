@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: frank
+  m_EditorClassIdentifier: 
+  characterName: frank
+  animations:
+  - {fileID: 11400000, guid: 14c42cef0b0fbdc4d96d6393cbae2a52, type: 2}
+  - {fileID: 11400000, guid: 71c58156f9bef304cad44d53987b4c1e, type: 2}
+  - {fileID: 11400000, guid: ad202987973c6ed449b38f4176b51fdc, type: 2}
+  - {fileID: 11400000, guid: baa23ea33f777274a9b78b6f5bbc339f, type: 2}
+  - {fileID: 11400000, guid: efa5a8e30f409ae44a557c4a125fd2c4, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 0.8
+  cameraOffset: {x: -1.5, y: 2}
+  orthographicSize: 4.5
+  yToUp: 2.5
+  yToDown: 1.5
+  xToLeft: -2
+  xToRight: -1
+  portrait: {fileID: 991118822, guid: ff88cdd9d3a75c3489ccc905ac0abffc, type: 3}
+  portraitDead: {fileID: -121834446, guid: ff88cdd9d3a75c3489ccc905ac0abffc, type: 3}
+  portraitWin: {fileID: 991118822, guid: ff88cdd9d3a75c3489ccc905ac0abffc, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: -0.89, y: -1.75, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.68235296, g: 0.40000004, b: 0.8117648, a: 1}
+  songDurationColor: {r: 0.68235296, g: 0.40000004, b: 0.8117648, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 0}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: 69d3af4ea173a7541a3caab7c792c799, type: 3}
+  audioDeath: {fileID: 8300000, guid: 7cdc39298fb36bb4ba521e4b05548ae4, type: 3}

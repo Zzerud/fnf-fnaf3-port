@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e6f6b396aaad8409ac6804e2834b12, type: 3}
+  m_Name: Sing Left
+  m_EditorClassIdentifier: 
+  animationName: Sing Left
+  fps: 24
+  frames:
+  - sprite: {fileID: 434239829651018703, guid: e18a7cbd53e7ae14eb3c0a913222ebd8, type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 660299599162371475, guid: e18a7cbd53e7ae14eb3c0a913222ebd8, type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 8643474238590275334, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 4935461080484776768, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 5400293098594383103, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 8411517376997836984, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2873846408173188538, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -3923791929570531203, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 896050881867886120, guid: e18a7cbd53e7ae14eb3c0a913222ebd8, type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -7701239524276351716, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2964105138409615133, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2202054762938290599, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -2041918886166492905, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -5770345406832960964, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -5025241563415027952, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -8072970067873287351, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -8869654590830574975, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 1288376046279084533, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 8315427412439896914, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: -4343363529460913727, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  - sprite: {fileID: 7783258239456452521, guid: e18a7cbd53e7ae14eb3c0a913222ebd8,
+      type: 3}
+    offset: {x: 0, y: 0}
+  sprites: []
+  update: 0
+  spriteAnimationType: 1

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Empty.unity
+    guid: a38b9a1b6e67e1f4880f88cd73b7a1b6
+  - enabled: 1
+    path: Assets/_Scenes/Title.unity
+    guid: 77240936964bcc84b99cac51f340cb7b
+  - enabled: 1
+    path: Assets/_Scenes/Game_Backup3.unity
+    guid: a7c7900b9b394db4bb0c5bb12e44f8fe
+  - enabled: 1
+    path: Assets/_Scenes/Video.unity
+    guid: 60cdaf203b1a0734eae7556fd45a494b
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/until-next-time.unity
+    guid: c45b6b8220ae43e4fa51bff733a3ffc7
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/out-of-bounds.unity
+    guid: 11fb34188f74d05459a3261589a93efe
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/waffles.unity
+    guid: c133af7c610645f4eacfbcfce94670d6
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/last-hour.unity
+    guid: 8e782c936f4fbf74e97a999704e26110
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/misconception.unity
+    guid: 1aec05e3a9c6a9f4bb5051c57ce9dd34
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/totally-real.unity
+    guid: ad3733fb563384c41a422b2ab4170e8a
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/endo-revengo.unity
+    guid: df3b452f4bca2004ca2fb684bbcc9eb1
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/party-room.unity
+    guid: cdd4ee57bcd73094cb0443e4b0953892
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/leantrap.unity
+    guid: 359707c551b6eb341928c9d71b744405
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/brain-damage.unity
+    guid: e68229e8034b03141a7ba9bf4a04286d
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/everlasting.unity
+    guid: ad182e8ba0014164690112d5d86e93d7
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/taken-apart.unity
+    guid: 9cb54247c32d5914b89d4b7aaece5034
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/retribution.unity
+    guid: 231e44ce5363b584b95d8b9bad0dda22
+  - enabled: 1
+    path: Assets/__MOD ASSETS/_FNAF3/Scenes/fear-forever.unity
+    guid: 0de51a11fcca1fd4b9fac3e21186ab0d
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 9a4d6992ed1882145b533817ed73b9bc, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7b7df58163cac9e459e4e0d77cf9258f,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 0}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 861afbcf543ca0945a08b31e40325110, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ff07eecd2397f3342ac4cdf573e90566,
+      type: 2}

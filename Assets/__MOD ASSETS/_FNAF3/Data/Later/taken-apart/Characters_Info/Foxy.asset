@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3b0f53c1e627594eab326dc8f35a385, type: 3}
+  m_Name: Foxy
+  m_EditorClassIdentifier: 
+  characterName: Foxy
+  animations:
+  - {fileID: 11400000, guid: 4347f99fe4f0a5846beae760b5aad8bb, type: 2}
+  - {fileID: 11400000, guid: 62612347583ab4e4780b548eee4767e1, type: 2}
+  - {fileID: 11400000, guid: 0c16aecfd4eb98a468ee9044677f4b0f, type: 2}
+  - {fileID: 11400000, guid: e40473b971cb12e45baacc0061705259, type: 2}
+  - {fileID: 11400000, guid: eb31b68c8a1e0ba4fad84c6db77bdb67, type: 2}
+  idleOnly: 0
+  doesFloat: 0
+  floatToOffset: 0
+  floatSpeed: 0
+  scale: 2.20593
+  cameraOffset: {x: 2.85, y: 2.94}
+  orthographicSize: 6
+  yToUp: 3.34
+  yToDown: 2.54
+  xToLeft: 2.45
+  xToRight: 3.25
+  portrait: {fileID: 373264652, guid: fd652b7e70e51ea41a5636ca77492dc7, type: 3}
+  portraitDead: {fileID: 1446905633, guid: fd652b7e70e51ea41a5636ca77492dc7, type: 3}
+  portraitWin: {fileID: 373264652, guid: fd652b7e70e51ea41a5636ca77492dc7, type: 3}
+  portraitSize: {x: 0, y: 0}
+  isRotatedIcon: 0
+  isCustomPosition: 1
+  newTransform: {x: 0.63, y: -6, z: 0}
+  changeColor: 0
+  healthColor: {r: 0.57254905, g: 0.20784315, b: 0.14901961, a: 1}
+  songDurationColor: {r: 0.57254905, g: 0.20784315, b: 0.14901961, a: 1}
+  isRotated: 0
+  isBobingWhileSing: 0
+  noMissAnimations: 1
+  deathAnimator: {fileID: 22100000, guid: 123acf36f3da1e1489534926fc788929, type: 2}
+  isVideoDeath: 1
+  videoDeath: {fileID: 32900000, guid: 74558e010d156364987749e661198933, type: 3}
+  audioDeath: {fileID: 8300000, guid: da4e7dee081392e449adaf5f853a005d, type: 3}
