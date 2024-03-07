@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e978e7f1e72848778c9d3ac8aa665195, type: 3}
   m_Name: CRTRenderSettings
   m_EditorClassIdentifier: 
-  crtMaterial: {fileID: 2100000, guid: f5330722c9f5b47d4aebefaf84300f5f, type: 2}
+  crtMaterial: {fileID: 2100000, guid: 2653389dfec2ee644a704cb61bb62eb6, type: 2}

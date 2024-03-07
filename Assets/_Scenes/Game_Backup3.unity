@@ -9520,8 +9520,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startConfig: {fileID: 11400000, guid: 6a4cfee667ae5420fbc0ff45d34bb1d5, type: 2}
-  crtRenderSettings: {fileID: 0}
-  _runtimeMaterial: {fileID: 2100000, guid: 2653389dfec2ee644a704cb61bb62eb6, type: 2}
+  crtRenderSettings: {fileID: 11400000, guid: 2d929546960894d169f1999a321e4ff4, type: 2}
+  _runtimeMaterial: {fileID: 0}
   data:
     pixelationAmount: 1
     maxColorChannels:
@@ -55234,8 +55234,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startConfig: {fileID: 11400000, guid: 6a4cfee667ae5420fbc0ff45d34bb1d5, type: 2}
-  crtRenderSettings: {fileID: 0}
-  _runtimeMaterial: {fileID: 2100000, guid: 2653389dfec2ee644a704cb61bb62eb6, type: 2}
+  crtRenderSettings: {fileID: 11400000, guid: 2d929546960894d169f1999a321e4ff4, type: 2}
+  _runtimeMaterial: {fileID: 0}
   data:
     pixelationAmount: 1
     maxColorChannels:
