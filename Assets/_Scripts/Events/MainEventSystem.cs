@@ -453,10 +453,10 @@ public class MainEventSystem : MonoBehaviour
     {
         mangle.ResetTrigger("out");
         mangle.SetTrigger("in");
-        if(OptionsV2.Middlescroll)
-            mangle.gameObject.GetComponent<RectTransform>().anchoredPosition = new Vector2(-260, mangle.gameObject.GetComponent<RectTransform>().anchoredPosition.y);
         if(Player.playAsEnemy)
             mangle.gameObject.GetComponent<RectTransform>().anchoredPosition = new Vector2(-520, mangle.gameObject.GetComponent<RectTransform>().anchoredPosition.y);
+        if(OptionsV2.Middlescroll)
+            mangle.gameObject.GetComponent<RectTransform>().anchoredPosition = new Vector2(-260, mangle.gameObject.GetComponent<RectTransform>().anchoredPosition.y);
         mangleSounds.Play();
     }
     public void DisableMangle()
@@ -513,14 +513,12 @@ public class MainEventSystem : MonoBehaviour
         {
             tabletClick = true;
             tablet.SetTrigger("RestartingSystem");
-
+            tablet.ResetTrigger("OnTable");
             LeanTween.delayedCall(3f, () =>
             {
-                OnTablet();
                 StopCoroutine(ConsequencesRed());
                 StopCoroutine(ConsequencesBLack());
                 StopAllCoroutines();
-                tablet.ResetTrigger("OnTable");
                 blackConsequences.CrossFadeAlpha(0f, 0f, false);
                 redConsequences.CrossFadeAlpha(0f, 0f, false);
                 tabletClick = false;
@@ -529,6 +527,11 @@ public class MainEventSystem : MonoBehaviour
     }
     public void Puppet()
     {
+        if (Player.playAsEnemy)
+        {
+            puppet.SetBool("Left", true);
+        }
+
         if (OptionsV2.Middlescroll)
         {
             puppet.SetBool("Middle", true);
@@ -536,10 +539,6 @@ public class MainEventSystem : MonoBehaviour
         else
         {
             puppet.SetBool("Middle", false);
-        }
-        if (Player.playAsEnemy)
-        {
-            puppet.SetBool("Left", true);
         }
         puppet.SetTrigger("Puppet");
     }
