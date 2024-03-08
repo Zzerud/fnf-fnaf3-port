@@ -940,17 +940,21 @@ public class Song : MonoBehaviour
             
             
         }
-        if (weekMode)
+        if (!ready)
         {
+            if (weekMode)
+            {
                 SceneManager.LoadScene(currentWeek.songs[currentWeekIndex].sceneName,
                 LoadSceneMode.Additive);
-            
+
+            }
+            else
+            {
+                SceneManager.LoadScene(currentSong.sceneName,
+                LoadSceneMode.Additive);
+            }
         }
-        else
-        {
-            SceneManager.LoadScene(currentSong.sceneName,
-            LoadSceneMode.Additive);
-        }
+        
 
 
         if (isDead)
@@ -1020,9 +1024,10 @@ public class Song : MonoBehaviour
 
 
 
-        
-        LoadingTransition.instance.Hide();
-
+        if (!ready)
+            LoadingTransition.instance.Hide();
+        else
+            ready = false;
         
         //DiscordController.instance.EnableGameStateLoop = true;
 
@@ -1404,25 +1409,43 @@ public class Song : MonoBehaviour
 
     public void RestartSong()
     {
+        //SceneManager.UnloadSceneAsync(currentSong.sceneName);
         ContinueSong();
 
+        Time.timeScale = 1;
         subtitleDisplayer.StopSubtitles();
+        SpawnPointManager.timeLastSpawnPoint = 0;
+        SpawnPointManager.timeLastSpawnPointMilliseconds = 0;
+        SpawnPointManager.numberOfCheckpoint = 0;
+
+        
         LoadingTransition.instance.Show(() =>
         {
-            //uiCamera.GetUniversalAdditionalCameraData().SetRenderer(0);
-            //uiCamera.GetUniversalAdditionalCameraData().renderPostProcessing = true;
-            ////DiscordController.instance.EnableGameStateLoop = false;
-            // DiscordController.instance.SetGeneralStatus("Watching a Cutscene");
-#if !IGNORE_VIDEOS
+            Pause.instance.pauseScreen.SetActive(false);
+            Pause.instance.pMain.SetActive(true);
+            Pause.instance.pDiff.SetActive(false);
             VideoPlayerScene.nextScene = "Game_Backup3";
-            VideoPlayerScene.videoToPlay = Application.systemLanguage == SystemLanguage.Russian ? currentWeek.songs[currentWeekIndex].videoRus : currentWeek.songs[currentWeekIndex].videoEng; ;
             SceneManager.LoadScene("Video", LoadSceneMode.Single);
-#else
-                                SceneManager.LoadScene("Game_Backup3");
-#endif
         });
+        //SceneManager.UnloadScene(currentSong.sceneName);
+        SceneManager.sceneLoaded += SceneLoadede;
+        foreach (AudioSource source in musicSources)
+        {
+            source.Stop();
+        }
+        
+        vocalSource.Stop();
         PlaySong(false);
-        Pause.instance.pauseScreen.SetActive(false);
+
+    }
+    private void SceneLoadede(Scene scene, LoadSceneMode mode)
+    {
+        if(scene == SceneManager.GetSceneByName("Video"))
+        {
+            
+
+        }
+
     }
 
     public void QuitSong()
@@ -1452,9 +1475,33 @@ public class Song : MonoBehaviour
         vocalSource.Stop();
         
     }
+    public void ChangeDifficulty(string difficulty)
+    {
+        // If the player sets the difficulty to "Normal" or "Easy", change the difficulty accordingly and reload the scene. If "Back" or other, then disable/enable the difficulty change screen. 
+        //PlayerPrefs.HasKey("difficult")
+        switch (difficulty)
+        {
+            case "normal":
+                PlayerPrefs.SetString("difficult", difficulty);
+                RestartSong();
+                break;
+            case "easy":
+                PlayerPrefs.SetString("difficult", difficulty);
+                RestartSong();
+                break;
+            case "enter":
+                Pause.instance.pMain.SetActive(false);
+                Pause.instance.pDiff.SetActive(true);
+                break;
+            default:
+                Pause.instance.pMain.SetActive(true);
+                Pause.instance.pDiff.SetActive(false);
+                break;
+        }
+    }
 
-#endregion
-#endregion
+    #endregion
+    #endregion
 
     public void QuitGame()
     {

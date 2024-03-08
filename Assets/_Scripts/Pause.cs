@@ -9,6 +9,7 @@ public class Pause : MonoBehaviour
 {
 
     public GameObject pauseScreen;
+    public GameObject pMain, pDiff;
     public bool editingVolume;
     public bool canPause = true;
     
@@ -98,7 +99,7 @@ public class Pause : MonoBehaviour
        
 
         pauseScreen.SetActive(true);
-        AudioListener.pause = true;
+        //AudioListener.pause = true;
     }
 
     public void ContinueSong()
