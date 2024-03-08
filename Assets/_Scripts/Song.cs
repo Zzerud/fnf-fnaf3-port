@@ -23,6 +23,7 @@ using Random = UnityEngine.Random;
 
 public class Song : MonoBehaviour
 {
+    [HideInInspector] public bool isActiveShake;
     public VideoClip clipRetry;
     public VideoPlayer deadPlayer;
     public GameObject rawObj;
@@ -319,7 +320,7 @@ public class Song : MonoBehaviour
         if (instance == null) 
             instance = this;
 
-        
+        isActiveShake = OptionsV2.CameraShake;
 
         
             
@@ -1766,9 +1767,11 @@ public class Song : MonoBehaviour
                         }
 
                         //Movement camera to left position
-                        
-                        CameraMovement.instance.playerOneOffset.x = protagonist.xToLeft;
-                        CameraMovement.instance.playerOneOffset.y = CameraMovement.instance._defaultPositionPlayer1.y;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerOneOffset.x = protagonist.xToLeft;
+                            CameraMovement.instance.playerOneOffset.y = CameraMovement.instance._defaultPositionPlayer1.y;
+                        }
                         
                         break;
                     case 1:
@@ -1804,9 +1807,11 @@ public class Song : MonoBehaviour
                         }
 
                         //Movement camera to down position
-                        
-                        CameraMovement.instance.playerOneOffset.y = protagonist.yToDown;
-                        CameraMovement.instance.playerOneOffset.x = CameraMovement.instance._defaultPositionPlayer1.x;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerOneOffset.y = protagonist.yToDown;
+                            CameraMovement.instance.playerOneOffset.x = CameraMovement.instance._defaultPositionPlayer1.x;
+                        }
 
 
                         break;
@@ -1844,9 +1849,11 @@ public class Song : MonoBehaviour
                         }
 
                         //Movement camera to up position
-                       
-                        CameraMovement.instance.playerOneOffset.y = protagonist.yToUp;
-                        CameraMovement.instance.playerOneOffset.x = CameraMovement.instance._defaultPositionPlayer1.x;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerOneOffset.y = protagonist.yToUp;
+                            CameraMovement.instance.playerOneOffset.x = CameraMovement.instance._defaultPositionPlayer1.x;
+                        }
 
                         break;
                     case 3:
@@ -1882,9 +1889,11 @@ public class Song : MonoBehaviour
                         }
 
                         //Movement camera to right position
-                        
-                        CameraMovement.instance.playerOneOffset.x = protagonist.xToRight;
-                        CameraMovement.instance.playerOneOffset.y = CameraMovement.instance._defaultPositionPlayer1.y;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerOneOffset.x = protagonist.xToRight;
+                            CameraMovement.instance.playerOneOffset.y = CameraMovement.instance._defaultPositionPlayer1.y;
+                        }
 
 
                         break;
@@ -1943,10 +1952,13 @@ public class Song : MonoBehaviour
                                 break;
                         }
 
-
-                        CameraMovement.instance.playerTwoOffset.x = enemy.xToLeft;
-                        CameraMovement.instance.playerTwoOffset.y = CameraMovement.instance._defaultPositionPlayer2.y;
-                        CameraMovement.instance.startBob = true;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerTwoOffset.x = enemy.xToLeft;
+                            CameraMovement.instance.playerTwoOffset.y = CameraMovement.instance._defaultPositionPlayer2.y;
+                        }
+                        if(enemy.isBobingWhileSing)
+                            CameraMovement.instance.startBob = true;
 
                         break;
                     case 1:
@@ -1994,10 +2006,13 @@ public class Song : MonoBehaviour
                                 break;
                         }
 
-
-                        CameraMovement.instance.playerTwoOffset.y = enemy.yToDown;
-                        CameraMovement.instance.playerTwoOffset.x = CameraMovement.instance._defaultPositionPlayer2.x;
-                        CameraMovement.instance.startBob = true;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerTwoOffset.y = enemy.yToDown;
+                            CameraMovement.instance.playerTwoOffset.x = CameraMovement.instance._defaultPositionPlayer2.x;
+                        }
+                        if (enemy.isBobingWhileSing)
+                            CameraMovement.instance.startBob = true;
 
                         break;
                     case 2:
@@ -2045,10 +2060,13 @@ public class Song : MonoBehaviour
                                 break;
                         }
 
-
-                        CameraMovement.instance.playerTwoOffset.y = enemy.yToUp;
-                        CameraMovement.instance.playerTwoOffset.x = CameraMovement.instance._defaultPositionPlayer2.x;
-                        CameraMovement.instance.startBob = true;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerTwoOffset.y = enemy.yToUp;
+                            CameraMovement.instance.playerTwoOffset.x = CameraMovement.instance._defaultPositionPlayer2.x;
+                        }
+                        if (enemy.isBobingWhileSing)
+                            CameraMovement.instance.startBob = true;
 
                         break;
                     case 3:
@@ -2096,9 +2114,13 @@ public class Song : MonoBehaviour
                                 break;
                         }
 
-                        CameraMovement.instance.playerTwoOffset.x = enemy.xToRight;
-                        CameraMovement.instance.playerTwoOffset.y = CameraMovement.instance._defaultPositionPlayer2.y;
-                        CameraMovement.instance.startBob = true;
+                        if (isActiveShake)
+                        {
+                            CameraMovement.instance.playerTwoOffset.x = enemy.xToRight;
+                            CameraMovement.instance.playerTwoOffset.y = CameraMovement.instance._defaultPositionPlayer2.y;
+                        }
+                        if (enemy.isBobingWhileSing)
+                            CameraMovement.instance.startBob = true;
 
 
                         break;

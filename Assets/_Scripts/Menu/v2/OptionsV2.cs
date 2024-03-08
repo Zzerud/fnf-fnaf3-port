@@ -74,6 +74,11 @@ public class OptionsV2 : MonoBehaviour
 
     public static bool Checkpoints { get; set; }
     public Toggle checkpointsToggle;
+    public static bool PostProcessing { get; set; }
+    public Toggle postProcessingToggle;
+    public static bool CameraShake { get; set; }
+    public Toggle cameraShakeToggle;
+
 
     public static bool DesperateMode
     {
@@ -397,7 +402,9 @@ public class OptionsV2 : MonoBehaviour
             enableGhostTapping = GhostTapping,
             enableAutoPlay = AutoPlay,
             enableSplashes = Splashes,
-            enableCheckpoints = Checkpoints
+            enableCheckpoints = Checkpoints,
+            enablePostProcessing = PostProcessing,
+            enableCameraShake = CameraShake
         };
 
         PlayerPrefs.SetString("MiscOptions", JsonConvert.SerializeObject(options));
@@ -418,6 +425,8 @@ public class OptionsV2 : MonoBehaviour
         AutoPlay = options.enableAutoPlay;
         Splashes = options.enableSplashes;
         Checkpoints = options.enableCheckpoints;
+        PostProcessing = options.enablePostProcessing;
+        CameraShake = options.enableCameraShake;
 
         downscrollToggle.SetIsOnWithoutNotify(Downscroll);
         middleScrollToggle.SetIsOnWithoutNotify(Middlescroll);
@@ -429,6 +438,8 @@ public class OptionsV2 : MonoBehaviour
         autoPlayToggle.SetIsOnWithoutNotify(AutoPlay);
         splashesToggle.SetIsOnWithoutNotify(Splashes);
         checkpointsToggle.SetIsOnWithoutNotify(Checkpoints);
+        postProcessingToggle.SetIsOnWithoutNotify(PostProcessing);
+        cameraShakeToggle.SetIsOnWithoutNotify(CameraShake);
 
         if (!PlayerPrefs.HasKey("BtnSize")) PlayerPrefs.SetFloat("BtnSize", 17);
         
@@ -485,4 +496,6 @@ public class MiscOptions
     public bool enableAutoPlay = false;
     public bool enableSplashes = true;
     public bool enableCheckpoints = true;
+    public bool enablePostProcessing = true;
+    public bool enableCameraShake = true;
 }

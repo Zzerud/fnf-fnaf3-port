@@ -44,6 +44,11 @@ public class CameraMovement : MonoBehaviour
         _camera = GetComponent<Camera>();
         _defaultPos = _camera.transform.position;
         _defaultSize = _camera.orthographicSize;
+        if (!OptionsV2.PostProcessing)
+        {
+            volume.enabled = false;
+            gameObject.GetComponent<PostProcessLayer>().enabled = false;
+        }
     }
 
     // Update is called once per frame
@@ -68,7 +73,7 @@ public class CameraMovement : MonoBehaviour
             float distance = Vector3.Distance(_camera.transform.position, newOffset);
             if(distance > 0.00001f && startBob)
             {
-                if (Song.instance.enemy.isBobingWhileSing)
+                if (Song.instance.enemy.isBobingWhileSing && Song.instance.isActiveShake)
                 {
                     CameraShake.instance.StartShake(0.05f, 0.04f);
                 }
