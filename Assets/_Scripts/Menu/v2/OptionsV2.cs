@@ -78,6 +78,8 @@ public class OptionsV2 : MonoBehaviour
     public Toggle postProcessingToggle;
     public static bool CameraShake { get; set; }
     public Toggle cameraShakeToggle;
+    public static bool DebugMenu { get; set; }
+    public Toggle debugMenuToggle;
 
 
     public static bool DesperateMode
@@ -113,7 +115,7 @@ public class OptionsV2 : MonoBehaviour
         LoadVolumeProperties();
         HookVolumeCallbacks();
         if (!PlayerPrefs.HasKey("BtnAlpha")) PlayerPrefs.SetFloat("BtnAlpha", 45);
-        if (!PlayerPrefs.HasKey("HitAlpha")) PlayerPrefs.SetFloat("HitAlpha", 20);
+        if (!PlayerPrefs.HasKey("HitAlpha")) PlayerPrefs.SetFloat("HitAlpha", 5);
         if (!PlayerPrefs.HasKey("Death")) PlayerPrefs.SetFloat("Death", 0);
         instance = this;
     }
@@ -404,7 +406,8 @@ public class OptionsV2 : MonoBehaviour
             enableSplashes = Splashes,
             enableCheckpoints = Checkpoints,
             enablePostProcessing = PostProcessing,
-            enableCameraShake = CameraShake
+            enableCameraShake = CameraShake,
+            enableDebugMenu = DebugMenu
         };
 
         PlayerPrefs.SetString("MiscOptions", JsonConvert.SerializeObject(options));
@@ -427,6 +430,7 @@ public class OptionsV2 : MonoBehaviour
         Checkpoints = options.enableCheckpoints;
         PostProcessing = options.enablePostProcessing;
         CameraShake = options.enableCameraShake;
+        DebugMenu = options.enableDebugMenu;
 
         downscrollToggle.SetIsOnWithoutNotify(Downscroll);
         middleScrollToggle.SetIsOnWithoutNotify(Middlescroll);
@@ -440,6 +444,7 @@ public class OptionsV2 : MonoBehaviour
         checkpointsToggle.SetIsOnWithoutNotify(Checkpoints);
         postProcessingToggle.SetIsOnWithoutNotify(PostProcessing);
         cameraShakeToggle.SetIsOnWithoutNotify(CameraShake);
+        debugMenuToggle.SetIsOnWithoutNotify(DebugMenu);
 
         if (!PlayerPrefs.HasKey("BtnSize")) PlayerPrefs.SetFloat("BtnSize", 17);
         
@@ -498,4 +503,5 @@ public class MiscOptions
     public bool enableCheckpoints = true;
     public bool enablePostProcessing = true;
     public bool enableCameraShake = true;
+    public bool enableDebugMenu = false;
 }

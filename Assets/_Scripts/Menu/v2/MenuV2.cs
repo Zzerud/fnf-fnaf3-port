@@ -16,6 +16,7 @@ using Debug = UnityEngine.Debug;
 
 public class MenuV2 : MonoBehaviour
 {
+    public GameObject debug;
     public GameObject weekContinue;
     public TMP_Text weekContinueText;
     public Week weekName;
@@ -544,8 +545,10 @@ public class MenuV2 : MonoBehaviour
         //_menuStopwatch.Start();
 
         //DiscordController.instance.SetMenuState("Idle");
+        Debug.Log(OptionsV2.DebugMenu);
+       
 
-        
+
     }
     public void GetData()
     {
@@ -703,5 +706,6 @@ public class MenuV2 : MonoBehaviour
                 }/
             }
         }*/
+        debug.SetActive(OptionsV2.DebugMenu);
     }
 }
