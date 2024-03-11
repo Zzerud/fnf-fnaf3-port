@@ -214,12 +214,40 @@ public class CalibrationManager : MonoBehaviour
             
             for (var index = 0; index < Player.primaryKeyCodes.Count; index++)
             {
+
                 KeyCode key = Player.primaryKeyCodes[index];
+                ControllManager.Key keys = index switch
+                {
+                    0 => ControllManager.Key.left,
+                    1 => ControllManager.Key.down,
+                    2 => ControllManager.Key.up,
+                    _ => ControllManager.Key.right
+                };
+
                 CalibrationNote note = dummyNote;
-                if(notes[index].Count != 0)
+                if (notes[index].Count != 0)
                 {
                     note = notes[index][0];
                 }
+#if MOBILE_DEBUG || !UNITY_EDITOR
+                if (ControllManager.GetKeyDown(keys))
+                {
+                    if (CanHitNote(note))
+                    {
+                        NoteHit(index);
+                    }
+                    else
+                    {
+                        AnimateNote(1, index, "Pressed");
+                    }
+                }
+
+                if (ControllManager.GetKeyUp(keys))
+                {
+                    AnimateNote(1, index, "Normal");
+                }
+#else
+
 
                 if (Input.GetKeyDown(key))
                 {
@@ -237,7 +265,10 @@ public class CalibrationManager : MonoBehaviour
                 {
                     AnimateNote(1, index, "Normal");
                 }
+#endif
             }
+
+
             for (var index = 0; index < Player.secondaryKeyCodes.Count; index++)
             {
                 KeyCode key = Player.secondaryKeyCodes[index];

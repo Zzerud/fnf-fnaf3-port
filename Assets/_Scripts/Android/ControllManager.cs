@@ -11,6 +11,7 @@ public class ControllManager : MonoBehaviour
     public ButtonArrow upArrow;
     public ButtonArrow downArrow;
     public bool isBTN;
+    public bool isCalibration = false;
     public static ControllManager Instance { get; private set; }
     private void Awake()
     {
@@ -22,19 +23,23 @@ public class ControllManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        if (isBTN)
+        if (!isCalibration)
         {
-            leftArrow.GetComponent<Image>().color = new Color(ColorPicker.left.r, ColorPicker.left.g, ColorPicker.left.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
-            rightArrow.GetComponent<Image>().color = new Color(ColorPicker.right.r, ColorPicker.right.g, ColorPicker.right.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
-            upArrow.GetComponent<Image>().color = new Color(ColorPicker.up.r, ColorPicker.up.g, ColorPicker.up.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
-            downArrow.GetComponent<Image>().color = new Color(ColorPicker.down.r, ColorPicker.down.g, ColorPicker.down.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
-        }
-        else
-        {
-            leftArrow.GetComponent<Image>().color = new Color(ColorPicker.left.r, ColorPicker.left.g, ColorPicker.left.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
-            rightArrow.GetComponent<Image>().color = new Color(ColorPicker.right.r, ColorPicker.right.g, ColorPicker.right.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
-            upArrow.GetComponent<Image>().color = new Color(ColorPicker.up.r, ColorPicker.up.g, ColorPicker.up.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
-            downArrow.GetComponent<Image>().color = new Color(ColorPicker.down.r, ColorPicker.down.g, ColorPicker.down.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
+
+            if (isBTN)
+            {
+                leftArrow.GetComponent<Image>().color = new Color(ColorPicker.left.r, ColorPicker.left.g, ColorPicker.left.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
+                rightArrow.GetComponent<Image>().color = new Color(ColorPicker.right.r, ColorPicker.right.g, ColorPicker.right.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
+                upArrow.GetComponent<Image>().color = new Color(ColorPicker.up.r, ColorPicker.up.g, ColorPicker.up.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
+                downArrow.GetComponent<Image>().color = new Color(ColorPicker.down.r, ColorPicker.down.g, ColorPicker.down.b, PlayerPrefs.GetFloat("BtnAlpha") / 100f);
+            }
+            else
+            {
+                leftArrow.GetComponent<Image>().color = new Color(ColorPicker.left.r, ColorPicker.left.g, ColorPicker.left.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
+                rightArrow.GetComponent<Image>().color = new Color(ColorPicker.right.r, ColorPicker.right.g, ColorPicker.right.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
+                upArrow.GetComponent<Image>().color = new Color(ColorPicker.up.r, ColorPicker.up.g, ColorPicker.up.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
+                downArrow.GetComponent<Image>().color = new Color(ColorPicker.down.r, ColorPicker.down.g, ColorPicker.down.b, (PlayerPrefs.GetFloat("HitAlpha") / 100));
+            }
         }
         
     }
