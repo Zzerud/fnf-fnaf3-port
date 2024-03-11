@@ -2725,7 +2725,7 @@ public class Song : MonoBehaviour
                 {
                     if (currentEvent >= 0 && currentEvent < _song.Events.Length)
                     {
-                        if (musicSources[0].time * 1000 >= (float)_song.Events[currentEvent].Time)
+                        if (musicSources[0].time * 1000 - Player.visualOffset >= (float)_song.Events[currentEvent].Time)
                         {
                             
                             if (isTwoParametres)
