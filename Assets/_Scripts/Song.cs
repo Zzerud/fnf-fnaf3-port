@@ -49,6 +49,7 @@ public class Song : MonoBehaviour
     bool songstrat = false;
     public bool isMenu = false;
     public GameObject mobileHit, mobileBut;
+    public GameObject mobileHitFull, mobileButFull;
     bool ready = false;
 
     #region Variables
@@ -1035,18 +1036,16 @@ public class Song : MonoBehaviour
 
         if (!Player.demoMode)
         {
-
-            if (PlayerPrefs.GetInt("Toggle") == 1)
+            if(PlayerPrefs.GetInt("isFullResolution") == 1)
             {
-                mobileBut.SetActive(true);
-                mobileHit.SetActive(false);
+                mobileBut.SetActive(PlayerPrefs.GetInt("Toggle") == 1 ? true : false);
+                mobileHitFull.SetActive(PlayerPrefs.GetInt("Toggle") == 1 ? false : true);
             }
             else
             {
-                mobileHit.SetActive(true);
-                mobileBut.SetActive(false);
+                mobileBut.SetActive(PlayerPrefs.GetInt("Toggle") == 1 ? true : false);
+                mobileHit.SetActive(PlayerPrefs.GetInt("Toggle") == 1 ? false : true);
             }
-
         }
         startSongTooltip.SetActive(false);
         /*

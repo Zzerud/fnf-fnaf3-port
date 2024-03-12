@@ -8,9 +8,14 @@ using UnityEngine.SceneManagement;
 public class ControllManagerCheck : MonoBehaviour
 {
     ToggleGroup toggleGroupInstance;
-    public Toggle hit;
+    public ToggleGroup toggleGroupInstanceResolution;
+    public Toggle hit, hit2;
     public Toggle cureentSelection {
-        get { return toggleGroupInstance.ActiveToggles().FirstOrDefault(); } 
+        get { return toggleGroupInstance.ActiveToggles().FirstOrDefault(); }
+    }
+    public Toggle cureentSelection2
+    {
+        get { return toggleGroupInstanceResolution.ActiveToggles().FirstOrDefault(); }
     }
     private void Start()
     {
@@ -23,7 +28,8 @@ public class ControllManagerCheck : MonoBehaviour
         {
             SelectToggle(0);
         }
-            Debug.Log("First Selected" + PlayerPrefs.GetInt("Toggle"));
+        SelectToggleResolution(PlayerPrefs.GetInt("isFullResolution"));
+        Debug.Log("First Selected" + PlayerPrefs.GetInt("Toggle"));
     }
     public void Check()
     {
@@ -37,6 +43,25 @@ public class ControllManagerCheck : MonoBehaviour
 
         }
         Debug.Log(PlayerPrefs.GetInt("Toggle") + "dd");
+    }
+    public void Check2()
+    {
+        if (hit2.isOn)
+        {
+            PlayerPrefs.SetInt("isFullResolution", 0);
+        }
+        else
+        {
+            PlayerPrefs.SetInt("isFullResolution", 1);
+
+        }
+        Debug.Log(PlayerPrefs.GetInt("isFullResolution") + "dd");
+    }
+    public void SelectToggleResolution(int id)
+    {
+        var toggles = toggleGroupInstanceResolution.GetComponentsInChildren<Toggle>();
+
+        toggles[id].isOn = true;
     }
     public void SelectToggle(int id)
     {
