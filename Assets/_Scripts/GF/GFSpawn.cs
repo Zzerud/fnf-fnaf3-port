@@ -101,14 +101,14 @@ public class GFSpawn : MonoBehaviour
         if (isEnabledAnim)
         {
             bool t = false;
-            if (Song.currentWeek)
+           /* if (Song.currentWeek)
             {
                     t = Song.currentWeek.songs[Song.currentWeekIndex].isGfEnabled;
             }
             if (Song.currentSong.isGfEnabled || t)
             {
                 gf.SetActive(true);
-            }
+            }*/
         }
     }
     private void Update()

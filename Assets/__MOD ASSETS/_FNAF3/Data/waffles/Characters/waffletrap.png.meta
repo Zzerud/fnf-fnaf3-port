@@ -95,7 +95,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: 52
     textureCompression: 1
@@ -276,7 +276,7 @@ TextureImporter:
         x: 0
         y: 4783
         width: 786
-        height: 583
+        height: 582
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,7 +507,7 @@ TextureImporter:
         x: 3144
         y: 4082
         width: 786
-        height: 629
+        height: 625
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,7 +528,7 @@ TextureImporter:
         x: 3930
         y: 4070
         width: 786
-        height: 641
+        height: 639
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,7 +696,7 @@ TextureImporter:
         x: 4844
         y: 3489
         width: 855
-        height: 571
+        height: 563
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,7 +717,7 @@ TextureImporter:
         x: 0
         y: 2831
         width: 849
-        height: 572
+        height: 562
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -738,7 +738,7 @@ TextureImporter:
         x: 849
         y: 2829
         width: 839
-        height: 574
+        height: 564
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,7 +759,7 @@ TextureImporter:
         x: 1688
         y: 2826
         width: 825
-        height: 577
+        height: 572
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1011,7 +1011,7 @@ TextureImporter:
         x: 0
         y: 1486
         width: 786
-        height: 616
+        height: 613
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1221,7 +1221,7 @@ TextureImporter:
         x: 2357
         y: 873
         width: 786
-        height: 566
+        height: 563
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1242,7 +1242,7 @@ TextureImporter:
         x: 3143
         y: 865
         width: 786
-        height: 574
+        height: 568
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1305,7 +1305,7 @@ TextureImporter:
         x: 0
         y: 203
         width: 786
-        height: 601
+        height: 598
       alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

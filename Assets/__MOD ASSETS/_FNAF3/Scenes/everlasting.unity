@@ -396,8 +396,6 @@ MonoBehaviour:
   dad: {fileID: 260861133}
   dadAnim: {fileID: 260861132}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!95 &260861132
 Animator:
   serializedVersion: 5
@@ -1326,8 +1324,6 @@ MonoBehaviour:
   dad: {fileID: 961554138}
   dadAnim: {fileID: 961554137}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!1 &1004250210
 GameObject:
   m_ObjectHideFlags: 0
@@ -2135,8 +2131,6 @@ MonoBehaviour:
   dad: {fileID: 1211346516}
   dadAnim: {fileID: 1211346515}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!95 &1211346515
 Animator:
   serializedVersion: 5
@@ -2344,8 +2338,6 @@ MonoBehaviour:
   dad: {fileID: 1289611536}
   dadAnim: {fileID: 1289611535}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!95 &1289611535
 Animator:
   serializedVersion: 5
@@ -3328,8 +3320,6 @@ MonoBehaviour:
   dad: {fileID: 1743508406}
   dadAnim: {fileID: 1743508405}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!95 &1743508405
 Animator:
   serializedVersion: 5
@@ -3627,8 +3617,6 @@ MonoBehaviour:
   dad: {fileID: 1977865050}
   dadAnim: {fileID: 1977865049}
   isDev: 1
-  dead: {fileID: 0}
-  _defPos: {fileID: 0}
 --- !u!95 &1977865049
 Animator:
   serializedVersion: 5

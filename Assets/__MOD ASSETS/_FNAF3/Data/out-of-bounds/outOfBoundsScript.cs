@@ -10,6 +10,8 @@ using System;
 using UnityEngine.Windows;
 using System.Threading.Tasks;
 using BrewedInk.CRT;
+using UnityEngine.Rendering;
+
 #if UNITY_EDITOR
 using Unity.EditorCoroutines.Editor;
 #endif
@@ -37,6 +39,20 @@ public class outOfBoundsScript : MonoBehaviour
 
     private void Start()
     {
+
+        if (!OptionsV2.PostProcessing)
+        {
+            CameraMovement.instance.volume.enabled = false;
+            CameraMovement.instance.gameObject.GetComponent<PostProcessLayer>().enabled = false;
+            GamePlayCamera.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = false;
+            CameraMovement.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = false;
+        }
+        else
+        {
+            GamePlayCamera.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
+            CameraMovement.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
+        }
+
         blackAndWhite.SetActive(true);
 
         scene1.SetActive(true);
@@ -62,8 +78,8 @@ public class outOfBoundsScript : MonoBehaviour
         CameraMovement.instance.enabled = false;
         Song.instance.mainCamera.transform.position = new Vector3(-5.57999992f, 3.55999994f, -13.1999998f);
         Song.instance.defaultGameZoom = 5;
-        GamePlayCamera.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
-        CameraMovement.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
+
+        LoadingTransition.instance.Hide();
 
         MainEventSystem.instance.statics.SetActive(true);
         MainEventSystem.instance.staticss.CrossFadeAlpha(0, 0, false);
@@ -144,8 +160,11 @@ public class outOfBoundsScript : MonoBehaviour
         GamePlayCamera.instance.cam.enabled = true;
         CameraMovement.instance.enableMovement = true;
         CameraMovement.instance.enabled = true;
-        GamePlayCamera.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
-        CameraMovement.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = false;
+        if (OptionsV2.PostProcessing)
+        {
+            GamePlayCamera.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = true;
+            CameraMovement.instance.gameObject.GetComponent<CRTCameraBehaviour>().enabled = false;
+        }
         scene1.SetActive(false);
         scene2.SetActive(true);
         DadBackup.instance.dad.enabled = true;

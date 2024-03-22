@@ -449,6 +449,9 @@ public class MainEventSystem : MonoBehaviour
     bool tabletClick = false;
     public Animator puppet;
     public GameObject fireMaterial;
+
+    public bool isPressedMangle = false;
+    public bool isRepairSystems = false;
     public void Mangle()
     {
         mangle.ResetTrigger("out");
@@ -462,6 +465,7 @@ public class MainEventSystem : MonoBehaviour
     public void DisableMangle()
     {
         mangle.SetTrigger("out");
+        isPressedMangle = true;
         mangleSounds.Stop();
     }
     public void JumpScare(string name)
@@ -519,6 +523,8 @@ public class MainEventSystem : MonoBehaviour
                 StopCoroutine(ConsequencesRed());
                 StopCoroutine(ConsequencesBLack());
                 StopAllCoroutines();
+                StopAllCoroutines();
+                isRepairSystems = true;
                 blackConsequences.CrossFadeAlpha(0f, 0f, false);
                 redConsequences.CrossFadeAlpha(0f, 0f, false);
                 tabletClick = false;

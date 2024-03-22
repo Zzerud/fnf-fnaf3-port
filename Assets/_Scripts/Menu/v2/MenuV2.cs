@@ -118,145 +118,6 @@ public class MenuV2 : MonoBehaviour
         Offset
     }
 
-    public void ReloadSongList()
-    {
-        selectSongScreen.SetActive(true);
-        songInfoScreen.SetActive(false);
-        
-        if (songListRect.childCount != 0)
-        {
-            foreach (RectTransform child in songListRect)
-            {
-                Destroy(child.gameObject);
-            }
-        }
-        
-        if (!Directory.Exists(_songsFolder))
-        {
-            Directory.CreateDirectory(_songsFolder);
-        }
-
-        
-
-        SearchOption option = SearchOption.TopDirectoryOnly;
-
-        List<string> allDirectories = new List<string>();
-        allDirectories.AddRange(Directory.GetDirectories(_songsFolder, "*", option));
-        
-       // allDirectories.AddRange(GameModLoader.bundleModDirectories.Keys);
-        
-        foreach (string dir in allDirectories)
-        {
-            if (File.Exists(dir + "/bundle-meta.json"))
-            {
-                BundleMeta bundleMeta =
-                    JsonConvert.DeserializeObject<BundleMeta>(File.ReadAllText(dir + "/bundle-meta.json"));
-
-                if (bundleMeta == null)
-                {
-                    Debug.LogError("Error whilst trying to read JSON file! " + dir + "/bundle-meta.json");
-                    break;
-                }
-
-                BundleButtonV2 newWeek = Instantiate(bundleButtonPrefab, songListRect).GetComponent<BundleButtonV2>();
-
-                newWeek.Creator = bundleMeta.authorName;
-                newWeek.Name = bundleMeta.bundleName;
-                newWeek.directory = dir;
-               // newWeek.isMod = GameModLoader.bundleModDirectories.Keys.Contains(dir);
-                newWeek.SongButtons = new List<SongButtonV2>();
-                print("Searching in " + dir);
-
-                List<SongButtonV2> songButtons = new List<SongButtonV2>();
-
-                foreach (string songDir in Directory.GetDirectories(dir, "*", option))
-                {
-                    print("We got " + songDir);
-                    if (File.Exists(songDir + "/meta.json") & File.Exists(songDir + "/Inst.ogg"))
-                    {
-                        SongMetaV2 meta = JsonConvert.DeserializeObject<SongMetaV2>(File.ReadAllText(songDir + "/meta.json"));
-
-                        if (meta == null)
-                        {
-                            Debug.LogError("Error whilst trying to read JSON file! " + songDir + "/meta.json");
-                            break;
-                        }
-
-                        meta.bundleMeta = bundleMeta;
-                        meta.isFromModPlatform = newWeek.isMod;
-                        if (meta.isFromModPlatform)
-                        {
-                           // meta.modURL = GameModLoader.bundleModDirectories[dir];
-                        }
-                        
-                        SongButtonV2 newSong = Instantiate(songButtonPrefab,songListRect).GetComponent<SongButtonV2>();
-                        
-                        newSong.Meta = meta;
-                        newSong.Meta.songPath = songDir;
-                
-                        string coverDir = songDir + "/Cover.png";
-                
-                        if (File.Exists(coverDir))
-                        {
-                            byte[] coverData = File.ReadAllBytes(coverDir);
-
-                            Texture2D coverTexture2D = new Texture2D(512,512);
-                            coverTexture2D.LoadImage(coverData);
-
-                            newSong.CoverArtSprite = Sprite.Create(coverTexture2D,
-                                new Rect(0, 0, coverTexture2D.width, coverTexture2D.height), new Vector2(0, 0), 100);
-                            newSong.Meta.songCover = newSong.CoverArtSprite;
-
-                        }
-                        else
-                        {
-                            newSong.CoverArtSprite = defaultCoverSprite;
-                            newSong.Meta.songCover = defaultCoverSprite;
-                        }
-
-                        newWeek.SongButtons.Add(newSong);
-
-                        newSong.gameObject.SetActive(false);
-                        
-                        
-
-                        newSong.GetComponent<Button>().onClick.AddListener(() =>
-                        {
-                            ChangeSong(newSong.Meta);
-
-                            lastSelectedBundle = GetBundleIndex(newWeek);
-                            lastSelectedSong = bundles[newWeek].IndexOf(newSong);
-                        });
-
-                        songButtons.Add(newSong);
-                    }
-                    else
-                    {
-                        Debug.LogError("Failed to find required files in " + songDir);
-                    }
-                }
-
-                newWeek.UpdateCount();
-                bundles.Add(newWeek, songButtons);
-            }
-            
-            
-        }
-
-        if (startPhase == StartPhase.SongList)
-        {
-            startPhase = StartPhase.Nothing;
-
-
-            BundleButtonV2 bundleButton = bundles.Keys.ElementAt(lastSelectedBundle);
-            bundleButton.ToggleSongsVisibility();
-
-            musicSource.volume = OptionsV2.menuVolume;
-            
-            ChangeSong(bundles[bundleButton][lastSelectedSong].Meta);
-            
-        }
-    }
 
     public void UpdateScoreText()
     {
@@ -504,51 +365,9 @@ public class MenuV2 : MonoBehaviour
     public void InitializeMenu()
     {
         if (Instance==null) Instance = this;
-        //LeanTween.reset();
-        //LeanTween.init(99999);
-        //_menuStopwatch = new Stopwatch();
-
-        /*switch (startPhase)
-        {
-            case StartPhase.Nothing:
-                
-                break;
-            case StartPhase.SongList:
-                canChangeSongs = true;
-
-                mainScreen.gameObject.SetActive(false);
-                playScreen.gameObject.SetActive(true);
-
-                playScreen.LeanMoveY(0, 0f);
-
-                ReloadSongList();
-                break;
-            
-            case StartPhase.Offset:
-                mainScreen.gameObject.SetActive(false);
-                optionsScreen.gameObject.SetActive(true);
-
-                optionsScreen.LeanMoveY(0, 0f).setOnComplete(() =>
-                {
-                    OptionsV2.instance.LoadNotePrefs();
-                    LoadingTransition.instance.Hide();
-                });
-                break;
-        }*/
-        /*musicSource.clip = menuClip;
-        musicSource.volume = OptionsV2.menuVolume;*/
-        //musicSource.clip = menuClip;
         musicSource.volume = OptionsV2.menuVolume;
         musicSource.loop = true;
-        //s.Play("menu");
         musicSource.Play();
-        //_menuStopwatch.Start();
-
-        //DiscordController.instance.SetMenuState("Idle");
-        Debug.Log(OptionsV2.DebugMenu);
-       
-
-
     }
     public void GetData()
     {
@@ -687,25 +506,6 @@ public class MenuV2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*if (_menuStopwatch.IsRunning)
-        {
-            if (_menuStopwatch.ElapsedMilliseconds / 1000f >= 60f / 104f)
-            {
-                _menuStopwatch.Restart();
-
-                _beatCounter++;
-                
-                /*if(_beatCounter % 2 == 0)
-                {
-
-                    heckerAnimator.Play("Dancin Hecker", 0, 0);
-                    heckerAnimator.speed = 0;
-
-                    heckerAnimator.Play("Dancin Hecker");
-                    heckerAnimator.speed = 1;
-                }/
-            }
-        }*/
         debug.SetActive(OptionsV2.DebugMenu);
     }
 }

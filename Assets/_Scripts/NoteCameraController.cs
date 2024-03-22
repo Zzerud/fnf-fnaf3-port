@@ -9,6 +9,10 @@ public class NoteCameraController : MonoBehaviour
     private void Start()
     {
         instance = this;        
+        if (OptionsV2.Downscroll)
+        {
+            noteCamera.transform.position = new Vector3(0, 7, -10);
+        }
     }
     public void OnCameraOpen()
     {

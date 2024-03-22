@@ -3080,10 +3080,40 @@ public class Song : MonoBehaviour
             }
 
             
+            
 
+            if (!Player.playAsEnemy)
+            {
+                if (accuracyBf <= 20)
+                {
+                    GetAchievment.instance.GetAchiv(3);
+                }
+                else if (accuracyBf >= 90)
+                {
+                    GetAchievment.instance.GetAchiv(4);
+                }
+
+                if (currentSong.songName == "fear-forever" && !MainEventSystem.instance.isPressedMangle)
+                {
+                    GetAchievment.instance.GetAchiv(9);
+                }
+
+                if((currentSong.songName == "fear-forever" || currentSong.songName == "everlasting") && !MainEventSystem.instance.isRepairSystems)
+                {
+                    GetAchievment.instance.GetAchiv(8);
+                }
+
+                if (currentSong.songName == "fear-forever" && !MainEventSystem.instance.isPressedMangle && !MainEventSystem.instance.isRepairSystems)
+                {
+                    GetAchievment.instance.GetAchiv(10);
+                }
+            }
+            
 
             if (weekMode & !_quitting)
             {
+                if(!Player.playAsEnemy)
+                    PlayerPrefs.SetFloat("MainWeek" + currentWeekIndex, accuracyBf);
                 currentWeekIndex++;
                 if (currentWeekIndex <= currentWeek.songs.Length - 1)
                 {
@@ -3108,6 +3138,19 @@ public class Song : MonoBehaviour
             }
             else
             {
+                if (!Player.playAsEnemy)
+                {
+                    if (currentSong.songName == "until-next-time")
+                    {
+                        GetAchievment.instance.GetAchiv(7);
+                    }
+                    else if (currentSong.songName == "out-of-bounds")
+                    {
+                        GetAchievment.instance.GetAchiv(6);
+                    }
+                }
+                
+
                 Debug.LogWarning("DoneEnd");
                 //SceneManager.LoadScene("Title");
                 LoadingTransition.instance.Show(() =>
@@ -3463,6 +3506,20 @@ public class Song : MonoBehaviour
     public VideoClip lastVidEng;
     private IEnumerator LastVideo()
     {
+        GetAchievment.instance.GetAchiv(2);
+        if (!Player.playAsEnemy)
+        {
+            float totalAccuracy = 0;
+            for (int i = 0; i < currentWeekIndex; i++)
+            {
+                totalAccuracy += PlayerPrefs.GetFloat("MainWeek" + i);       
+            }
+            totalAccuracy = totalAccuracy / (currentWeekIndex - 1);
+
+            if(totalAccuracy >= 60)
+                GetAchievment.instance.GetAchiv(5);
+
+        }
         LoadingTransition.instance.Show(() =>
         {
             VideoPlayerScene.nextScene = "Title";
