@@ -3475,6 +3475,7 @@ public class Song : MonoBehaviour
             });
             yield return new WaitForSeconds(0.5f);
             VideoPlayerScene.videoToPlay = Application.systemLanguage == SystemLanguage.Russian ? currentWeek.songs[currentWeekIndex].videoRus : currentWeek.songs[currentWeekIndex].videoEng;
+            //VideoPlayerScene.videoPlay = Song.currentWeek.songs[Song.currentWeekIndex].videoPath;
             SceneManager.LoadScene("Video", LoadSceneMode.Single);
 
         }
@@ -3504,6 +3505,7 @@ public class Song : MonoBehaviour
 
 
     public VideoClip lastVidEng;
+    public string lastVidName;
     private IEnumerator LastVideo()
     {
         GetAchievment.instance.GetAchiv(2);
@@ -3527,6 +3529,7 @@ public class Song : MonoBehaviour
         });
         yield return new WaitForSeconds(0.5f);
         VideoPlayerScene.videoToPlay = Application.systemLanguage == SystemLanguage.Russian ? lastVidEng : lastVidEng;
+        //VideoPlayerScene.videoPlay = lastVidName;
         SceneManager.LoadScene("Video", LoadSceneMode.Single);
     }
 

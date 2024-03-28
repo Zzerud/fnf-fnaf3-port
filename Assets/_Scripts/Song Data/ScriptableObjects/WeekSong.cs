@@ -15,6 +15,7 @@ public class WeekSong : ScriptableObject
 
     [Space] public VideoClip videoRus;
     [Space] public VideoClip videoEng;
+    [Space] public string videoPath;
     public bool isGfEnabled = false;
     public bool isNonsensicaAnimations = false;
     public bool isCustomIcons = false;

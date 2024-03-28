@@ -21579,6 +21579,7 @@ MonoBehaviour:
   accuracyDad: 0
   currentEvent: 0
   lastVidEng: {fileID: 32900000, guid: 3b2871fb58cc4e246b69cb11a55d03a6, type: 3}
+  lastVidName: Cutscene5
 --- !u!114 &578016969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21675,6 +21676,8 @@ MonoBehaviour:
   tabletObj: {fileID: 1816908097}
   puppet: {fileID: 2098191490}
   fireMaterial: {fileID: 1718276503}
+  isPressedMangle: 0
+  isRepairSystems: 0
 --- !u!114 &578016976
 MonoBehaviour:
   m_ObjectHideFlags: 0

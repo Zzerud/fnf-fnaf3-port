@@ -20,6 +20,7 @@ MonoBehaviour:
   vocals: {fileID: 8300000, guid: 18971695e0383564ead069ba4cadff0c, type: 3}
   videoRus: {fileID: 32900000, guid: 29f2d3fbc11697848976eef0dbdc2c27, type: 3}
   videoEng: {fileID: 32900000, guid: 29f2d3fbc11697848976eef0dbdc2c27, type: 3}
+  videoPath: CutScene1
   isGfEnabled: 0
   isNonsensicaAnimations: 0
   isCustomIcons: 0

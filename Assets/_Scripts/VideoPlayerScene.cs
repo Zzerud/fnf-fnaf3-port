@@ -19,8 +19,18 @@ public class VideoPlayerScene : MonoBehaviour
     public GameObject skipObj;
     public bool isSkip = false;
     [Space] public string defaultVideo;
+
+
+    public string urlToVideo = "";
+    public static string videoPlay = "";
+
+
     // Start is called before the first frame update
-    void Start()
+    private void Start()
+    {
+        StartCoroutine(PlayVid());
+    }
+    IEnumerator PlayVid()
     {
         Debug.Log("Scene Loaded");
         videoPlayer.prepareCompleted += PrepareCompleted;
@@ -36,13 +46,35 @@ public class VideoPlayerScene : MonoBehaviour
             videoPlayer.EnableAudioTrack(0, true);
             videoPlayer.Prepare();
             Debug.Log("Video is running!");
-
+            yield return null;
         }
         else
         {
             Debug.Log("Scene Scip");
             StartCoroutine(EndVideo());
         }
+        /*if(videoPlay != "")
+        {
+#if !UNITY_EDITOR
+            urlToVideo = "jar:file://" + Application.dataPath + "!/assets/" + videoPlay + ".mp4";
+
+            using (var www = new WWW(urlToVideo))
+            {
+                yield return www;
+                videoPlayer.url = urlToVideo;
+                videoPlayer.Prepare();
+            }
+#elif UNITY_EDITOR
+            urlToVideo = Path.Combine(Application.streamingAssetsPath, videoPlay + ".mp4");
+            videoPlayer.url = urlToVideo;
+            videoPlayer.Prepare();
+            yield return null;
+#endif
+        }
+        else
+        {
+            StartCoroutine(EndVideo());
+        }*/
     }
 
     private void PrepareCompleted(VideoPlayer source)
@@ -59,7 +91,7 @@ public class VideoPlayerScene : MonoBehaviour
 
     IEnumerator EndVideo()
     {
-        yield return new WaitForSecondsRealtime(2);
+        //yield return new WaitForSecondsRealtime(2);
         videoPlayer.Play();
         yield return new WaitForSecondsRealtime(0);
         skipObj.SetActive(true);
@@ -69,14 +101,8 @@ public class VideoPlayerScene : MonoBehaviour
         skipText.gameObject.SetActive(false);
         LoadingTransition.instance.Show(() => {
             SceneManager.LoadScene(nextScene);
-            //InterstitialAdShows.RequestInterstitial();
         });
         
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

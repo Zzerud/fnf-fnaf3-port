@@ -324,6 +324,7 @@ public class MenuV2 : MonoBehaviour
 
             VideoPlayerScene.nextScene = "Game_Backup3";
             VideoPlayerScene.videoToPlay = Application.systemLanguage == SystemLanguage.Russian ? Song.currentWeek.songs[Song.currentWeekIndex].videoRus : Song.currentWeek.songs[Song.currentWeekIndex].videoEng;
+            //VideoPlayerScene.videoPlay = Song.currentWeek.songs[Song.currentWeekIndex].videoPath;
             yield return new WaitForSeconds(0.5f);
             
             SceneManager.LoadScene("Video", LoadSceneMode.Single);

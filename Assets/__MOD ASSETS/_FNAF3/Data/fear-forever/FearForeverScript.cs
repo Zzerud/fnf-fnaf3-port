@@ -227,6 +227,8 @@ public class FearForeverScript : MonoBehaviour
     {
         bb2.SetActive(false);
         mangle.SetActive(true);
+        MainEventSystem.instance.mangle.SetTrigger("out");
+        MainEventSystem.instance.mangleSounds.Stop();
         MainEventSystem.instance.PlayCutSceneEnemy("bbHere");
         MainEventSystem.instance.ChangeCharacterPlayer("bfmangle");
         MainEventSystem.instance.ChangeCharacterEnemyWithoutFlash("mangle");
