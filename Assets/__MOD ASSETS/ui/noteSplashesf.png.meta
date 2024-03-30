@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: efa7fdce37be70043bf98f695864d7bd
+guid: 46f003a4de35f1b4c93c5d35fcc7c93d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -73,8 +73,8 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -94,20 +94,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 52
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Server
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -136,64 +136,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle0000
+      name: _variant1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 928
-        width: 825
-        height: 825
-      alignment: 6
+        x: 862
+        y: 543
+        width: 196
+        height: 188
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e07e327629ff16d0800000000000000
-      internalID: -3017419281794174750
+      spriteID: 1eb3b7abec70afb4682994f0da0f45c9
+      internalID: 969976800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle0001
+      name: _variant2
       rect:
         serializedVersion: 2
-        x: 826
-        y: 928
-        width: 825
-        height: 825
-      alignment: 6
+        x: 1061
+        y: 512
+        width: 222
+        height: 219
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 05af8a22efe57ac20800000000000000
-      internalID: 3217644904375712336
+      spriteID: f92e831a07f4a1148bdf345ae39ef68f
+      internalID: 955963149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle0002
+      name: _variant3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 102
-        width: 825
-        height: 825
-      alignment: 6
+        x: 1286
+        y: 436
+        width: 286
+        height: 295
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6de539f853d587e50800000000000000
-      internalID: 6807293321393954518
+      spriteID: 0635aa13d29cc654a842ead309d41ff3
+      internalID: 275856663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _variant4
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 426
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b486d126c4053b4ab67c8224b200dd4
+      internalID: 786306741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 203
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea1524786d99942b4a241a5d658197
+      internalID: 1117513337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 162
+        width: 237
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff96016519769043a89d2df102b4014
+      internalID: 1121029169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 89
+        width: 300
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde2f34d04b9c14cbb5451f7f2e2413
+      internalID: -1938700721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cool4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 80
+        width: 318
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f641cf769418aae409d9c13bef95cae9
+      internalID: 2041830068
       vertices: []
       indices: 
       edges: []
@@ -209,9 +314,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idle0000: -3017419281794174750
-      idle0001: 3217644904375712336
-      idle0002: 6807293321393954518
+      _variant1: 969976800
+      _variant2: 955963149
+      _variant3: 275856663
+      _variant4: 786306741
+      cool1: 1117513337
+      cool2: 1121029169
+      cool3: -1938700721
+      cool4: 2041830068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -48,22 +48,21 @@ public class FearForeverScript : MonoBehaviour
     }
     private void Update()
     {
-        dad.transform.position = DadBackup.instance.dadTransform.position;
-        float s = DadBackup.instance.dadTransform.transform.localScale.x;
-        dad.transform.DOScale(s, 0);
+        /*float s = DadBackup.instance.dadTransform.transform.localScale.x;
+        dad.transform.DOScale(s, 0);*/
     }
     IEnumerator MoveToTarget()
     {
-        Vector3 startPosition = transform.position;
+        Vector3 startPosition = l.transform.position;
         float elapsed = 0.0f;
-
+        
         while (elapsed < duration)
         {
             elapsed += Time.deltaTime;
             float t = elapsed / duration;
 
             DadBackup.instance.dadTransform.position = Vector3.Lerp(startPosition, targetPosition, t);
-            l.position = Vector3.Lerp(startPosition, targetPosition, t);
+            DadBG.instance.transform.position = Vector3.Lerp(startPosition, targetPosition, t);
 
             yield return null;
         }
@@ -109,6 +108,11 @@ public class FearForeverScript : MonoBehaviour
 
         }
     }
+    public void FreddyFall()
+    {
+        DadBG.instance.dadAnim.enabled = true;
+        MainEventSystem.instance.PlayCutSceneEnemy("fall");
+    }
     public void Mangle()
     {
         MainEventSystem.instance.Mangle();
@@ -119,6 +123,7 @@ public class FearForeverScript : MonoBehaviour
     }
     public void TableEvent()
     {
+        StopAllCoroutines();
         MainEventSystem.instance.ChangeCharacterPlayer("bfscared");
         MainEventSystem.instance.ChangeCharacterEnemyWithoutFlash("phfreddy2");
         MainEventSystem.instance.OnTablet();

@@ -1306,7 +1306,7 @@ MonoBehaviour:
   blackFlash: {fileID: 1604112876}
   whiteFlash: {fileID: 1625556675}
   duration: 45
-  targetPosition: {x: -8.96, y: 0.43, z: 0}
+  targetPosition: {x: -8.96, y: -0.3, z: 0}
   l: {fileID: 961554139}
   sub:
   - textEng: I can't recall the moment...
@@ -2912,7 +2912,7 @@ SpriteRenderer:
   m_SortingLayerID: 1441061245
   m_SortingLayer: 1
   m_SortingOrder: 2
-  m_Sprite: {fileID: 8741263175134913425, guid: 96ee8f45ae04e814aa4f87dd5a2e466c,
+  m_Sprite: {fileID: 8613902012868112571, guid: 96ee8f45ae04e814aa4f87dd5a2e466c,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2933,8 +2933,8 @@ Transform:
   m_GameObject: {fileID: 941568649}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.26, y: 3.56, z: 0}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_LocalPosition: {x: 0.39, y: 2.4, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -2966,7 +2966,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961554136}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 86302dafad7fe004dae08a4696bfcd1a, type: 2}
   m_CullingMode: 0
@@ -3041,7 +3041,7 @@ Transform:
   m_GameObject: {fileID: 961554136}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.95, y: 1.21, z: 0}
+  m_LocalPosition: {x: 3.5, y: -0.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3061,7 +3061,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dad: {fileID: 961554138}
   dadAnim: {fileID: 961554137}
-  isDev: 1
+  isDev: 0
 --- !u!1 &1029466508
 GameObject:
   m_ObjectHideFlags: 0
@@ -3453,7 +3453,7 @@ Camera:
   far clip plane: 983.88
   field of view: 11.279642
   orthographic: 1
-  orthographic size: 4.5
+  orthographic size: 3
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3478,7 +3478,7 @@ Transform:
   m_GameObject: {fileID: 1092533986}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8, y: 2.5, z: -13.2}
+  m_LocalPosition: {x: -1.3, y: 6.09, z: -13.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

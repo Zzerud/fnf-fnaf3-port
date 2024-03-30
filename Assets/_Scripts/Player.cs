@@ -13,6 +13,7 @@ public class Player : MonoBehaviour
     public static List<KeyCode> primaryKeyCodes = new List<KeyCode> {KeyCode.LeftArrow, KeyCode.DownArrow, KeyCode.UpArrow, KeyCode.RightArrow};
 
     public static List<KeyCode> secondaryKeyCodes = new List<KeyCode> {KeyCode.A, KeyCode.S, KeyCode.W, KeyCode.D};
+    public static List<KeyCode> secondary2KeyCodes = new List<KeyCode> {KeyCode.F, KeyCode.G, KeyCode.J, KeyCode.K};
 
     public static KeyCode pauseKey = KeyCode.Return;
     public static KeyCode resetKey = KeyCode.R;
@@ -131,43 +132,42 @@ public class Player : MonoBehaviour
                     note = playerOneNotes[index][0];
                 }
 
-
-#if MOBILE_DEBUG || !UNITY_EDITOR
+                #region Mobile Controls
                 if (ControllManager.GetKey(keys))
+                {
+                    if (note != null)
                     {
-                        if (note != null)
+                        if (note.susNote && !note.dummyNote)
                         {
-                            if (note.susNote && !note.dummyNote)
+                            if (note.strumTime + visualOffset <= song.stopwatch.ElapsedMilliseconds)
                             {
-                                if (note.strumTime + visualOffset <= song.stopwatch.ElapsedMilliseconds)
-                                {
-                                    song.NoteHit(note);
-                                }
+                                song.NoteHit(note);
                             }
                         }
                     }
+                }
+                if (ControllManager.GetKeyDown(keys))
+                {
+                    if (CanHitNote(note))
+                    {
+                        song.NoteHit(note);
+                    }
+                    else
+                    {
+                        song.AnimateNote(1, index, "Pressed");
+                        if (!OptionsV2.GhostTapping)
+                        {
+                            song.NoteMiss(note);
+                        }
+                    }
+                }
+                if (ControllManager.GetKeyUp(keys))
+                {
+                    song.AnimateNote(1, index, "Normal");
+                }
+                #endregion
 
-                    if (ControllManager.GetKeyDown(keys))
-                    {
-                        if (CanHitNote(note))
-                        {
-                            song.NoteHit(note);
-                        }
-                        else
-                        {
-                            song.AnimateNote(1, index, "Pressed");
-                            if (!OptionsV2.GhostTapping)
-                            {
-                                song.NoteMiss(note);
-                            }
-                        }
-                    }
-                    
-                    if (ControllManager.GetKeyUp(keys))
-                    {
-                        song.AnimateNote(1, index, "Normal");
-                    }                
-#else
+                #region Pc Controls
                 if (Input.GetKey(key))
                 {
                     if (note != null)
@@ -196,12 +196,11 @@ public class Player : MonoBehaviour
                         }
                     }
                 }
-
                 if (Input.GetKeyUp(key))
                 {
                     song.AnimateNote(1, index, "Normal");
                 }
-#endif
+                #endregion
             }
         }
 
@@ -320,42 +319,42 @@ public class Player : MonoBehaviour
                     if(playerTwoNotes[index].Count != 0)
                         note = playerTwoNotes[index][0];
 
-#if MOBILE_DEBUG || !UNITY_EDITOR
+                    #region Mobile Controls
                     if (ControllManager.GetKey(keys))
+                    {
+                        if (note != null)
                         {
-                            if (note != null)
+                            if (note.susNote && !note.dummyNote)
                             {
-                                if (note.susNote && !note.dummyNote)
+                                if (note.strumTime + visualOffset <= song.stopwatch.ElapsedMilliseconds)
                                 {
-                                    if (note.strumTime + visualOffset <= song.stopwatch.ElapsedMilliseconds)
-                                    {
-                                        song.NoteHit(note);
-                                    }
+                                    song.NoteHit(note);
                                 }
                             }
                         }
-
-                        if (ControllManager.GetKeyDown(keys))
+                    }
+                    if (ControllManager.GetKeyDown(keys))
+                    {
+                        if (CanHitNote(note))
                         {
-                            if (CanHitNote(note))
+                            song.NoteHit(note);
+                        }
+                        else
+                        {
+                            song.AnimateNote(2, index, "Pressed");
+                            if (!OptionsV2.GhostTapping)
                             {
-                                song.NoteHit(note);
-                            }
-                            else
-                            {
-                                song.AnimateNote(2, index, "Pressed");
-                                if (!OptionsV2.GhostTapping)
-                                {
-                                    song.NoteMiss(note);
-                                }
+                                song.NoteMiss(note);
                             }
                         }
+                    }
+                    if (ControllManager.GetKeyUp(keys))
+                    {
+                        song.AnimateNote(2, index, "Normal");
+                    }
+                    #endregion
 
-                        if (ControllManager.GetKeyUp(keys))
-                        {
-                            song.AnimateNote(2, index, "Normal");
-                        }
-#else
+                    #region Pc Controls
                     if (Input.GetKey(key))
                     {
                         if (note != null)
@@ -369,7 +368,6 @@ public class Player : MonoBehaviour
                             }
                         }
                     }
-
                     if (Input.GetKeyDown(key))
                     {
                         if (CanHitNote(note))
@@ -385,12 +383,11 @@ public class Player : MonoBehaviour
                             }
                         }
                     }
-
                     if (Input.GetKeyUp(key))
                     {
                         song.AnimateNote(2, index, "Normal");
                     }
-#endif
+                    #endregion
 
 
 
@@ -404,11 +401,12 @@ public class Player : MonoBehaviour
             for (var index = 0; index < secondaryKeyCodes.Count; index++)
             {
                 KeyCode key = secondaryKeyCodes[index];
+                KeyCode key2 = secondary2KeyCodes[index];
                 NoteObject note = player1DummyNotes[index];
                 if(playerOneNotes[index].Count != 0)
                     note = playerOneNotes[index][0];
 
-                if (Input.GetKey(key))
+                if (Input.GetKey(key) || Input.GetKey(key2))
                 {
                     if (note != null)
                     {
@@ -422,7 +420,7 @@ public class Player : MonoBehaviour
                     }
                 }
 
-                if (Input.GetKeyDown(key))
+                if (Input.GetKeyDown(key) || Input.GetKeyDown(key2))
                 {
                     if (CanHitNote(note))
                     {
@@ -438,7 +436,7 @@ public class Player : MonoBehaviour
                     }
                 }
 
-                if (Input.GetKeyUp(key))
+                if (Input.GetKeyUp(key) || Input.GetKeyUp(key2))
                 {
                     song.AnimateNote(1, index, "Normal");
                 }
