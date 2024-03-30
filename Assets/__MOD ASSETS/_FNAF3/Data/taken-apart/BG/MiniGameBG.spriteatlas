@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiniGameBG
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+    - {fileID: 2800000, guid: 402a1b4fe40fd9a4c9db7668e10d0f59, type: 3}
+    - {fileID: 2800000, guid: 6f4fafcb2bf51974698a25ece5014dae, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6638c432f637be042afc991d25aaeca6: -5279759429536173179
+    - 6638c432f637be042afc991d25aaeca6: 5406566906972530312
+    - 6638c432f637be042afc991d25aaeca6: -625540330012168723
+    - 6638c432f637be042afc991d25aaeca6: 619490141485126539
+    - 6638c432f637be042afc991d25aaeca6: 3915747984269948961
+    - 6638c432f637be042afc991d25aaeca6: 5245786525186169809
+    - 6638c432f637be042afc991d25aaeca6: 2005098560852998680
+    - 6638c432f637be042afc991d25aaeca6: 8575813441750942055
+    - 6638c432f637be042afc991d25aaeca6: -6759096324594356408
+    - 6638c432f637be042afc991d25aaeca6: -4348815039681986955
+    - 6638c432f637be042afc991d25aaeca6: 3217644904375712336
+    - 6638c432f637be042afc991d25aaeca6: -3017419281794174750
+    - 6638c432f637be042afc991d25aaeca6: 4901205273184605283
+    - 6638c432f637be042afc991d25aaeca6: 6807293321393954518
+    - 6638c432f637be042afc991d25aaeca6: -2847304628930026544
+    - 6638c432f637be042afc991d25aaeca6: 987604584135355787
+    - 6638c432f637be042afc991d25aaeca6: -3927145778121247477
+    - 6638c432f637be042afc991d25aaeca6: 5937333991934511538
+    - 6638c432f637be042afc991d25aaeca6: 8140600576991875299
+    - 6638c432f637be042afc991d25aaeca6: -6368946527799150040
+    - 6638c432f637be042afc991d25aaeca6: 1805068759961035111
+    - 6638c432f637be042afc991d25aaeca6: -5359122390278429541
+    - 6638c432f637be042afc991d25aaeca6: -493477001518198444
+    - 6638c432f637be042afc991d25aaeca6: -8241747009942688959
+    - 6638c432f637be042afc991d25aaeca6: 8311588623896146631
+    - 6638c432f637be042afc991d25aaeca6: -4761148656338492246
+    - 6638c432f637be042afc991d25aaeca6: 8295693809899816380
+    - 6638c432f637be042afc991d25aaeca6: 6392286952734070705
+    - 6638c432f637be042afc991d25aaeca6: 5690401257536018324
+    - 6638c432f637be042afc991d25aaeca6: 8436909963288274867
+    - 6f4fafcb2bf51974698a25ece5014dae: 21300000
+    - 402a1b4fe40fd9a4c9db7668e10d0f59: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5279759429536173179, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 5406566906972530312, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -625540330012168723, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 619490141485126539, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 3915747984269948961, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 5245786525186169809, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 2005098560852998680, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 8575813441750942055, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -6759096324594356408, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -4348815039681986955, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 3217644904375712336, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -3017419281794174750, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 4901205273184605283, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 6807293321393954518, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -2847304628930026544, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 987604584135355787, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -3927145778121247477, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 5937333991934511538, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 8140600576991875299, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -6368946527799150040, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 1805068759961035111, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -5359122390278429541, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -493477001518198444, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -8241747009942688959, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 8311588623896146631, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: -4761148656338492246, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 8295693809899816380, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 6392286952734070705, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 5690401257536018324, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 8436909963288274867, guid: 6638c432f637be042afc991d25aaeca6, type: 3}
+  - {fileID: 21300000, guid: 6f4fafcb2bf51974698a25ece5014dae, type: 3}
+  - {fileID: 21300000, guid: 402a1b4fe40fd9a4c9db7668e10d0f59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - idle0029
+  - idle0028
+  - idle0023
+  - idle0022
+  - idle0021
+  - idle0020
+  - idle0027
+  - idle0026
+  - idle0025
+  - idle0024
+  - idle0001
+  - idle0000
+  - idle0003
+  - idle0002
+  - idle0005
+  - idle0004
+  - idle0007
+  - idle0006
+  - idle0009
+  - idle0008
+  - idle0018
+  - idle0019
+  - idle0016
+  - idle0017
+  - idle0014
+  - idle0015
+  - idle0012
+  - idle0013
+  - idle0010
+  - idle0011
+  - blueglow
+  - arcadeffect
+  m_RenderDataMap: {}
+  m_Tag: MiniGameBG
+  m_IsVariant: 0
